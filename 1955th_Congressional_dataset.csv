@@ -1,0 +1,542 @@
+Chamber,State,First_Name,Middle_Name,Last_Name,Suffix,Party,Congressional_Year
+Senate,Alabama,John,J.,Sparkman,,D,1955
+Senate,Alabama,J.,Lister,Hill,,D,1955
+Senate,Arizona,Barry,,Goldwater,,R,1955
+Senate,Arizona,Carl,,Hayden,,D,1955
+Senate,Arkansas,John,L.,McClellan,,D,1955
+Senate,Arkansas,J.,William,Fulbright,,D,1955
+Senate,California,William,,Knowland,,R,1955
+Senate,California,Thomas,,Kuchel,,R,1955
+Senate,Colorado,Gordon,,Allott,,R,1955
+Senate,Colorado,Eugene,,Millikin,,R,1955
+Senate,Connecticut,William,A.,Purtell,,R,1955
+Senate,Connecticut,Prescott,,Bush,,R,1955
+Senate,Delaware,John,J.,Williams,,R,1955
+Senate,Delaware,J.,Allen,Frear,Jr.,D,1955
+Senate,Florida,Spessard,,Holland,,D,1955
+Senate,Florida,George,,Smathers,,D,1955
+Senate,Georgia,Richard,,Russell,Jr.,D,1955
+Senate,Georgia,Walter,F.,George,,D,1955
+Senate,Idaho,Henry,,Dworshak,,R,1955
+Senate,Idaho,Herman,,Welker,,R,1955
+Senate,Illinois,Paul,,Douglas,,D,1955
+Senate,Illinois,Everett,M.,Dirksen,,R,1955
+Senate,Indiana,William,E.,Jenner,,R,1955
+Senate,Indiana,Homer,E.,Capehart,,R,1955
+Senate,Iowa,Thomas,E.,Martin,,R,1955
+Senate,Iowa,Bourke,B.,Hickenlooper,,R,1955
+Senate,Kansas,Andrew,Frank,Schoeppel,,R,1955
+Senate,Kansas,Frank,,Carlson,,R,1955
+Senate,Kentucky,Alben,,Barkley,,D,1955
+Senate,Kentucky,Robert,,Humphreys,,D,1955
+Senate,Kentucky,John,Sherman,Cooper,,R,1955
+Senate,Kentucky,Earle,,Clements,,D,1955
+Senate,Louisiana,Allen,J.,Ellender,,D,1955
+Senate,Louisiana,Russell,B.,Long,,D,1955
+Senate,Maine,Frederick,G.,Payne,,R,1955
+Senate,Maine,Margaret,Chase,Smith,,R,1955
+Senate,Maryland,James,Glenn,Beall,,R,1955
+Senate,Maryland,John,Marshall,Butler,,R,1955
+Senate,Massachusetts,John,F.,Kennedy,,D,1955
+Senate,Massachusetts,Leverett,,Saltonstall,,R,1955
+Senate,Michigan,Charles,E.,Potter,,R,1955
+Senate,Michigan,Patrick,V.,McNamara,,D,1955
+Senate,Minnesota,Edward,John,Thye,,R,1955
+Senate,Minnesota,Hubert,,Humphrey,,DFL,1955
+Senate,Mississippi,John,C.,Stennis,,D,1955
+Senate,Mississippi,James,,Eastland,,D,1955
+Senate,Missouri,Stuart,,Symington,,D,1955
+Senate,Missouri,Thomas,C.,Hennings,Jr.,D,1955
+Senate,Montana,Mike,,Mansfield,,D,1955
+Senate,Montana,James,E.,Murray,,D,1955
+Senate,Nebraska,Roman,,Hruska,,R,1955
+Senate,Nebraska,Carl,,Curtis,,R,1955
+Senate,Nevada,George,W.,Malone,,R,1955
+Senate,Nevada,Alan,,Bible,,D,1955
+Senate,New Hampshire,Styles,,Bridges,,R,1955
+Senate,New Hampshire,Norris,,Cotton,,R,1955
+Senate,New Jersey,Howard,Alexander,Smith,,R,1955
+Senate,New Jersey,Clifford,P.,Case,,R,1955
+Senate,New Mexico,Dennis,,Chávez,,D,1955
+Senate,New Mexico,Clinton,P.,Anderson,,D,1955
+Senate,New York,Irving,,Ives,,R,1955
+Senate,New York,Herbert,H.,Lehman,,D,1955
+Senate,North Carolina,W.,Kerr,Scott,,D,1955
+Senate,North Carolina,Sam,,Ervin,,D,1955
+Senate,North Dakota,William,,Langer,,R-NPL,1955
+Senate,North Dakota,Milton,,Young,,R,1955
+Senate,Ohio,John,W.,Bricker,,R,1955
+Senate,Ohio,George,H.,Bender,,R,1955
+Senate,Oklahoma,Robert,S.,Kerr,,D,1955
+Senate,Oklahoma,Mike,,Monroney,,D,1955
+Senate,Oregon,Richard,L.,Neuberger,,D,1955
+Senate,Oregon,Wayne,,Morse,,I,1955
+Senate,Pennsylvania,Edward,,Martin,,R,1955
+Senate,Pennsylvania,James,H.,Duff,,R,1955
+Senate,Rhode Island,John,,Pastore,,D,1955
+Senate,Rhode Island,Theodore,F.,Green,,D,1955
+Senate,South Carolina,Strom,,Thurmond,,D,1955
+Senate,South Carolina,Thomas,A.,Wofford,,D,1955
+Senate,South Carolina,Strom,,Thurmond,,D,1955
+Senate,South Carolina,Olin,D.,Johnston,,D,1955
+Senate,South Dakota,Karl,E.,Mundt,,R,1955
+Senate,South Dakota,Francis,H.,Case,,R,1955
+Senate,Tennessee,Albert,,Gore,Sr.,D,1955
+Senate,Tennessee,Estes,,Kefauver,,D,1955
+Senate,Texas,Price,,Daniel,,D,1955
+Senate,Texas,Lyndon,B.,Johnson,,D,1955
+Senate,Utah,Arthur,Vivian,Watkins,,R,1955
+Senate,Utah,Wallace,F.,Bennett,,R,1955
+Senate,Vermont,Ralph,,Flanders,,R,1955
+Senate,Vermont,George,,Aiken,,R,1955
+Senate,Virginia,Harry,F.,Byrd,,D,1955
+Senate,Virginia,Absalom,Willis,Robertson,,D,1955
+Senate,Washington,Henry,M.,Jackson,,D,1955
+Senate,Washington,Warren,,Magnuson,,D,1955
+Senate,West Virginia,Harley,M.,Kilgore,,D,1955
+Senate,West Virginia,William,,Laird,III,D,1955
+Senate,West Virginia,Chapman,,Revercomb,,R,1955
+Senate,West Virginia,Matthew,M.,Neely,,D,1955
+Senate,Wisconsin,Joseph,,McCarthy,,R,1955
+Senate,Wisconsin,Alexander,,Wiley,,R,1955
+Senate,Wyoming,Frank,A.,Barrett,,R,1955
+Senate,Wyoming,Joseph,C.,O'Mahoney,,D,1955
+House,Alabama,Frank,W.,Boykin,,D,1955
+House,Alabama,George,M.,Grant,,D,1955
+House,Alabama,George,W.,Andrews,,D,1955
+House,Alabama,Kenneth,A.,Roberts,,D,1955
+House,Alabama,Albert,,Rains,,D,1955
+House,Alabama,Armistead,I.,Selden,Jr.,D,1955
+House,Alabama,Carl,,Elliott,,D,1955
+House,Alabama,Robert,E.,Jones,Jr.,D,1955
+House,Alabama,George,,Huddleston,Jr.,D,1955
+House,Arizona,John,Jacob,Rhodes,,R,1955
+House,Arizona,Stewart,,Udall,,D,1955
+House,Arkansas,Ezekiel,C.,Gathings,,D,1955
+House,Arkansas,Wilbur,,Mills,,D,1955
+House,Arkansas,James,William,Trimble,,D,1955
+House,Arkansas,Oren,,Harris,,D,1955
+House,Arkansas,Brooks,,Hays,,D,1955
+House,Arkansas,William,F.,Norrell,,D,1955
+House,California,Hubert,B.,Scudder,,R,1955
+House,California,Clair,,Engle,,D,1955
+House,California,John,E.,Moss,,D,1955
+House,California,William,S.,Mailliard,,R,1955
+House,California,John,F.,Shelley,,D,1955
+House,California,John,F.,Baldwin,Jr.,R,1955
+House,California,John,J.,Allen,Jr.,R,1955
+House,California,George,P.,Miller,,D,1955
+House,California,J.,Arthur,Younger,,R,1955
+House,California,Charles,,Gubser,,R,1955
+House,California,J.,Leroy,Johnson,,R,1955
+House,California,B.,F.,Sisk,,D,1955
+House,California,Charles,M.,Teague,,R,1955
+House,California,Harlan,,Hagen,,D,1955
+House,California,Gordon,L.,McDonough,,R,1955
+House,California,Donald,L.,Jackson,,R,1955
+House,California,Cecil,R.,King,,D,1955
+House,California,Craig,,Hosmer,,R,1955
+House,California,Chester,E.,Holifield,,D,1955
+House,California,John,Carl,Hinshaw,,R,1955
+House,California,Edgar,W.,Hiestand,,R,1955
+House,California,Joseph,F.,Holt,,R,1955
+House,California,Clyde,,Doyle,,D,1955
+House,California,Glenard,P.,Lipscomb,,R,1955
+House,California,Patrick,J.,Hillings,,R,1955
+House,California,James,,Roosevelt,,D,1955
+House,California,Harry,R.,Sheppard,,D,1955
+House,California,James,B.,Utt,,R,1955
+House,California,John,R.,Phillips,,R,1955
+House,California,Bob,,Wilson,,R,1955
+House,Colorado,Byron,G.,Rogers,,D,1955
+House,Colorado,William,S.,Hill,,R,1955
+House,Colorado,John,,Chenoweth,,R,1955
+House,Colorado,Wayne,N.,Aspinall,,D,1955
+House,Connecticut,Thomas,J.,Dodd,,D,1955
+House,Connecticut,Horace,,Seely-Brown,Jr.,R,1955
+House,Connecticut,Albert,W.,Cretella,,R,1955
+House,Connecticut,Albert,P.,Morano,,R,1955
+House,Connecticut,James,T.,Patterson,,R,1955
+House,Connecticut,Antoni,,Sadlak,,R,1955
+House,Delaware,Harris,,McDowell,,D,1955
+House,Florida,William,C.,Cramer,,R,1955
+House,Florida,Charles,E.,Bennett,,D,1955
+House,Florida,Robert,L. F.,Sikes,,D,1955
+House,Florida,Dante,,Fascell,,D,1955
+House,Florida,Syd,,Herlong,,D,1955
+House,Florida,Paul,,Rogers,,D,1955
+House,Florida,James,A.,Haley,,D,1955
+House,Florida,Donald,Ray,Matthews,,D,1955
+House,Georgia,Prince,Hulon,Preston,Jr.,D,1955
+House,Georgia,J.,L.,Pilcher,,D,1955
+House,Georgia,Tic,,Forrester,,D,1955
+House,Georgia,John,,Flynt,,D,1955
+House,Georgia,James,C.,Davis,,D,1955
+House,Georgia,Carl,,Vinson,,D,1955
+House,Georgia,Henderson,Lovelace,Lanham,,D,1955
+House,Georgia,Iris,Faircloth,Blitch,,D,1955
+House,Georgia,Phillip,M.,Landrum,,D,1955
+House,Georgia,Paul,,Brown,,D,1955
+House,Idaho,Gracie,,Pfost,,D,1955
+House,Idaho,Hamer,H.,Budge,,R,1955
+House,Illinois,William,L.,Dawson,,D,1955
+House,Illinois,Barratt,,O'Hara,,D,1955
+House,Illinois,James,C.,Murray,,D,1955
+House,Illinois,William,E.,McVey,,R,1955
+House,Illinois,John,C.,Kluczynski,,D,1955
+House,Illinois,Thomas,J.,O'Brien,,D,1955
+House,Illinois,James,,Bowler,,D,1955
+House,Illinois,Thomas,S.,Gordon,,D,1955
+House,Illinois,Sidney,R.,Yates,,D,1955
+House,Illinois,Richard,W.,Hoffman,,R,1955
+House,Illinois,Timothy,P.,Sheehan,,R,1955
+House,Illinois,Charles,A.,Boyle,,D,1955
+House,Illinois,Marguerite,S.,Church,,R,1955
+House,Illinois,Chauncey,W.,Reed,,R,1955
+House,Illinois,Noah,M.,Mason,,R,1955
+House,Illinois,Leo,E.,Allen,,R,1955
+House,Illinois,Leslie,C.,Arends,,R,1955
+House,Illinois,Harold,H.,Velde,,R,1955
+House,Illinois,Robert,B.,Chiperfield,,R,1955
+House,Illinois,Sid,,Simpson,,R,1955
+House,Illinois,Peter,F.,Mack,Jr.,D,1955
+House,Illinois,William,L.,Springer,,R,1955
+House,Illinois,Charles,W.,Vursell,,R,1955
+House,Illinois,Melvin,,Price,,D,1955
+House,Illinois,Kenneth,J.,Gray,,D,1955
+House,Indiana,Ray,,Madden,,D,1955
+House,Indiana,Charles,A.,Halleck,,R,1955
+House,Indiana,Shepard,J.,Crumpacker,Jr.,R,1955
+House,Indiana,E.,Ross,Adair,,R,1955
+House,Indiana,John,V.,Beamer,,R,1955
+House,Indiana,Cecil,M.,Harden,,R,1955
+House,Indiana,William,G.,Bray,,R,1955
+House,Indiana,Winfield,K.,Denton,,D,1955
+House,Indiana,Earl,,Wilson,,R,1955
+House,Indiana,Ralph,,Harvey,,R,1955
+House,Indiana,Charles,B.,Brownson,,R,1955
+House,Iowa,Fred,,Schwengel,,R,1955
+House,Iowa,Henry,O.,Talle,,R,1955
+House,Iowa,H.,R.,Gross,,R,1955
+House,Iowa,Karl,M.,LeCompte,,R,1955
+House,Iowa,Paul,H.,Cunningham,,R,1955
+House,Iowa,James,I.,Dolliver,,R,1955
+House,Iowa,Ben,F.,Jensen,,R,1955
+House,Iowa,Charles,B.,Hoeven,,R,1955
+House,Kansas,William,H.,Avery,,R,1955
+House,Kansas,Errett,P.,Scrivner,,R,1955
+House,Kansas,Myron,V.,George,,R,1955
+House,Kansas,Edward,Herbert,Rees,,R,1955
+House,Kansas,Clifford,R.,Hope,,R,1955
+House,Kansas,Wint,,Smith,,R,1955
+House,Kentucky,Noble,J.,Gregory,,D,1955
+House,Kentucky,William,,Natcher,,D,1955
+House,Kentucky,John,M.,Robsion,Jr.,R,1955
+House,Kentucky,Frank,,Chelf,,D,1955
+House,Kentucky,Brent,,Spence,,D,1955
+House,Kentucky,John,C.,Watts,,D,1955
+House,Kentucky,Carl,D.,Perkins,,D,1955
+House,Kentucky,Eugene,,Siler,,R,1955
+House,Louisiana,F.,Edward,Hébert,,D,1955
+House,Louisiana,Hale,,Boggs,,D,1955
+House,Louisiana,Edwin,E.,Willis,,D,1955
+House,Louisiana,Overton,,Brooks,,D,1955
+House,Louisiana,Otto,,Passman,,D,1955
+House,Louisiana,James,H.,Morrison,,D,1955
+House,Louisiana,T.,Ashton,Thompson,,D,1955
+House,Louisiana,George,S.,Long,,D,1955
+House,Maine,Robert,,Hale,,R,1955
+House,Maine,Charles,P.,Nelson,,R,1955
+House,Maine,Clifford,,McIntire,,R,1955
+House,Maryland,Edward,Tylor,Miller,,R,1955
+House,Maryland,James,,Devereux,,R,1955
+House,Maryland,Edward,,Garmatz,,D,1955
+House,Maryland,George,Hyde,Fallon,,D,1955
+House,Maryland,Richard,,Lankford,,D,1955
+House,Maryland,DeWitt,,Hyde,,R,1955
+House,Maryland,Samuel,,Friedel,,D,1955
+House,Massachusetts,John,W.,Heselton,,R,1955
+House,Massachusetts,Edward,,Boland,,D,1955
+House,Massachusetts,Philip,J.,Philbin,,D,1955
+House,Massachusetts,Harold,,Donohue,,D,1955
+House,Massachusetts,Edith,Nourse,Rogers,,R,1955
+House,Massachusetts,William,H.,Bates,,R,1955
+House,Massachusetts,Thomas,J.,Lane,,D,1955
+House,Massachusetts,Torbert,,Macdonald,,D,1955
+House,Massachusetts,Donald,W.,Nicholson,,R,1955
+House,Massachusetts,Laurence,,Curtis,,R,1955
+House,Massachusetts,Tip,,O'Neill,,D,1955
+House,Massachusetts,John,W.,McCormack,,D,1955
+House,Massachusetts,Richard,B.,Wigglesworth,,R,1955
+House,Massachusetts,Joseph,W.,Martin,Jr.,R,1955
+House,Michigan,Thaddeus,M.,Machrowicz,,D,1955
+House,Michigan,George,,Meader,,R,1955
+House,Michigan,August,E.,Johansen,,R,1955
+House,Michigan,Clare,,Hoffman,,R,1955
+House,Michigan,Gerald,,Ford,,R,1955
+House,Michigan,Donald,,Hayworth,,D,1955
+House,Michigan,Jesse,P.,Wolcott,,R,1955
+House,Michigan,Alvin,Morell,Bentley,,R,1955
+House,Michigan,Ruth,,Thompson,,R,1955
+House,Michigan,Elford,Albin,Cederberg,,R,1955
+House,Michigan,Victor,A.,Knox,,R,1955
+House,Michigan,John,B.,Bennett,,R,1955
+House,Michigan,Charles,,Diggs,,D,1955
+House,Michigan,Louis,C.,Rabaut,,D,1955
+House,Michigan,John,D.,Dingell,Sr.,D,1955
+House,Michigan,John,D.,Dingell,Jr.,D,1955
+House,Michigan,John,,Lesinski,Jr.,D,1955
+House,Michigan,Martha,,Griffiths,,D,1955
+House,Michigan,George,A.,Dondero,,R,1955
+House,Minnesota,August,H.,Andresen,,R,1955
+House,Minnesota,Joseph,P.,O'Hara,,R,1955
+House,Minnesota,Roy,,Wier,,DFL,1955
+House,Minnesota,Eugene,,McCarthy,,DFL,1955
+House,Minnesota,Walter,,Judd,,R,1955
+House,Minnesota,Fred,,Marshall,,DFL,1955
+House,Minnesota,Herman,Carl,Andersen,,R,1955
+House,Minnesota,John,,Blatnik,,DFL,1955
+House,Minnesota,Coya,,Knutson,,DFL,1955
+House,Mississippi,Thomas,,Abernethy,,D,1955
+House,Mississippi,Jamie,L.,Whitten,,D,1955
+House,Mississippi,Frank,Ellis,Smith,,D,1955
+House,Mississippi,John,Bell,Williams,,D,1955
+House,Mississippi,W.,Arthur,Winstead,,D,1955
+House,Mississippi,William,M.,Colmer,,D,1955
+House,Missouri,Frank,M.,Karsten,,D,1955
+House,Missouri,Thomas,B.,Curtis,,R,1955
+House,Missouri,Leonor,,Sullivan,,D,1955
+House,Missouri,George,H.,Christopher,,D,1955
+House,Missouri,Richard,Walker,Bolling,,D,1955
+House,Missouri,William,Raleigh,Hull,Jr.,D,1955
+House,Missouri,Dewey,,Short,,R,1955
+House,Missouri,A.,S. J.,Carnahan,,D,1955
+House,Missouri,Clarence,,Cannon,,D,1955
+House,Missouri,Paul,C.,Jones,,D,1955
+House,Missouri,Morgan,M.,Moulder,,D,1955
+House,Montana,Lee,,Metcalf,,D,1955
+House,Montana,Orvin,B.,Fjare,,R,1955
+House,Nebraska,Phillip,Hart,Weaver,,R,1955
+House,Nebraska,Jackson,B.,Chase,,R,1955
+House,Nebraska,Robert,Dinsmore,Harrison,,R,1955
+House,Nebraska,Arthur,L.,Miller,,R,1955
+House,Nevada,Clarence,Clifton,Young,,R,1955
+House,New Hampshire,Chester,Earl,Merrow,,R,1955
+House,New Hampshire,Perkins,,Bass,,R,1955
+House,New Jersey,Charles,A.,Wolverton,,R,1955
+House,New Jersey,T.,Millet,Hand,,R,1955
+House,New Jersey,James,C.,Auchincloss,,R,1955
+House,New Jersey,Frank,,Thompson,,D,1955
+House,New Jersey,Peter,,Frelinghuysen,Jr.,R,1955
+House,New Jersey,Harrison,A.,Williams,,D,1955
+House,New Jersey,William,B.,Widnall,,R,1955
+House,New Jersey,Gordon,,Canfield,,R,1955
+House,New Jersey,Frank,C.,Osmers,Jr.,R,1955
+House,New Jersey,Peter,W.,Rodino,,D,1955
+House,New Jersey,Hugh,Joseph,Addonizio,,D,1955
+House,New Jersey,Robert,,Kean,,R,1955
+House,New Jersey,Alfred,Dennis,Sieminski,,D,1955
+House,New Jersey,T.,James,Tumulty,,D,1955
+House,New Mexico,Antonio,M.,Fernández,,D,1955
+House,New Mexico,John,J.,Dempsey,,D,1955
+House,New York,Stuyvesant,,Wainwright,,R,1955
+House,New York,Steven,,Derounian,,R,1955
+House,New York,Frank,J.,Becker,,R,1955
+House,New York,Henry,J.,Latham,,R,1955
+House,New York,Albert,H.,Bosch,,R,1955
+House,New York,Lester,,Holtzman,,D,1955
+House,New York,James,J.,Delaney,,D,1955
+House,New York,Victor,,Anfuso,,D,1955
+House,New York,Eugene,James,Keogh,,D,1955
+House,New York,Edna,F.,Kelly,,D,1955
+House,New York,Emanuel,,Celler,,D,1955
+House,New York,Francis,E.,Dorn,,R,1955
+House,New York,Abraham,J.,Multer,,D,1955
+House,New York,John,J.,Rooney,,D,1955
+House,New York,John,H.,Ray,,R,1955
+House,New York,Adam,Clayton,Powell,Jr.,D,1955
+House,New York,Frederic,René,Coudert,Jr.,R,1955
+House,New York,James,G.,Donovan,,D,1955
+House,New York,Arthur,George,Klein,,D,1955
+House,New York,Irwin,D.,Davidson,,D-L,1955
+House,New York,Herbert,,Zelenko,,D,1955
+House,New York,Sidney,A.,Fine,,D,1955
+House,New York,James,C.,Healey,,D,1955
+House,New York,Isidore,,Dollinger,,D,1955
+House,New York,Charles,A.,Buckley,,D,1955
+House,New York,Paul,A.,Fino,,R,1955
+House,New York,Ralph,A.,Gamble,,R,1955
+House,New York,Ralph,W.,Gwinn,,R,1955
+House,New York,Katharine,St.,George,,R,1955
+House,New York,J.,Ernest,Wharton,,R,1955
+House,New York,Leo,W.,O'Brien,,D,1955
+House,New York,Dean,P.,Taylor,,R,1955
+House,New York,Bernard,W.,Kearney,,R,1955
+House,New York,Clarence,E.,Kilburn,,R,1955
+House,New York,William,R.,Williams,,R,1955
+House,New York,R.,Walter,Riehlman,,R,1955
+House,New York,John,,Taber,,R,1955
+House,New York,W.,Sterling,Cole,,R,1955
+House,New York,Kenneth,,Keating,,R,1955
+House,New York,Harold,C.,Ostertag,,R,1955
+House,New York,William,E.,Miller,,R,1955
+House,New York,Edmund,P.,Radwan,,R,1955
+House,New York,John,R.,Pillion,,R,1955
+House,New York,Daniel,A.,Reed,,R,1955
+House,North Carolina,Herbert,Covington,Bonner,,D,1955
+House,North Carolina,Lawrence,H.,Fountain,,D,1955
+House,North Carolina,Graham,A.,Barden,,D,1955
+House,North Carolina,Harold,D.,Cooley,,D,1955
+House,North Carolina,Richard,Thurmond,Chatham,,D,1955
+House,North Carolina,Carl,T.,Durham,,D,1955
+House,North Carolina,Frank,Ertel,Carlyle,,D,1955
+House,North Carolina,Charles,B.,Deane,,D,1955
+House,North Carolina,Hugh,Quincy,Alexander,,D,1955
+House,North Carolina,Charles,R.,Jonas,,R,1955
+House,North Carolina,Woodrow,W.,Jones,,D,1955
+House,North Carolina,George,A.,Shuford,,D,1955
+House,North Dakota,Usher,L.,Burdick,,R-NPL,1955
+House,North Dakota,Otto,,Krueger,,R,1955
+House,Ohio,Gordon,H.,Scherer,,R,1955
+House,Ohio,William,E.,Hess,,R,1955
+House,Ohio,Paul,F.,Schenck,,R,1955
+House,Ohio,William,Moore,McCulloch,,R,1955
+House,Ohio,Cliff,,Clevenger,,R,1955
+House,Ohio,James,G.,Polk,,D,1955
+House,Ohio,Clarence,J.,Brown,,R,1955
+House,Ohio,Jackson,Edward,Betts,,R,1955
+House,Ohio,Thomas,L.,Ashley,,D,1955
+House,Ohio,Thomas,A.,Jenkins,,R,1955
+House,Ohio,Oliver,P.,Bolton,,R,1955
+House,Ohio,John,M.,Vorys,,R,1955
+House,Ohio,Albert,David,Baumhart,Jr.,R,1955
+House,Ohio,William,Hanes,Ayres,,R,1955
+House,Ohio,John,E.,Henderson,,R,1955
+House,Ohio,Frank,T.,Bow,,R,1955
+House,Ohio,J.,Harry,McGregor,,R,1955
+House,Ohio,Wayne,,Hays,,D,1955
+House,Ohio,Michael,J.,Kirwan,,D,1955
+House,Ohio,Michael,A.,Feighan,,D,1955
+House,Ohio,Charles,,Vanik,,D,1955
+House,Ohio,Frances,P.,Bolton,,R,1955
+House,Ohio,William,Edwin,Minshall,Jr.,R,1955
+House,Oklahoma,Page,,Belcher,,R,1955
+House,Oklahoma,Ed,,Edmondson,,D,1955
+House,Oklahoma,Carl,,Albert,,D,1955
+House,Oklahoma,Tom,,Steed,,D,1955
+House,Oklahoma,John,,Jarman,,D,1955
+House,Oklahoma,Victor,,Wickersham,,D,1955
+House,Oregon,A.,Walter,Norblad,,R,1955
+House,Oregon,Sam,,Coon,,R,1955
+House,Oregon,Edith,,Green,,D,1955
+House,Oregon,Harris,,Ellsworth,,R,1955
+House,Pennsylvania,William,A.,Barrett,,D,1955
+House,Pennsylvania,William,T.,Granahan,,D,1955
+House,Pennsylvania,Kathryn,E.,Granahan,,D,1955
+House,Pennsylvania,James,A.,Byrne,,D,1955
+House,Pennsylvania,Earl,,Chudoff,,D,1955
+House,Pennsylvania,William,J.,Green,Jr.,D,1955
+House,Pennsylvania,Hugh,,Scott,,R,1955
+House,Pennsylvania,Benjamin,F.,James,,R,1955
+House,Pennsylvania,Karl,C.,King,,R,1955
+House,Pennsylvania,Paul,B.,Dague,,R,1955
+House,Pennsylvania,Joseph,L.,Carrigg,,R,1955
+House,Pennsylvania,Dan,,Flood,,D,1955
+House,Pennsylvania,Ivor,D.,Fenton,,R,1955
+House,Pennsylvania,Samuel,K.,McConnell,Jr.,R,1955
+House,Pennsylvania,George,M.,Rhodes,,D,1955
+House,Pennsylvania,Francis,E.,Walter,,D,1955
+House,Pennsylvania,Walter,M.,Mumma,,R,1955
+House,Pennsylvania,Alvin,,Bush,,R,1955
+House,Pennsylvania,Richard,M.,Simpson,,R,1955
+House,Pennsylvania,James,M.,Quigley,,D,1955
+House,Pennsylvania,James,E. Van,Zandt,,R,1955
+House,Pennsylvania,Augustine,B.,Kelley,,D,1955
+House,Pennsylvania,John,P.,Saylor,,R,1955
+House,Pennsylvania,Leon,H.,Gavin,,R,1955
+House,Pennsylvania,Carroll,D.,Kearns,,R,1955
+House,Pennsylvania,Frank,M.,Clark,,D,1955
+House,Pennsylvania,Thomas,E.,Morgan,,D,1955
+House,Pennsylvania,James,G.,Fulton,,R,1955
+House,Pennsylvania,Herman,P.,Eberharter,,D,1955
+House,Pennsylvania,Robert,J.,Corbett,,R,1955
+House,Pennsylvania,Vera,,Buchanan,,D,1955
+House,Pennsylvania,Elmer,J.,Holland,,D,1955
+House,Rhode Island,Aime,,Forand,,D,1955
+House,Rhode Island,John,E.,Fogarty,,D,1955
+House,South Carolina,L.,Mendel,Rivers,,D,1955
+House,South Carolina,John,J.,Riley,,D,1955
+House,South Carolina,William,Jennings Bryan,Dorn,,D,1955
+House,South Carolina,Robert,T.,Ashmore,,D,1955
+House,South Carolina,James,P.,Richards,,D,1955
+House,South Carolina,John,L.,McMillan,,D,1955
+House,South Dakota,Harold,,Lovre,,R,1955
+House,South Dakota,Ellis,Yarnal,Berry,,R,1955
+House,Tennessee,B.,Carroll,Reece,,R,1955
+House,Tennessee,Howard,,Baker,Sr.,R,1955
+House,Tennessee,James,B.,Frazier,Jr.,D,1955
+House,Tennessee,Joe,L.,Evins,,D,1955
+House,Tennessee,Percy,,Priest,,D,1955
+House,Tennessee,Ross,,Bass,,D,1955
+House,Tennessee,Tom,J.,Murray,,D,1955
+House,Tennessee,Jere,,Cooper,,D,1955
+House,Tennessee,Clifford,,Davis,,D,1955
+House,Texas,Wright,,Patman,,D,1955
+House,Texas,Jack,,Brooks,,D,1955
+House,Texas,Brady,P.,Gentry,,D,1955
+House,Texas,Sam,,Rayburn,,D,1955
+House,Texas,Bruce,,Alger,,R,1955
+House,Texas,Olin,E.,Teague,,D,1955
+House,Texas,John,,Dowdy,,D,1955
+House,Texas,Albert,,Thomas,,D,1955
+House,Texas,Clark,W.,Thompson,,D,1955
+House,Texas,Homer,,Thornberry,,D,1955
+House,Texas,William,R.,Poage,,D,1955
+House,Texas,Jim,,Wright,,D,1955
+House,Texas,Frank,N.,Ikard,,D,1955
+House,Texas,John,J.,Bell,,D,1955
+House,Texas,Joe,M.,Kilgore,,D,1955
+House,Texas,J.,T.,Rutherford,,D,1955
+House,Texas,Omar,,Burleson,,D,1955
+House,Texas,Walter,E.,Rogers,,D,1955
+House,Texas,George,H.,Mahon,,D,1955
+House,Texas,Paul,J.,Kilday,,D,1955
+House,Texas,O.,C.,Fisher,,D,1955
+House,Texas,Martin,,Dies,Jr.,D,1955
+House,Utah,Henry,Aldous,Dixon,,R,1955
+House,Utah,William,A.,Dawson,,R,1955
+House,Vermont,Winston,L.,Prouty,,R,1955
+House,Virginia,Edward,J.,Robeson,Jr.,D,1955
+House,Virginia,Porter,,Hardy,Jr.,D,1955
+House,Virginia,J.,Vaughan,Gary,,D,1955
+House,Virginia,Watkins,Moorman,Abbitt,,D,1955
+House,Virginia,William,M.,Tuck,,D,1955
+House,Virginia,Richard,Harding,Poff,,R,1955
+House,Virginia,Burr,,Harrison,,D,1955
+House,Virginia,Howard,W.,Smith,,D,1955
+House,Virginia,W.,Pat,Jennings,,D,1955
+House,Virginia,Joel,,Broyhill,,R,1955
+House,Washington,Thomas,,Pelly,,R,1955
+House,Washington,Jack,,Westland,,R,1955
+House,Washington,Russell,V.,Mack,,R,1955
+House,Washington,Hal,,Holmes,,R,1955
+House,Washington,Walt,,Horan,,R,1955
+House,Washington,Thor,C.,Tollefson,,R,1955
+House,Washington,Donald,H.,Magnuson,,D,1955
+House,West Virginia,Bob,,Mollohan,,D,1955
+House,West Virginia,Harley,Orrin,Staggers,,D,1955
+House,West Virginia,Cleveland,M.,Bailey,,D,1955
+House,West Virginia,Maurice,G.,Burnside,,D,1955
+House,West Virginia,Elizabeth,,Kee,,D,1955
+House,West Virginia,Robert,,Byrd,,D,1955
+House,Wisconsin,Lawrence,H.,Smith,,R,1955
+House,Wisconsin,Glenn,Robert,Davis,,R,1955
+House,Wisconsin,Gardner,R.,Withrow,,R,1955
+House,Wisconsin,Clement,J.,Zablocki,,D,1955
+House,Wisconsin,Henry,S.,Reuss,,D,1955
+House,Wisconsin,William,Van,Pelt,,R,1955
+House,Wisconsin,Melvin,,Laird,,R,1955
+House,Wisconsin,John,W.,Byrnes,,R,1955
+House,Wisconsin,Lester,,Johnson,,D,1955
+House,Wisconsin,Alvin,,O'Konski,,R,1955
+House,Wyoming,Edwin,Keith,Thomson,,R,1955

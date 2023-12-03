@@ -1,0 +1,545 @@
+Chamber,State,First_Name,Middle_Name,Last_Name,Suffix,Party,Congressional_Year
+Senate,Alabama,Howell,,Heflin,,D,1979
+Senate,Alabama,Donald,,Stewart,,D,1979
+Senate,Alabama,Jeremiah,,Denton,,R,1979
+Senate,Alaska,Ted,,Stevens,,R,1979
+Senate,Alaska,Mike,,Gravel,,D,1979
+Senate,Arizona,Dennis,,DeConcini,,D,1979
+Senate,Arizona,Barry,,Goldwater,,R,1979
+Senate,Arkansas,David,,Pryor,,D,1979
+Senate,Arkansas,Dale,,Bumpers,,D,1979
+Senate,California,S.,I.,Hayakawa,,R,1979
+Senate,California,Alan,,Cranston,,D,1979
+Senate,Colorado,William,L.,Armstrong,,R,1979
+Senate,Colorado,Gary,,Hart,,D,1979
+Senate,Connecticut,Lowell,,Weicker,,R,1979
+Senate,Connecticut,Abraham,,Ribicoff,,D,1979
+Senate,Delaware,William,,Roth,,R,1979
+Senate,Delaware,Joe,,Biden,,D,1979
+Senate,Florida,Lawton,,Chiles,,D,1979
+Senate,Florida,Richard,,Stone,,D,1979
+Senate,Florida,Paula,,Hawkins,,R,1979
+Senate,Georgia,Sam,,Nunn,,D,1979
+Senate,Georgia,Herman,,Talmadge,,D,1979
+Senate,Hawaii,Spark,,Matsunaga,,D,1979
+Senate,Hawaii,Daniel,,Inouye,,D,1979
+Senate,Idaho,James,A.,McClure,,R,1979
+Senate,Idaho,Frank,,Church,,D,1979
+Senate,Illinois,Charles,H.,Percy,,R,1979
+Senate,Illinois,Adlai,,Stevenson,III,D,1979
+Senate,Indiana,Richard,,Lugar,,R,1979
+Senate,Indiana,Birch,,Bayh,,D,1979
+Senate,Iowa,Roger,,Jepsen,,R,1979
+Senate,Iowa,John,,Culver,,D,1979
+Senate,Kansas,Nancy,,Kassebaum,,R,1979
+Senate,Kansas,Bob,,Dole,,R,1979
+Senate,Kentucky,Walter,"""Dee""",Huddleston,,D,1979
+Senate,Kentucky,Wendell,,Ford,,D,1979
+Senate,Louisiana,J.,Bennett,Johnston,,D,1979
+Senate,Louisiana,Russell,B.,Long,,D,1979
+Senate,Maine,Edmund,,Muskie,,D,1979
+Senate,Maine,George,J.,Mitchell,,D,1979
+Senate,Maine,William,,Cohen,,R,1979
+Senate,Maryland,Paul,,Sarbanes,,D,1979
+Senate,Maryland,Charles,,Mathias,,R,1979
+Senate,Massachusetts,Ted,,Kennedy,,D,1979
+Senate,Massachusetts,Paul,,Tsongas,,D,1979
+Senate,Michigan,Donald,,Riegle,,D,1979
+Senate,Michigan,Carl,,Levin,,D,1979
+Senate,Minnesota,David,,Durenberger,,R,1979
+Senate,Minnesota,Rudy,,Boschwitz,,R,1979
+Senate,Mississippi,John,C.,Stennis,,D,1979
+Senate,Mississippi,Thad,,Cochran,,R,1979
+Senate,Missouri,John,,Danforth,,R,1979
+Senate,Missouri,Thomas,,Eagleton,,D,1979
+Senate,Montana,John,,Melcher,,D,1979
+Senate,Montana,Max,,Baucus,,D,1979
+Senate,Nebraska,Edward,,Zorinsky,,D,1979
+Senate,Nebraska,J.,James,Exon,,D,1979
+Senate,Nevada,Howard,,Cannon,,D,1979
+Senate,Nevada,Paul,,Laxalt,,R,1979
+Senate,New Hampshire,Gordon,J.,Humphrey,,R,1979
+Senate,New Hampshire,John,A.,Durkin,,D,1979
+Senate,New Hampshire,Warren,,Rudman,,R,1979
+Senate,New Jersey,Harrison,A.,Williams,,D,1979
+Senate,New Jersey,Bill,,Bradley,,D,1979
+Senate,New Mexico,Harrison,,Schmitt,,R,1979
+Senate,New Mexico,Pete,,Domenici,,R,1979
+Senate,New York,Daniel,Patrick,Moynihan,,D,1979
+Senate,New York,Jacob,,Javits,,R,1979
+Senate,North Carolina,Jesse,,Helms,,R,1979
+Senate,North Carolina,Robert,Burren,Morgan,,D,1979
+Senate,North Dakota,Quentin,,Burdick,,D-NPL,1979
+Senate,North Dakota,Milton,,Young,,R,1979
+Senate,Ohio,Howard,,Metzenbaum,,D,1979
+Senate,Ohio,John,,Glenn,,D,1979
+Senate,Oklahoma,David,,Boren,,D,1979
+Senate,Oklahoma,Henry,,Bellmon,,R,1979
+Senate,Oregon,Mark,,Hatfield,,R,1979
+Senate,Oregon,Bob,,Packwood,,R,1979
+Senate,Pennsylvania,John,,Heinz,,R,1979
+Senate,Pennsylvania,Richard,,Schweiker,,R,1979
+Senate,Rhode Island,John,,Chafee,,R,1979
+Senate,Rhode Island,Claiborne,,Pell,,D,1979
+Senate,South Carolina,Strom,,Thurmond,,R,1979
+Senate,South Carolina,Fritz,,Hollings,,D,1979
+Senate,South Dakota,Larry,,Pressler,,R,1979
+Senate,South Dakota,George,,McGovern,,D,1979
+Senate,Tennessee,Jim,,Sasser,,D,1979
+Senate,Tennessee,Howard,,Baker,,R,1979
+Senate,Texas,Lloyd,,Bentsen,,D,1979
+Senate,Texas,John,,Tower,,R,1979
+Senate,Utah,Orrin,,Hatch,,R,1979
+Senate,Utah,Jake,,Garn,,R,1979
+Senate,Vermont,Robert,,Stafford,,R,1979
+Senate,Vermont,Patrick,,Leahy,,D,1979
+Senate,Virginia,Harry,F.,Byrd,Jr.,I,1979
+Senate,Virginia,John,,Warner,,R,1979
+Senate,Washington,Henry,M.,Jackson,,D,1979
+Senate,Washington,Warren,,Magnuson,,D,1979
+Senate,West Virginia,Robert,,Byrd,,D,1979
+Senate,West Virginia,Jennings,,Randolph,,D,1979
+Senate,Wisconsin,William,,Proxmire,,D,1979
+Senate,Wisconsin,Gaylord,,Nelson,,D,1979
+Senate,Wyoming,Malcolm,,Wallop,,R,1979
+Senate,Wyoming,Alan,,Simpson,,R,1979
+House,Alabama,Jack,,Edwards,,R,1979
+House,Alabama,William,Louis,Dickinson,,R,1979
+House,Alabama,Bill,,Nichols,,D,1979
+House,Alabama,Tom,,Bevill,,D,1979
+House,Alabama,Ronnie,,Flippo,,D,1979
+House,Alabama,John,Hall,Buchanan,Jr.,R,1979
+House,Alabama,Richard,,Shelby,,D,1979
+House,Alaska,Don,,Young,,R,1979
+House,Arizona,John,Jacob,Rhodes,,R,1979
+House,Arizona,Mo,,Udall,,D,1979
+House,Arizona,Bob,,Stump,,D,1979
+House,Arizona,Eldon,,Rudd,,R,1979
+House,Arkansas,William,Vollie,Alexander,Jr.,D,1979
+House,Arkansas,Ed,,Bethune,,R,1979
+House,Arkansas,John,Paul,Hammerschmidt,,R,1979
+House,Arkansas,Beryl,,Anthony,Jr.,D,1979
+House,California,Harold,T.,Johnson,,D,1979
+House,California,Donald,H.,Clausen,,R,1979
+House,California,Bob,,Matsui,,D,1979
+House,California,Vic,,Fazio,,D,1979
+House,California,John,,Burton,,D,1979
+House,California,Phillip,,Burton,,D,1979
+House,California,George,,Miller,,D,1979
+House,California,Ron,,Dellums,,D,1979
+House,California,Pete,,Stark,,D,1979
+House,California,Don,,Edwards,,D,1979
+House,California,William,,Royer,,R,1979
+House,California,Pete,,McCloskey,,R,1979
+House,California,Norman,,Mineta,,D,1979
+House,California,Norman,D.,Shumway,,R,1979
+House,California,Tony,,Coelho,,D,1979
+House,California,Leon,,Panetta,,D,1979
+House,California,Chip,,Pashayan,,R,1979
+House,California,Bill,,Thomas,,R,1979
+House,California,Robert,J.,Lagomarsino,,R,1979
+House,California,Barry,,Goldwater,Jr.,R,1979
+House,California,James,C.,Corman,,D,1979
+House,California,Carlos,,Moorhead,,R,1979
+House,California,Anthony,,Beilenson,,D,1979
+House,California,Henry,,Waxman,,D,1979
+House,California,Edward,R.,Roybal,,D,1979
+House,California,John,H.,Rousselot,,R,1979
+House,California,Bob,,Dornan,,R,1979
+House,California,Julian,,Dixon,,D,1979
+House,California,Augustus,,Hawkins,,D,1979
+House,California,George,E.,Danielson,,D,1979
+House,California,Charles,H.,Wilson,,D,1979
+House,California,Glenn,M.,Anderson,,D,1979
+House,California,Wayne,R.,Grisham,,R,1979
+House,California,Dan,,Lungren,,R,1979
+House,California,James,F.,Lloyd,,D,1979
+House,California,George,,Brown,Jr.,D,1979
+House,California,Jerry,,Lewis,,R,1979
+House,California,Jerry,M.,Patterson,,D,1979
+House,California,William,E.,Dannemeyer,,R,1979
+House,California,Robert,,Badham,,R,1979
+House,California,Bob,,Wilson,,R,1979
+House,California,Lionel,Van,Deerlin,,D,1979
+House,California,Clair,,Burgener,,R,1979
+House,Colorado,Pat,,Schroeder,,D,1979
+House,Colorado,Tim,,Wirth,,D,1979
+House,Colorado,Ray,,Kogovsek,,D,1979
+House,Colorado,James,Paul,Johnson,,R,1979
+House,Colorado,Ken,,Kramer,,R,1979
+House,Connecticut,William,R.,Cotter,,D,1979
+House,Connecticut,Chris,,Dodd,,D,1979
+House,Connecticut,Robert,,Giaimo,,D,1979
+House,Connecticut,Stewart,,McKinney,,R,1979
+House,Connecticut,William,R.,Ratchford,,D,1979
+House,Connecticut,Toby,,Moffett,,D,1979
+House,Delaware,Thomas,B.,Evans,Jr.,R,1979
+House,Florida,Earl,,Hutto,,D,1979
+House,Florida,Don,,Fuqua,,D,1979
+House,Florida,Charles,E.,Bennett,,D,1979
+House,Florida,Bill,,Chappell,,D,1979
+House,Florida,Richard,,Kelly,,R,1979
+House,Florida,Bill,,Young,,R,1979
+House,Florida,Sam,,Gibbons,,D,1979
+House,Florida,Andy,,Ireland,,D,1979
+House,Florida,Bill,,Nelson,,D,1979
+House,Florida,Skip,,Bafalis,,R,1979
+House,Florida,Dan,,Mica,,D,1979
+House,Florida,Edward,J.,Stack,,D,1979
+House,Florida,William,,Lehman,,D,1979
+House,Florida,Claude,,Pepper,,D,1979
+House,Florida,Dante,,Fascell,,D,1979
+House,Georgia,Ronald,'Bo',Ginn,,D,1979
+House,Georgia,Dawson,,Mathis,,D,1979
+House,Georgia,Jack,,Brinkley,,D,1979
+House,Georgia,Elliott,H.,Levitas,,D,1979
+House,Georgia,Wyche,,Fowler,,D,1979
+House,Georgia,Newt,,Gingrich,,R,1979
+House,Georgia,Larry,,McDonald,,D,1979
+House,Georgia,Billy,Lee,Evans,,D,1979
+House,Georgia,Ed,,Jenkins,,D,1979
+House,Georgia,Doug,,Barnard,Jr.,D,1979
+House,Hawaii,Cecil,,Heftel,,D,1979
+House,Hawaii,Daniel,,Akaka,,D,1979
+House,Idaho,Steve,,Symms,,R,1979
+House,Idaho,George,V.,Hansen,,R,1979
+House,Illinois,Bennett,,Stewart,,D,1979
+House,Illinois,Morgan,F.,Murphy,,D,1979
+House,Illinois,Marty,,Russo,,D,1979
+House,Illinois,Ed,,Derwinski,,R,1979
+House,Illinois,John,G.,Fary,,D,1979
+House,Illinois,Henry,,Hyde,,R,1979
+House,Illinois,Cardiss,,Collins,,D,1979
+House,Illinois,Dan,,Rostenkowski,,D,1979
+House,Illinois,Sidney,R.,Yates,,D,1979
+House,Illinois,Abner,,Mikva,,D,1979
+House,Illinois,John,,Porter,,R,1979
+House,Illinois,Frank,,Annunzio,,D,1979
+House,Illinois,Phil,,Crane,,R,1979
+House,Illinois,Robert,,McClory,,R,1979
+House,Illinois,John,N.,Erlenborn,,R,1979
+House,Illinois,Tom,,Corcoran,,R,1979
+House,Illinois,John,B.,Anderson,,R,1979
+House,Illinois,George,M.,O'Brien,,R,1979
+House,Illinois,Robert,H.,Michel,,R,1979
+House,Illinois,Tom,,Railsback,,R,1979
+House,Illinois,Paul,,Findley,,R,1979
+House,Illinois,Edward,Rell,Madigan,,R,1979
+House,Illinois,Dan,,Crane,,R,1979
+House,Illinois,Melvin,,Price,,D,1979
+House,Illinois,Paul,,Simon,,D,1979
+House,Indiana,Adam,,Benjamin,Jr.,D,1979
+House,Indiana,Floyd,,Fithian,,D,1979
+House,Indiana,John,,Brademas,,D,1979
+House,Indiana,Dan,,Quayle,,R,1979
+House,Indiana,Elwood,,Hillis,,R,1979
+House,Indiana,David,W.,Evans,,D,1979
+House,Indiana,John,T.,Myers,,R,1979
+House,Indiana,H.,Joel,Deckard,,R,1979
+House,Indiana,Lee,H.,Hamilton,,D,1979
+House,Indiana,Philip,,Sharp,,D,1979
+House,Indiana,Andrew,,Jacobs,Jr.,D,1979
+House,Iowa,Jim,,Leach,,R,1979
+House,Iowa,Tom,,Tauke,,R,1979
+House,Iowa,Chuck,,Grassley,,R,1979
+House,Iowa,Neal,Edward,Smith,,D,1979
+House,Iowa,Tom,,Harkin,,D,1979
+House,Iowa,Berkley,,Bedell,,D,1979
+House,Kansas,Keith,,Sebelius,,R,1979
+House,Kansas,James,Edmund,Jeffries,,R,1979
+House,Kansas,Larry,,Winn,,R,1979
+House,Kansas,Dan,,Glickman,,D,1979
+House,Kansas,Bob,,Whittaker,,R,1979
+House,Kentucky,Carroll,,Hubbard,,D,1979
+House,Kentucky,William,,Natcher,,D,1979
+House,Kentucky,Romano,,Mazzoli,,D,1979
+House,Kentucky,Gene,,Snyder,,R,1979
+House,Kentucky,Tim,Lee,Carter,,R,1979
+House,Kentucky,Larry,J.,Hopkins,,R,1979
+House,Kentucky,Carl,D.,Perkins,,D,1979
+House,Louisiana,Bob,,Livingston,,R,1979
+House,Louisiana,Lindy,,Boggs,,D,1979
+House,Louisiana,Dave,,Treen,,R,1979
+House,Louisiana,Billy,,Tauzin,,D,1979
+House,Louisiana,Buddy,,Leach,,D,1979
+House,Louisiana,Jerry,,Huckaby,,D,1979
+House,Louisiana,Henson,,Moore,,R,1979
+House,Louisiana,John,,Breaux,,D,1979
+House,Louisiana,Gillis,William,Long,,D,1979
+House,Maine,David,F.,Emery,,R,1979
+House,Maine,Olympia,,Snowe,,R,1979
+House,Maryland,Robert,,Bauman,,R,1979
+House,Maryland,Clarence,,Long,,D,1979
+House,Maryland,Barbara,,Mikulski,,D,1979
+House,Maryland,Marjorie,,Holt,,R,1979
+House,Maryland,Gladys,,Spellman,,D,1979
+House,Maryland,Beverly,,Byron,,D,1979
+House,Maryland,Parren,,Mitchell,,D,1979
+House,Maryland,Michael,D.,Barnes,,D,1979
+House,Massachusetts,Silvio,O.,Conte,,R,1979
+House,Massachusetts,Edward,,Boland,,D,1979
+House,Massachusetts,Joseph,D.,Early,,D,1979
+House,Massachusetts,Robert,,Drinan,,D,1979
+House,Massachusetts,James,,Shannon,,D,1979
+House,Massachusetts,Nicholas,,Mavroules,,D,1979
+House,Massachusetts,Ed,,Markey,,D,1979
+House,Massachusetts,Tip,,O'Neill,,D,1979
+House,Massachusetts,Joe,,Moakley,,D,1979
+House,Massachusetts,Margaret,,Heckler,,R,1979
+House,Massachusetts,Brian,J.,Donnelly,,D,1979
+House,Massachusetts,Gerry,,Studds,,D,1979
+House,Michigan,John,,Conyers,,D,1979
+House,Michigan,Carl,,Pursell,,R,1979
+House,Michigan,Howard,,Wolpe,,D,1979
+House,Michigan,David,,Stockman,,R,1979
+House,Michigan,Harold,S.,Sawyer,,R,1979
+House,Michigan,Milton,Robert,Carr,,D,1979
+House,Michigan,Dale,,Kildee,,D,1979
+House,Michigan,J.,Bob,Traxler,,D,1979
+House,Michigan,Guy,Vander,Jagt,,R,1979
+House,Michigan,Donald,J.,Albosta,,D,1979
+House,Michigan,Robert,William,Davis,,R,1979
+House,Michigan,David,,Bonior,,D,1979
+House,Michigan,Charles,,Diggs,,D,1979
+House,Michigan,George,,Crockett,Jr.,D,1979
+House,Michigan,Lucien,,Nedzi,,D,1979
+House,Michigan,William,D.,Ford,,D,1979
+House,Michigan,John,,Dingell,,D,1979
+House,Michigan,William,M.,Brodhead,,D,1979
+House,Michigan,James,,Blanchard,,D,1979
+House,Michigan,William,,Broomfield,,R,1979
+House,Minnesota,Arlen,,Erdahl,,R,1979
+House,Minnesota,Tom,,Hagedorn,,R,1979
+House,Minnesota,Bill,,Frenzel,,R,1979
+House,Minnesota,Bruce,,Vento,,DFL,1979
+House,Minnesota,Martin,Olav,Sabo,,DFL,1979
+House,Minnesota,Rick,,Nolan,,DFL,1979
+House,Minnesota,Arlan,,Stangeland,,R,1979
+House,Minnesota,Jim,,Oberstar,,DFL,1979
+House,Mississippi,Jamie,,Whitten,,D,1979
+House,Mississippi,David,R.,Bowen,,D,1979
+House,Mississippi,Sonny,,Montgomery,,D,1979
+House,Mississippi,Jon,,Hinson,,R,1979
+House,Mississippi,Trent,,Lott,,R,1979
+House,Missouri,Bill,,Clay,,D,1979
+House,Missouri,Robert,A.,Young,,D,1979
+House,Missouri,Dick,,Gephardt,,D,1979
+House,Missouri,Ike,,Skelton,,D,1979
+House,Missouri,Richard,Walker,Bolling,,D,1979
+House,Missouri,Tom,,Coleman,,R,1979
+House,Missouri,Gene,,Taylor,,R,1979
+House,Missouri,Richard,Howard,Ichord,Jr.,D,1979
+House,Missouri,Harold,,Volkmer,,D,1979
+House,Missouri,Bill,,Burlison,,D,1979
+House,Montana,Pat,,Williams,,D,1979
+House,Montana,Ron,,Marlenee,,R,1979
+House,Nebraska,Doug,,Bereuter,,R,1979
+House,Nebraska,John,Joseph,Cavanaugh,III,D,1979
+House,Nebraska,Virginia,D.,Smith,,R,1979
+House,Nevada,James,David,Santini,,D,1979
+House,New Hampshire,Norman,,D'Amours,,D,1979
+House,New Hampshire,James,Colgate,Cleveland,,R,1979
+House,New Jersey,James,,Florio,,D,1979
+House,New Jersey,William,J.,Hughes,,D,1979
+House,New Jersey,James,J.,Howard,,D,1979
+House,New Jersey,Frank,,Thompson,,D,1979
+House,New Jersey,Millicent,,Fenwick,,R,1979
+House,New Jersey,Edwin,B.,Forsythe,,R,1979
+House,New Jersey,Andrew,,Maguire,,D,1979
+House,New Jersey,Robert,A.,Roe,,D,1979
+House,New Jersey,Harold,C.,Hollenbeck,,R,1979
+House,New Jersey,Peter,W.,Rodino,,D,1979
+House,New Jersey,Joseph,,Minish,,D,1979
+House,New Jersey,Matthew,John,Rinaldo,,R,1979
+House,New Jersey,Jim,,Courter,,R,1979
+House,New Jersey,Frank,Joseph,Guarini,,D,1979
+House,New Jersey,Edward,J.,Patten,,D,1979
+House,New Mexico,Manuel,,Lujan,Jr.,R,1979
+House,New Mexico,Harold,L.,Runnels,,D,1979
+House,New York,1.,William,Carney,,C,1979
+House,New York,Thomas,,Downey,,D,1979
+House,New York,Jerome,,Ambro,,D,1979
+House,New York,Norman,F.,Lent,,R,1979
+House,New York,John,W.,Wydler,,R,1979
+House,New York,Lester,L.,Wolff,,D,1979
+House,New York,Joseph,P.,Addabbo,,D,1979
+House,New York,Benjamin,Stanley,Rosenthal,,D,1979
+House,New York,Geraldine,,Ferraro,,D,1979
+House,New York,Mario,,Biaggi,,D,1979
+House,New York,James,H.,Scheuer,,D,1979
+House,New York,Shirley,,Chisholm,,D,1979
+House,New York,Stephen,,Solarz,,D,1979
+House,New York,Fred,,Richmond,,D,1979
+House,New York,Leo,C.,Zeferetti,,D,1979
+House,New York,Elizabeth,,Holtzman,,D,1979
+House,New York,John,M.,Murphy,,D,1979
+House,New York,Bill,,Green,,R,1979
+House,New York,Charles,,Rangel,,D,1979
+House,New York,Theodore,S.,Weiss,,D,1979
+House,New York,Robert,,Garcia,,D,1979
+House,New York,Jonathan,Brewster,Bingham,,D,1979
+House,New York,Peter,A.,Peyser,,D,1979
+House,New York,Richard,,Ottinger,,D,1979
+House,New York,Hamilton,,Fish,IV,R,1979
+House,New York,Benjamin,,Gilman,,R,1979
+House,New York,Matthew,F.,McHugh,,D,1979
+House,New York,Samuel,S.,Stratton,,D,1979
+House,New York,Gerald,,Solomon,,R,1979
+House,New York,Robert,C.,McEwen,,R,1979
+House,New York,Donald,J.,Mitchell,,R,1979
+House,New York,James,M.,Hanley,,D,1979
+House,New York,Gary,A.,Lee,,R,1979
+House,New York,Frank,,Horton,,R,1979
+House,New York,Barber,,Conable,,R,1979
+House,New York,John,J.,LaFalce,,D,1979
+House,New York,Henry,J.,Nowak,,D,1979
+House,New York,Jack,,Kemp,,R,1979
+House,New York,Stan,,Lundine,,D,1979
+House,North Carolina,Walter,B.,Jones,Sr.,D,1979
+House,North Carolina,Lawrence,H.,Fountain,,D,1979
+House,North Carolina,Charles,Orville,Whitley,,D,1979
+House,North Carolina,Ike,Franklin,Andrews,,D,1979
+House,North Carolina,Stephen,L.,Neal,,D,1979
+House,North Carolina,L.,Richardson,Preyer,,D,1979
+House,North Carolina,Charlie,,Rose,,D,1979
+House,North Carolina,Bill,,Hefner,,D,1979
+House,North Carolina,James,G.,Martin,,R,1979
+House,North Carolina,Jim,,Broyhill,,R,1979
+House,North Carolina,V.,Lamar,Gudger,,D,1979
+House,North Dakota,Mark,,Andrews,,R,1979
+House,Ohio,Bill,,Gradison,,R,1979
+House,Ohio,Tom,,Luken,,D,1979
+House,Ohio,Tony,P.,Hall,,D,1979
+House,Ohio,Tennyson,,Guyer,,R,1979
+House,Ohio,Del,,Latta,,R,1979
+House,Ohio,Bill,,Harsha,,R,1979
+House,Ohio,Bud,,Brown,,R,1979
+House,Ohio,Tom,,Kindness,,R,1979
+House,Ohio,Thomas,L.,Ashley,,D,1979
+House,Ohio,Clarence,E.,Miller,,R,1979
+House,Ohio,J.,William,Stanton,,R,1979
+House,Ohio,Samuel,L.,Devine,,R,1979
+House,Ohio,Donald,J.,Pease,,D,1979
+House,Ohio,John,F.,Seiberling,,D,1979
+House,Ohio,Chalmers,,Wylie,,R,1979
+House,Ohio,Ralph,,Regula,,R,1979
+House,Ohio,John,M.,Ashbrook,,R,1979
+House,Ohio,Douglas,,Applegate,,D,1979
+House,Ohio,Lyle,,Williams,,R,1979
+House,Ohio,Mary,Rose,Oakar,,D,1979
+House,Ohio,Louis,,Stokes,,D,1979
+House,Ohio,Charles,,Vanik,,D,1979
+House,Ohio,Ronald,M.,Mottl,,D,1979
+House,Oklahoma,James,R.,Jones,,D,1979
+House,Oklahoma,Mike,,Synar,,D,1979
+House,Oklahoma,Wes,,Watkins,,D,1979
+House,Oklahoma,Tom,,Steed,,D,1979
+House,Oklahoma,Mickey,,Edwards,,R,1979
+House,Oklahoma,Glenn,,English,,D,1979
+House,Oregon,Les,,AuCoin,,D,1979
+House,Oregon,Al,,Ullman,,D,1979
+House,Oregon,Robert,B.,Duncan,,D,1979
+House,Oregon,Jim,,Weaver,,D,1979
+House,Pennsylvania,Michael,,Myers,,D,1979
+House,Pennsylvania,William,H.,Gray,III,D,1979
+House,Pennsylvania,Raymond,,Lederer,,D,1979
+House,Pennsylvania,Charles,F.,Dougherty,,R,1979
+House,Pennsylvania,Richard,T.,Schulze,,R,1979
+House,Pennsylvania,Gus,,Yatron,,D,1979
+House,Pennsylvania,Robert,W.,Edgar,,D,1979
+House,Pennsylvania,Peter,H.,Kostmayer,,D,1979
+House,Pennsylvania,Bud,,Shuster,,R,1979
+House,Pennsylvania,Joseph,M.,McDade,,R,1979
+House,Pennsylvania,Dan,,Flood,,D,1979
+House,Pennsylvania,Ray,,Musto,,D,1979
+House,Pennsylvania,John,,Murtha,,D,1979
+House,Pennsylvania,Lawrence,,Coughlin,,R,1979
+House,Pennsylvania,William,S.,Moorhead,,D,1979
+House,Pennsylvania,Donald,L.,Ritter,,R,1979
+House,Pennsylvania,Robert,Smith,Walker,,R,1979
+House,Pennsylvania,Allen,E.,Ertel,,D,1979
+House,Pennsylvania,Doug,,Walgren,,D,1979
+House,Pennsylvania,William,F.,Goodling,,R,1979
+House,Pennsylvania,Joseph,M.,Gaydos,,D,1979
+House,Pennsylvania,Donald,A.,Bailey,,D,1979
+House,Pennsylvania,Austin,,Murphy,,D,1979
+House,Pennsylvania,William,F.,Clinger,Jr.,R,1979
+House,Pennsylvania,Marc,L.,Marks,,R,1979
+House,Pennsylvania,Eugene,,Atkinson,,D,1979
+House,Rhode Island,Fernand,St.,Germain,,D,1979
+House,Rhode Island,Edward,,Beard,,D,1979
+House,South Carolina,Mendel,Jackson,Davis,,D,1979
+House,South Carolina,Floyd,,Spence,,R,1979
+House,South Carolina,Butler,,Derrick,,D,1979
+House,South Carolina,Carroll,A.,Campbell,Jr.,R,1979
+House,South Carolina,Kenneth,Lamar,Holland,,D,1979
+House,South Carolina,John,,Jenrette,,D,1979
+House,South Dakota,Tom,,Daschle,,D,1979
+House,South Dakota,James,,Abdnor,,R,1979
+House,Tennessee,Jimmy,,Quillen,,R,1979
+House,Tennessee,John,,Duncan,Sr.,R,1979
+House,Tennessee,Marilyn,,Lloyd,,D,1979
+House,Tennessee,Al,,Gore,,D,1979
+House,Tennessee,Bill,,Boner,,D,1979
+House,Tennessee,Robin,,Beard,,R,1979
+House,Tennessee,Ed,,Jones,,D,1979
+House,Tennessee,Harold,,Ford,Sr.,D,1979
+House,Texas,Sam,B.,Hall,Jr.,D,1979
+House,Texas,Charlie,,Wilson,,D,1979
+House,Texas,James,M.,Collins,,R,1979
+House,Texas,Ray,,Roberts,,D,1979
+House,Texas,Jim,,Mattox,,D,1979
+House,Texas,Phil,,Gramm,,D,1979
+House,Texas,Bill,,Archer,,R,1979
+House,Texas,Robert,C.,Eckhardt,,D,1979
+House,Texas,Jack,,Brooks,,D,1979
+House,Texas,J.,J.,Pickle,,D,1979
+House,Texas,Marvin,,Leath,,D,1979
+House,Texas,Jim,,Wright,,D,1979
+House,Texas,Jack,,Hightower,,D,1979
+House,Texas,Joseph,P.,Wyatt,Jr.,D,1979
+House,Texas,Kika,de la,Garza,,D,1979
+House,Texas,Richard,Crawford,White,,D,1979
+House,Texas,Charles,,Stenholm,,D,1979
+House,Texas,Mickey,,Leland,,D,1979
+House,Texas,Kent,,Hance,,D,1979
+House,Texas,Henry,B.,González,,D,1979
+House,Texas,Tom,,Loeffler,,R,1979
+House,Texas,Ron,,Paul,,R,1979
+House,Texas,Abraham,,Kazen,,D,1979
+House,Texas,Martin,,Frost,,D,1979
+House,Utah,K.,Gunn,McKay,,D,1979
+House,Utah,David,Daniel,Marriott,,R,1979
+House,Vermont,Jim,,Jeffords,,R,1979
+House,Virginia,Paul,,Trible,,R,1979
+House,Virginia,G.,William,Whitehurst,,R,1979
+House,Virginia,David,E.,Satterfield,III,D,1979
+House,Virginia,Robert,,Daniel,,R,1979
+House,Virginia,Dan,,Daniel,,D,1979
+House,Virginia,M.,Caldwell,Butler,,R,1979
+House,Virginia,J.,Kenneth,Robinson,,R,1979
+House,Virginia,Herbert,,Harris,,D,1979
+House,Virginia,William,C.,Wampler,,R,1979
+House,Virginia,Joseph,L.,Fisher,,D,1979
+House,Washington,Joel,,Pritchard,,R,1979
+House,Washington,Al,,Swift,,D,1979
+House,Washington,Don,,Bonker,,D,1979
+House,Washington,Mike,,McCormack,,D,1979
+House,Washington,Tom,,Foley,,D,1979
+House,Washington,Norm,,Dicks,,D,1979
+House,Washington,Mike,,Lowry,,D,1979
+House,West Virginia,Bob,,Mollohan,,D,1979
+House,West Virginia,Harley,Orrin,Staggers,,D,1979
+House,West Virginia,John,M.,Slack,Jr.,D,1979
+House,West Virginia,John,G.,Hutchinson,,D,1979
+House,West Virginia,Nick,,Rahall,,D,1979
+House,Wisconsin,Les,,Aspin,,D,1979
+House,Wisconsin,Robert,,Kastenmeier,,D,1979
+House,Wisconsin,Alvin,,Baldus,,D,1979
+House,Wisconsin,Clement,J.,Zablocki,,D,1979
+House,Wisconsin,Henry,S.,Reuss,,D,1979
+House,Wisconsin,Tom,,Petri,,R,1979
+House,Wisconsin,Dave,,Obey,,D,1979
+House,Wisconsin,Toby,,Roth,,R,1979
+House,Wisconsin,Jim,,Sensenbrenner,,R,1979
+House,Wyoming,Dick,,Cheney,,R,1979

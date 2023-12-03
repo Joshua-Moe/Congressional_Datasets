@@ -1,0 +1,550 @@
+Chamber,State,First_Name,Middle_Name,Last_Name,Suffix,Party,Congressional_Year
+Senate,Alabama,John,J.,Sparkman,,D,1973
+Senate,Alabama,James,,Allen,,D,1973
+Senate,Alaska,Ted,,Stevens,,R,1973
+Senate,Alaska,Mike,,Gravel,,D,1973
+Senate,Arizona,Paul,,Fannin,,R,1973
+Senate,Arizona,Barry,,Goldwater,,R,1973
+Senate,Arkansas,John,L.,McClellan,,D,1973
+Senate,Arkansas,J.,William,Fulbright,,D,1973
+Senate,California,John,V.,Tunney,,D,1973
+Senate,California,Alan,,Cranston,,D,1973
+Senate,Colorado,Floyd,,Haskell,,D,1973
+Senate,Colorado,Peter,H.,Dominick,,R,1973
+Senate,Connecticut,Lowell,,Weicker,,R,1973
+Senate,Connecticut,Abraham,,Ribicoff,,D,1973
+Senate,Delaware,William,,Roth,,R,1973
+Senate,Delaware,Joe,,Biden,,D,1973
+Senate,Florida,Lawton,,Chiles,,D,1973
+Senate,Florida,Edward,,Gurney,,R,1973
+Senate,Florida,Richard,,Stone,,D,1973
+Senate,Georgia,Sam,,Nunn,,D,1973
+Senate,Georgia,Herman,,Talmadge,,D,1973
+Senate,Hawaii,Hiram,,Fong,,R,1973
+Senate,Hawaii,Daniel,,Inouye,,D,1973
+Senate,Idaho,James,A.,McClure,,R,1973
+Senate,Idaho,Frank,,Church,,D,1973
+Senate,Illinois,Charles,H.,Percy,,R,1973
+Senate,Illinois,Adlai,,Stevenson,III,D,1973
+Senate,Indiana,Vance,,Hartke,,D,1973
+Senate,Indiana,Birch,,Bayh,,D,1973
+Senate,Iowa,Dick,,Clark,,D,1973
+Senate,Iowa,Harold,,Hughes,,D,1973
+Senate,Kansas,James,B.,Pearson,,R,1973
+Senate,Kansas,Bob,,Dole,,R,1973
+Senate,Kentucky,Walter,"""Dee""",Huddleston,,D,1973
+Senate,Kentucky,Marlow,,Cook,,R,1973
+Senate,Kentucky,Wendell,,Ford,,D,1973
+Senate,Louisiana,J.,Bennett,Johnston,,D,1973
+Senate,Louisiana,Russell,B.,Long,,D,1973
+Senate,Maine,Edmund,,Muskie,,D,1973
+Senate,Maine,William,,Hathaway,,D,1973
+Senate,Maryland,J.,Glenn,Beall,Jr.,R,1973
+Senate,Maryland,Charles,,Mathias,,R,1973
+Senate,Massachusetts,Ted,,Kennedy,,D,1973
+Senate,Massachusetts,Edward,,Brooke,,R,1973
+Senate,Michigan,Philip,,Hart,,D,1973
+Senate,Michigan,Robert,P.,Griffin,,R,1973
+Senate,Minnesota,Hubert,,Humphrey,,DFL,1973
+Senate,Minnesota,Walter,,Mondale,,DFL,1973
+Senate,Mississippi,John,C.,Stennis,,D,1973
+Senate,Mississippi,James,,Eastland,,D,1973
+Senate,Missouri,Stuart,,Symington,,D,1973
+Senate,Missouri,Thomas,,Eagleton,,D,1973
+Senate,Montana,Mike,,Mansfield,,D,1973
+Senate,Montana,Lee,,Metcalf,,D,1973
+Senate,Nebraska,Roman,,Hruska,,R,1973
+Senate,Nebraska,Carl,,Curtis,,R,1973
+Senate,Nevada,Howard,,Cannon,,D,1973
+Senate,Nevada,Alan,,Bible,,D,1973
+Senate,Nevada,Paul,,Laxalt,,R,1973
+Senate,New Hampshire,Thomas,J.,McIntyre,,D,1973
+Senate,New Hampshire,Norris,,Cotton,,R,1973
+Senate,New Hampshire,Louis,C.,Wyman,,R,1973
+Senate,New Jersey,Harrison,A.,Williams,,D,1973
+Senate,New Jersey,Clifford,P.,Case,,R,1973
+Senate,New Mexico,Joseph,,Montoya,,D,1973
+Senate,New Mexico,Pete,,Domenici,,R,1973
+Senate,New York,James,L.,Buckley,,C,1973
+Senate,New York,Jacob,,Javits,,R,1973
+Senate,North Carolina,Jesse,,Helms,,R,1973
+Senate,North Carolina,Sam,,Ervin,,D,1973
+Senate,North Dakota,Quentin,,Burdick,,D-NPL,1973
+Senate,North Dakota,Milton,,Young,,R,1973
+Senate,Ohio,Robert,,Taft,Jr.,R,1973
+Senate,Ohio,William,B.,Saxbe,,R,1973
+Senate,Ohio,Howard,,Metzenbaum,,D,1973
+Senate,Ohio,John,,Glenn,,D,1973
+Senate,Oklahoma,Dewey,F.,Bartlett,,R,1973
+Senate,Oklahoma,Henry,,Bellmon,,R,1973
+Senate,Oregon,Mark,,Hatfield,,R,1973
+Senate,Oregon,Bob,,Packwood,,R,1973
+Senate,Pennsylvania,Hugh,,Scott,,R,1973
+Senate,Pennsylvania,Richard,,Schweiker,,R,1973
+Senate,Rhode Island,John,,Pastore,,D,1973
+Senate,Rhode Island,Claiborne,,Pell,,D,1973
+Senate,South Carolina,Strom,,Thurmond,,R,1973
+Senate,South Carolina,Fritz,,Hollings,,D,1973
+Senate,South Dakota,James,,Abourezk,,D,1973
+Senate,South Dakota,George,,McGovern,,D,1973
+Senate,Tennessee,Bill,,Brock,,R,1973
+Senate,Tennessee,Howard,,Baker,,R,1973
+Senate,Texas,Lloyd,,Bentsen,,D,1973
+Senate,Texas,John,,Tower,,R,1973
+Senate,Utah,Frank,,Moss,,D,1973
+Senate,Utah,Wallace,F.,Bennett,,R,1973
+Senate,Utah,Jake,,Garn,,R,1973
+Senate,Vermont,Robert,,Stafford,,R,1973
+Senate,Vermont,George,,Aiken,,R,1973
+Senate,Virginia,Harry,F.,Byrd,Jr.,I,1973
+Senate,Virginia,William,L.,Scott,,R,1973
+Senate,Washington,Henry,M.,Jackson,,D,1973
+Senate,Washington,Warren,,Magnuson,,D,1973
+Senate,West Virginia,Robert,,Byrd,,D,1973
+Senate,West Virginia,Jennings,,Randolph,,D,1973
+Senate,Wisconsin,William,,Proxmire,,D,1973
+Senate,Wisconsin,Gaylord,,Nelson,,D,1973
+Senate,Wyoming,Gale,W.,McGee,,D,1973
+Senate,Wyoming,Clifford,,Hansen,,R,1973
+House,Alabama,Jack,,Edwards,,R,1973
+House,Alabama,William,Louis,Dickinson,,R,1973
+House,Alabama,Bill,,Nichols,,D,1973
+House,Alabama,Tom,,Bevill,,D,1973
+House,Alabama,Robert,E.,Jones,Jr.,D,1973
+House,Alabama,John,Hall,Buchanan,Jr.,R,1973
+House,Alabama,Walter,,Flowers,,D,1973
+House,Alaska,Don,,Young,,R,1973
+House,Arizona,John,Jacob,Rhodes,,R,1973
+House,Arizona,Mo,,Udall,,D,1973
+House,Arizona,Sam,,Steiger,,R,1973
+House,Arizona,John,Bertrand,Conlan,,R,1973
+House,Arkansas,William,Vollie,Alexander,Jr.,D,1973
+House,Arkansas,Wilbur,,Mills,,D,1973
+House,Arkansas,John,Paul,Hammerschmidt,,R,1973
+House,Arkansas,Ray,,Thornton,,D,1973
+House,California,Donald,H.,Clausen,,R,1973
+House,California,Harold,T.,Johnson,,D,1973
+House,California,John,E.,Moss,,D,1973
+House,California,Robert,L.,Leggett,,D,1973
+House,California,Phillip,,Burton,,D,1973
+House,California,William,S.,Mailliard,,R,1973
+House,California,John,,Burton,,D,1973
+House,California,Ron,,Dellums,,D,1973
+House,California,Pete,,Stark,,D,1973
+House,California,Don,,Edwards,,D,1973
+House,California,Charles,,Gubser,,R,1973
+House,California,Leo,,Ryan,,D,1973
+House,California,Burt,,Talcott,,R,1973
+House,California,Charles,M.,Teague,,R,1973
+House,California,Robert,J.,Lagomarsino,,R,1973
+House,California,Jerome,,Waldie,,D,1973
+House,California,John,J.,McFall,,D,1973
+House,California,B.,F.,Sisk,,D,1973
+House,California,Pete,,McCloskey,,R,1973
+House,California,Bob,,Mathias,,R,1973
+House,California,Chester,E.,Holifield,,D,1973
+House,California,Carlos,,Moorhead,,R,1973
+House,California,Augustus,,Hawkins,,D,1973
+House,California,James,C.,Corman,,D,1973
+House,California,Del,M.,Clawson,,R,1973
+House,California,John,H.,Rousselot,,R,1973
+House,California,Charles,E.,Wiggins,,R,1973
+House,California,Thomas,M.,Rees,,D,1973
+House,California,Barry,,Goldwater,Jr.,R,1973
+House,California,Alphonzo,E.,Bell,Jr.,R,1973
+House,California,George,E.,Danielson,,D,1973
+House,California,Edward,R.,Roybal,,D,1973
+House,California,Charles,H.,Wilson,,D,1973
+House,California,Craig,,Hosmer,,R,1973
+House,California,Jerry,,Pettis,,R,1973
+House,California,Richard,T.,Hanna,,D,1973
+House,California,Glenn,M.,Anderson,,D,1973
+House,California,William,M.,Ketchum,,R,1973
+House,California,Yvonne,Brathwaite,Burke,,D,1973
+House,California,George,,Brown,Jr.,D,1973
+House,California,Andrew,J.,Hinshaw,,R,1973
+House,California,Bob,,Wilson,,R,1973
+House,California,Lionel,Van,Deerlin,,D,1973
+House,California,Clair,,Burgener,,R,1973
+House,California,Victor,,Veysey,,R,1973
+House,Colorado,Pat,,Schroeder,,D,1973
+House,Colorado,Donald,G.,Brotzman,,R,1973
+House,Colorado,Frank,,Evans,,D,1973
+House,Colorado,James,Paul,Johnson,,R,1973
+House,Colorado,William,L.,Armstrong,,R,1973
+House,Connecticut,William,R.,Cotter,,D,1973
+House,Connecticut,Robert,H.,Steele,,R,1973
+House,Connecticut,Robert,,Giaimo,,D,1973
+House,Connecticut,Stewart,,McKinney,,R,1973
+House,Connecticut,Ronald,A.,Sarasin,,R,1973
+House,Connecticut,Ella,,Grasso,,D,1973
+House,Delaware,Pete,du,Pont,,R,1973
+House,Florida,Robert,L. F.,Sikes,,D,1973
+House,Florida,Don,,Fuqua,,D,1973
+House,Florida,Charles,E.,Bennett,,D,1973
+House,Florida,Bill,,Chappell,,D,1973
+House,Florida,Bill,,Gunter,,D,1973
+House,Florida,Bill,,Young,,R,1973
+House,Florida,Sam,,Gibbons,,D,1973
+House,Florida,James,A.,Haley,,D,1973
+House,Florida,Louis,,Frey,Jr.,R,1973
+House,Florida,Skip,,Bafalis,,R,1973
+House,Florida,Paul,,Rogers,,D,1973
+House,Florida,J.,Herbert,Burke,,R,1973
+House,Florida,William,,Lehman,,D,1973
+House,Florida,Claude,,Pepper,,D,1973
+House,Florida,Dante,,Fascell,,D,1973
+House,Georgia,Bo,,Ginn,,D,1973
+House,Georgia,Dawson,,Mathis,,D,1973
+House,Georgia,Jack,,Brinkley,,D,1973
+House,Georgia,Benjamin,B.,Blackburn,,R,1973
+House,Georgia,Andrew,,Young,,D,1973
+House,Georgia,John,,Flynt,,D,1973
+House,Georgia,John,William,Davis,,D,1973
+House,Georgia,W.,S.,Stuckey,Jr.,D,1973
+House,Georgia,Phillip,M.,Landrum,,D,1973
+House,Georgia,Robert,Grier,Stephens,Jr.,D,1973
+House,Hawaii,Spark,,Matsunaga,,D,1973
+House,Hawaii,Patsy,,Mink,,D,1973
+House,Idaho,Steve,,Symms,,R,1973
+House,Idaho,Orval,H.,Hansen,,R,1973
+House,Illinois,Ralph,,Metcalfe,,D,1973
+House,Illinois,Morgan,F.,Murphy,,D,1973
+House,Illinois,Robert,P.,Hanrahan,,R,1973
+House,Illinois,Ed,,Derwinski,,R,1973
+House,Illinois,John,C.,Kluczynski,,D,1973
+House,Illinois,Harold,R.,Collier,,R,1973
+House,Illinois,Cardiss,,Collins,,D,1973
+House,Illinois,Dan,,Rostenkowski,,D,1973
+House,Illinois,Sidney,R.,Yates,,D,1973
+House,Illinois,Samuel,H.,Young,,R,1973
+House,Illinois,Frank,,Annunzio,,D,1973
+House,Illinois,Phil,,Crane,,R,1973
+House,Illinois,Robert,,McClory,,R,1973
+House,Illinois,John,N.,Erlenborn,,R,1973
+House,Illinois,Leslie,C.,Arends,,R,1973
+House,Illinois,John,B.,Anderson,,R,1973
+House,Illinois,George,M.,O'Brien,,R,1973
+House,Illinois,Robert,H.,Michel,,R,1973
+House,Illinois,Tom,,Railsback,,R,1973
+House,Illinois,Paul,,Findley,,R,1973
+House,Illinois,Edward,Rell,Madigan,,R,1973
+House,Illinois,George,E.,Shipley,,D,1973
+House,Illinois,Melvin,,Price,,D,1973
+House,Illinois,Kenneth,J.,Gray,,D,1973
+House,Indiana,Ray,,Madden,,D,1973
+House,Indiana,Earl,,Landgrebe,,R,1973
+House,Indiana,John,,Brademas,,D,1973
+House,Indiana,J.,Edward,Roush,,D,1973
+House,Indiana,Elwood,,Hillis,,R,1973
+House,Indiana,William,G.,Bray,,R,1973
+House,Indiana,John,T.,Myers,,R,1973
+House,Indiana,Roger,H.,Zion,,R,1973
+House,Indiana,Lee,H.,Hamilton,,D,1973
+House,Indiana,David,W.,Dennis,,R,1973
+House,Indiana,William,H.,Hudnut,III,R,1973
+House,Iowa,Edward,,Mezvinsky,,D,1973
+House,Iowa,John,,Culver,,D,1973
+House,Iowa,H.,R.,Gross,,R,1973
+House,Iowa,Neal,Edward,Smith,,D,1973
+House,Iowa,William,J.,Scherle,,R,1973
+House,Iowa,Wiley,,Mayne,,R,1973
+House,Kansas,Keith,,Sebelius,,R,1973
+House,Kansas,William,R.,Roy,,D,1973
+House,Kansas,Larry,,Winn,,R,1973
+House,Kansas,Garner,E.,Shriver,,R,1973
+House,Kansas,Joe,,Skubitz,,R,1973
+House,Kentucky,Frank,,Stubblefield,,D,1973
+House,Kentucky,William,,Natcher,,D,1973
+House,Kentucky,Romano,,Mazzoli,,D,1973
+House,Kentucky,Gene,,Snyder,,R,1973
+House,Kentucky,Tim,Lee,Carter,,R,1973
+House,Kentucky,John,B.,Breckinridge,,D,1973
+House,Kentucky,Carl,D.,Perkins,,D,1973
+House,Louisiana,F.,Edward,Hébert,,D,1973
+House,Louisiana,Lindy,,Boggs,,D,1973
+House,Louisiana,Dave,,Treen,,R,1973
+House,Louisiana,Joe,,Waggonner,,D,1973
+House,Louisiana,Otto,,Passman,,D,1973
+House,Louisiana,John,,Rarick,,D,1973
+House,Louisiana,John,,Breaux,,D,1973
+House,Louisiana,Gillis,William,Long,,D,1973
+House,Maine,Peter,,Kyros,,D,1973
+House,Maine,William,,Cohen,,R,1973
+House,Maryland,William,Oswald,Mills,,R,1973
+House,Maryland,Robert,,Bauman,,R,1973
+House,Maryland,Clarence,,Long,,D,1973
+House,Maryland,Paul,,Sarbanes,,D,1973
+House,Maryland,Marjorie,,Holt,,R,1973
+House,Maryland,Lawrence,,Hogan,,R,1973
+House,Maryland,Goodloe,,Byron,,D,1973
+House,Maryland,Parren,,Mitchell,,D,1973
+House,Maryland,Gilbert,,Gude,,R,1973
+House,Massachusetts,Silvio,O.,Conte,,R,1973
+House,Massachusetts,Edward,,Boland,,D,1973
+House,Massachusetts,Harold,,Donohue,,D,1973
+House,Massachusetts,Robert,,Drinan,,D,1973
+House,Massachusetts,Paul,W.,Cronin,,R,1973
+House,Massachusetts,Michael,J.,Harrington,,D,1973
+House,Massachusetts,Torbert,,Macdonald,,D,1973
+House,Massachusetts,Tip,,O'Neill,,D,1973
+House,Massachusetts,Joe,,Moakley,,D,1973
+House,Massachusetts,Margaret,,Heckler,,R,1973
+House,Massachusetts,James,A.,Burke,,D,1973
+House,Massachusetts,Gerry,,Studds,,D,1973
+House,Michigan,John,,Conyers,,D,1973
+House,Michigan,Marvin,L.,Esch,,R,1973
+House,Michigan,Garry,E.,Brown,,R,1973
+House,Michigan,J.,Edward,Hutchinson,,R,1973
+House,Michigan,Gerald,,Ford,,R,1973
+House,Michigan,Richard,Vander,Veen,,D,1973
+House,Michigan,Charles,E.,Chamberlain,,R,1973
+House,Michigan,Donald,,Riegle,,R,1973
+House,Michigan,R.,James,Harvey,,R,1973
+House,Michigan,J.,Bob,Traxler,,D,1973
+House,Michigan,Guy,Vander,Jagt,,R,1973
+House,Michigan,Elford,Albin,Cederberg,,R,1973
+House,Michigan,Philip,,Ruppe,,R,1973
+House,Michigan,James,G.,O'Hara,,D,1973
+House,Michigan,Charles,,Diggs,,D,1973
+House,Michigan,Lucien,,Nedzi,,D,1973
+House,Michigan,William,D.,Ford,,D,1973
+House,Michigan,John,D.,Dingell,Jr.,D,1973
+House,Michigan,Martha,,Griffiths,,D,1973
+House,Michigan,Robert,J.,Huber,,R,1973
+House,Michigan,William,,Broomfield,,R,1973
+House,Minnesota,Al,,Quie,,R,1973
+House,Minnesota,Ancher,,Nelsen,,R,1973
+House,Minnesota,Bill,,Frenzel,,R,1973
+House,Minnesota,Joseph,,Karth,,DFL,1973
+House,Minnesota,Donald,M.,Fraser,,DFL,1973
+House,Minnesota,John,M.,Zwach,,R,1973
+House,Minnesota,Robert,,Bergland,,DFL,1973
+House,Minnesota,John,,Blatnik,,DFL,1973
+House,Mississippi,Jamie,L.,Whitten,,D,1973
+House,Mississippi,David,R.,Bowen,,D,1973
+House,Mississippi,Sonny,,Montgomery,,D,1973
+House,Mississippi,Thad,,Cochran,,R,1973
+House,Mississippi,Trent,,Lott,,R,1973
+House,Missouri,Bill,,Clay,,D,1973
+House,Missouri,James,W.,Symington,,D,1973
+House,Missouri,Leonor,,Sullivan,,D,1973
+House,Missouri,William,J.,Randall,,D,1973
+House,Missouri,Richard,Walker,Bolling,,D,1973
+House,Missouri,Jerry,,Litton,,D,1973
+House,Missouri,Gene,,Taylor,,R,1973
+House,Missouri,Richard,Howard,Ichord,Jr.,D,1973
+House,Missouri,William,L.,Hungate,,D,1973
+House,Missouri,Bill,,Burlison,,D,1973
+House,Montana,Richard,G.,Shoup,,R,1973
+House,Montana,John,,Melcher,,D,1973
+House,Nebraska,Charles,,Thone,,R,1973
+House,Nebraska,John,Y.,McCollister,,R,1973
+House,Nebraska,David,,Martin,,R,1973
+House,Nevada,David,,Towell,,R,1973
+House,New Hampshire,Louis,C.,Wyman,,R,1973
+House,New Hampshire,James,Colgate,Cleveland,,R,1973
+House,New Jersey,John,E.,Hunt,,R,1973
+House,New Jersey,Charles,W.,Sandman,Jr.,R,1973
+House,New Jersey,James,J.,Howard,,D,1973
+House,New Jersey,Frank,,Thompson,,D,1973
+House,New Jersey,Peter,,Frelinghuysen,Jr.,R,1973
+House,New Jersey,Edwin,B.,Forsythe,,R,1973
+House,New Jersey,William,B.,Widnall,,R,1973
+House,New Jersey,Robert,A.,Roe,,D,1973
+House,New Jersey,Henry,,Helstoski,,D,1973
+House,New Jersey,Peter,W.,Rodino,,D,1973
+House,New Jersey,Joseph,,Minish,,D,1973
+House,New Jersey,Matthew,John,Rinaldo,,R,1973
+House,New Jersey,Joseph,J.,Maraziti,,R,1973
+House,New Jersey,Dominick,V.,Daniels,,D,1973
+House,New Jersey,Edward,J.,Patten,,D,1973
+House,New Mexico,Manuel,,Lujan,Jr.,R,1973
+House,New Mexico,Harold,L.,Runnels,,D,1973
+House,New York,Otis,G.,Pike,,D,1973
+House,New York,James,R.,Grover,Jr.,R,1973
+House,New York,Angelo,D.,Roncallo,,R,1973
+House,New York,Norman,F.,Lent,,R,1973
+House,New York,John,W.,Wydler,,R,1973
+House,New York,Lester,L.,Wolff,,D,1973
+House,New York,Joseph,P.,Addabbo,,D,1973
+House,New York,Benjamin,Stanley,Rosenthal,,D,1973
+House,New York,James,J.,Delaney,,D,1973
+House,New York,Mario,,Biaggi,,D,1973
+House,New York,Frank,J.,Brasco,,D,1973
+House,New York,Shirley,,Chisholm,,D,1973
+House,New York,Bertram,L.,Podell,,D,1973
+House,New York,John,J.,Rooney,,D,1973
+House,New York,Hugh,,Carey,,D,1973
+House,New York,Elizabeth,,Holtzman,,D,1973
+House,New York,John,M.,Murphy,,D,1973
+House,New York,Ed,,Koch,,D,1973
+House,New York,Charles,,Rangel,,D,1973
+House,New York,Bella,,Abzug,,D,1973
+House,New York,Herman,,Badillo,,D,1973
+House,New York,Jonathan,Brewster,Bingham,,D,1973
+House,New York,Peter,A.,Peyser,,R,1973
+House,New York,Ogden,,Reid,,D,1973
+House,New York,Hamilton,,Fish,IV,R,1973
+House,New York,Benjamin,,Gilman,,R,1973
+House,New York,Howard,W.,Robison,,R,1973
+House,New York,Samuel,S.,Stratton,,D,1973
+House,New York,Carleton,J.,King,,R,1973
+House,New York,Robert,C.,McEwen,,R,1973
+House,New York,Donald,J.,Mitchell,,R,1973
+House,New York,James,M.,Hanley,,D,1973
+House,New York,William,F.,Walsh,,R,1973
+House,New York,Frank,,Horton,,R,1973
+House,New York,Barber,,Conable,,R,1973
+House,New York,Henry,P.,Smith,III,R,1973
+House,New York,Thaddeus,J.,Dulski,,D,1973
+House,New York,Jack,,Kemp,,R,1973
+House,New York,James,F.,Hastings,,R,1973
+House,North Carolina,Walter,B.,Jones,Sr.,D,1973
+House,North Carolina,Lawrence,H.,Fountain,,D,1973
+House,North Carolina,David,N.,Henderson,,D,1973
+House,North Carolina,Ike,Franklin,Andrews,,D,1973
+House,North Carolina,Wilmer,,Mizell,,R,1973
+House,North Carolina,L.,Richardson,Preyer,,D,1973
+House,North Carolina,Charlie,,Rose,,D,1973
+House,North Carolina,Earl,B.,Ruth,,R,1973
+House,North Carolina,James,G.,Martin,,R,1973
+House,North Carolina,Jim,,Broyhill,,R,1973
+House,North Carolina,Roy,A.,Taylor,,D,1973
+House,North Dakota,Mark,,Andrews,,R,1973
+House,Ohio,William,J.,Keating,,R,1973
+House,Ohio,Tom,,Luken,,D,1973
+House,Ohio,Donald,D.,Clancy,,R,1973
+House,Ohio,Charles,W.,Whalen,Jr.,R,1973
+House,Ohio,Tennyson,,Guyer,,R,1973
+House,Ohio,Del,,Latta,,R,1973
+House,Ohio,Bill,,Harsha,,R,1973
+House,Ohio,Bud,,Brown,,R,1973
+House,Ohio,Walter,E.,Powell,,R,1973
+House,Ohio,Thomas,L.,Ashley,,D,1973
+House,Ohio,Clarence,E.,Miller,,R,1973
+House,Ohio,J.,William,Stanton,,R,1973
+House,Ohio,Samuel,L.,Devine,,R,1973
+House,Ohio,Charles,Adams,Mosher,,R,1973
+House,Ohio,John,F.,Seiberling,,D,1973
+House,Ohio,Chalmers,,Wylie,,R,1973
+House,Ohio,Ralph,,Regula,,R,1973
+House,Ohio,John,M.,Ashbrook,,R,1973
+House,Ohio,Wayne,,Hays,,D,1973
+House,Ohio,Charles,J.,Carney,,D,1973
+House,Ohio,James,V.,Stanton,,D,1973
+House,Ohio,Louis,,Stokes,,D,1973
+House,Ohio,Charles,,Vanik,,D,1973
+House,Ohio,William,Edwin,Minshall,Jr.,R,1973
+House,Oklahoma,James,R.,Jones,,D,1973
+House,Oklahoma,Clem,,McSpadden,,D,1973
+House,Oklahoma,Carl,,Albert,,D,1973
+House,Oklahoma,Tom,,Steed,,D,1973
+House,Oklahoma,John,,Jarman,,D,1973
+House,Oklahoma,John,Newbold,Camp,,R,1973
+House,Oregon,Wendell,,Wyatt,,R,1973
+House,Oregon,Al,,Ullman,,D,1973
+House,Oregon,Edith,,Green,,D,1973
+House,Oregon,John,R.,Dellenback,,R,1973
+House,Pennsylvania,William,A.,Barrett,,D,1973
+House,Pennsylvania,Robert,N. C.,Nix,Sr.,D,1973
+House,Pennsylvania,William,J.,Green,III,D,1973
+House,Pennsylvania,Joshua,,Eilberg,,D,1973
+House,Pennsylvania,John,H.,Ware,III,R,1973
+House,Pennsylvania,Gus,,Yatron,,D,1973
+House,Pennsylvania,Lawrence,G.,Williams,,R,1973
+House,Pennsylvania,Edward,G.,Biester,Jr.,R,1973
+House,Pennsylvania,Bud,,Shuster,,R,1973
+House,Pennsylvania,Joseph,M.,McDade,,R,1973
+House,Pennsylvania,Dan,,Flood,,D,1973
+House,Pennsylvania,John,P.,Saylor,,R,1973
+House,Pennsylvania,John,,Murtha,,D,1973
+House,Pennsylvania,Lawrence,,Coughlin,,R,1973
+House,Pennsylvania,William,S.,Moorhead,,D,1973
+House,Pennsylvania,Fred,B.,Rooney,,D,1973
+House,Pennsylvania,Edwin,Duing,Eshleman,,R,1973
+House,Pennsylvania,Herman,T.,Schneebeli,,R,1973
+House,Pennsylvania,John,,Heinz,,R,1973
+House,Pennsylvania,George,Atlee,Goodling,,R,1973
+House,Pennsylvania,Joseph,M.,Gaydos,,D,1973
+House,Pennsylvania,John,Herman,Dent,,D,1973
+House,Pennsylvania,Thomas,E.,Morgan,,D,1973
+House,Pennsylvania,Albert,W.,Johnson,,R,1973
+House,Pennsylvania,Joseph,P.,Vigorito,,D,1973
+House,Pennsylvania,Frank,M.,Clark,,D,1973
+House,Rhode Island,Fernand,St,Germain,,D,1973
+House,Rhode Island,Robert,,Tiernan,,D,1973
+House,South Carolina,Mendel,Jackson,Davis,,D,1973
+House,South Carolina,Floyd,,Spence,,R,1973
+House,South Carolina,William,Jennings Bryan,Dorn,,D,1973
+House,South Carolina,James,,Mann,,D,1973
+House,South Carolina,Thomas,S.,Gettys,,D,1973
+House,South Carolina,Edward,Lunn,Young,,R,1973
+House,South Dakota,Frank,E.,Denholm,,D,1973
+House,South Dakota,James,,Abdnor,,R,1973
+House,Tennessee,Jimmy,,Quillen,,R,1973
+House,Tennessee,John,,Duncan,Sr.,R,1973
+House,Tennessee,LaMar,,Baker,,R,1973
+House,Tennessee,Joe,L.,Evins,,D,1973
+House,Tennessee,Richard,,Fulton,,D,1973
+House,Tennessee,Robin,,Beard,,R,1973
+House,Tennessee,Ed,,Jones,,D,1973
+House,Tennessee,Dan,,Kuykendall,,R,1973
+House,Texas,Wright,,Patman,,D,1973
+House,Texas,Charlie,,Wilson,,D,1973
+House,Texas,James,M.,Collins,,R,1973
+House,Texas,Ray,,Roberts,,D,1973
+House,Texas,Alan,,Steelman,,R,1973
+House,Texas,Olin,E.,Teague,,D,1973
+House,Texas,Bill,,Archer,,R,1973
+House,Texas,Robert,C.,Eckhardt,,D,1973
+House,Texas,Jack,,Brooks,,D,1973
+House,Texas,J.,J.,Pickle,,D,1973
+House,Texas,William,R.,Poage,,D,1973
+House,Texas,Jim,,Wright,,D,1973
+House,Texas,Bob,,Price,,R,1973
+House,Texas,John,Andrew,Young,,D,1973
+House,Texas,Kika,de la,Garza,,D,1973
+House,Texas,Richard,Crawford,White,,D,1973
+House,Texas,Omar,,Burleson,,D,1973
+House,Texas,Barbara,,Jordan,,D,1973
+House,Texas,George,H.,Mahon,,D,1973
+House,Texas,Henry,B.,González,,D,1973
+House,Texas,O.,C.,Fisher,,D,1973
+House,Texas,Robert,R.,Casey,,D,1973
+House,Texas,Abraham,,Kazen,,D,1973
+House,Texas,Dale,,Milford,,D,1973
+House,Utah,K.,Gunn,McKay,,D,1973
+House,Utah,Wayne,,Owens,,D,1973
+House,Vermont,Richard,W.,Mallary,,R,1973
+House,Virginia,Thomas,N.,Downing,,D,1973
+House,Virginia,G.,William,Whitehurst,,R,1973
+House,Virginia,David,E.,Satterfield,III,D,1973
+House,Virginia,Robert,,Daniel,,R,1973
+House,Virginia,Dan,,Daniel,,D,1973
+House,Virginia,M.,Caldwell,Butler,,R,1973
+House,Virginia,J.,Kenneth,Robinson,,R,1973
+House,Virginia,Stanford,,Parris,,R,1973
+House,Virginia,William,C.,Wampler,,R,1973
+House,Virginia,Joel,,Broyhill,,R,1973
+House,Washington,Joel,,Pritchard,,R,1973
+House,Washington,Lloyd,,Meeds,,D,1973
+House,Washington,Julia,Butler,Hansen,,D,1973
+House,Washington,Mike,,McCormack,,D,1973
+House,Washington,Tom,,Foley,,D,1973
+House,Washington,Floyd,,Hicks,,D,1973
+House,Washington,Brock,,Adams,,D,1973
+House,West Virginia,Bob,,Mollohan,,D,1973
+House,West Virginia,Harley,Orrin,Staggers,,D,1973
+House,West Virginia,John,M.,Slack,Jr.,D,1973
+House,West Virginia,Ken,,Hechler,,D,1973
+House,Wisconsin,Les,,Aspin,,D,1973
+House,Wisconsin,Robert,,Kastenmeier,,D,1973
+House,Wisconsin,Vernon,Wallace,Thomson,,R,1973
+House,Wisconsin,Clement,J.,Zablocki,,D,1973
+House,Wisconsin,Henry,S.,Reuss,,D,1973
+House,Wisconsin,William,A.,Steiger,,R,1973
+House,Wisconsin,Dave,,Obey,,D,1973
+House,Wisconsin,Harold,Vernon,Froehlich,,R,1973
+House,Wisconsin,Glenn,Robert,Davis,,R,1973
+House,Wyoming,Teno,,Roncalio,,D,1973

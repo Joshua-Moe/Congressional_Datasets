@@ -1,0 +1,553 @@
+Chamber,State,First_Name,Middle_Name,Last_Name,Suffix,Party,Congressional_Year
+Senate,Alabama,John,,Sparkman,,D,1975
+Senate,Alabama,James,,Allen,,D,1975
+Senate,Alaska,Ted,,Stevens,,R,1975
+Senate,Alaska,Mike,,Gravel,,D,1975
+Senate,Arizona,Paul,,Fannin,,R,1975
+Senate,Arizona,Barry,,Goldwater,,R,1975
+Senate,Arkansas,John,L.,McClellan,,D,1975
+Senate,Arkansas,Dale,,Bumpers,,D,1975
+Senate,California,John,V.,Tunney,,D,1975
+Senate,California,S.,I.,Hayakawa,,R,1975
+Senate,California,Alan,,Cranston,,D,1975
+Senate,Colorado,Floyd,,Haskell,,D,1975
+Senate,Colorado,Gary,,Hart,,D,1975
+Senate,Connecticut,Lowell,,Weicker,,R,1975
+Senate,Connecticut,Abraham,,Ribicoff,,D,1975
+Senate,Delaware,William,,Roth,,R,1975
+Senate,Delaware,Joe,,Biden,,D,1975
+Senate,Florida,Lawton,,Chiles,,D,1975
+Senate,Florida,Richard,,Stone,,D,1975
+Senate,Georgia,Sam,,Nunn,,D,1975
+Senate,Georgia,Herman,,Talmadge,,D,1975
+Senate,Hawaii,Hiram,,Fong,,R,1975
+Senate,Hawaii,Daniel,,Inouye,,D,1975
+Senate,Idaho,James,A.,McClure,,R,1975
+Senate,Idaho,Frank,,Church,,D,1975
+Senate,Illinois,Charles,H.,Percy,,R,1975
+Senate,Illinois,Adlai,,Stevenson,III,D,1975
+Senate,Indiana,Vance,,Hartke,,D,1975
+Senate,Indiana,Birch,,Bayh,,D,1975
+Senate,Iowa,Dick,,Clark,,D,1975
+Senate,Iowa,John,,Culver,,D,1975
+Senate,Kansas,James,B.,Pearson,,R,1975
+Senate,Kansas,Bob,,Dole,,R,1975
+Senate,Kentucky,Walter,"""Dee""",Huddleston,,D,1975
+Senate,Kentucky,Wendell,,Ford,,D,1975
+Senate,Louisiana,J.,Bennett,Johnston,,D,1975
+Senate,Louisiana,Russell,B.,Long,,D,1975
+Senate,Maine,Edmund,,Muskie,,D,1975
+Senate,Maine,William,,Hathaway,,D,1975
+Senate,Maryland,J.,Glenn,Beall,Jr.,R,1975
+Senate,Maryland,Charles,,Mathias,,R,1975
+Senate,Massachusetts,Ted,,Kennedy,,D,1975
+Senate,Massachusetts,Edward,,Brooke,,R,1975
+Senate,Michigan,Philip,,Hart,,D,1975
+Senate,Michigan,Donald,,Riegle,,D,1975
+Senate,Michigan,Robert,P.,Griffin,,R,1975
+Senate,Minnesota,Hubert,,Humphrey,,DFL,1975
+Senate,Minnesota,Walter,,Mondale,,DFL,1975
+Senate,Minnesota,Wendell,R.,Anderson,,DFL,1975
+Senate,Mississippi,John,C.,Stennis,,D,1975
+Senate,Mississippi,James,,Eastland,,D,1975
+Senate,Missouri,Stuart,,Symington,,D,1975
+Senate,Missouri,John,,Danforth,,R,1975
+Senate,Missouri,Thomas,,Eagleton,,D,1975
+Senate,Montana,Mike,,Mansfield,,D,1975
+Senate,Montana,Lee,,Metcalf,,D,1975
+Senate,Nebraska,Roman,,Hruska,,R,1975
+Senate,Nebraska,Edward,,Zorinsky,,D,1975
+Senate,Nebraska,Carl,,Curtis,,R,1975
+Senate,Nevada,Howard,,Cannon,,D,1975
+Senate,Nevada,Paul,,Laxalt,,R,1975
+Senate,New Hampshire,Thomas,J.,McIntyre,,D,1975
+Senate,New Hampshire,Norris,,Cotton,,R,1975
+Senate,New Hampshire,John,A.,Durkin,,D,1975
+Senate,New Jersey,Harrison,A.,Williams,,D,1975
+Senate,New Jersey,Clifford,P.,Case,,R,1975
+Senate,New Mexico,Joseph,,Montoya,,D,1975
+Senate,New Mexico,Pete,,Domenici,,R,1975
+Senate,New York,James,L.,Buckley,,C,1975
+Senate,New York,Jacob,,Javits,,R,1975
+Senate,North Carolina,Jesse,,Helms,,R,1975
+Senate,North Carolina,Robert,Burren,Morgan,,D,1975
+Senate,North Dakota,Quentin,,Burdick,,D-NPL,1975
+Senate,North Dakota,Milton,,Young,,R,1975
+Senate,Ohio,Robert,,Taft,Jr.,R,1975
+Senate,Ohio,Howard,,Metzenbaum,,D,1975
+Senate,Ohio,John,,Glenn,,D,1975
+Senate,Oklahoma,Dewey,F.,Bartlett,,R,1975
+Senate,Oklahoma,Henry,,Bellmon,,R,1975
+Senate,Oregon,Mark,,Hatfield,,R,1975
+Senate,Oregon,Bob,,Packwood,,R,1975
+Senate,Pennsylvania,Hugh,,Scott,,R,1975
+Senate,Pennsylvania,Richard,,Schweiker,,R,1975
+Senate,Rhode Island,John,,Pastore,,D,1975
+Senate,Rhode Island,John,,Chafee,,R,1975
+Senate,Rhode Island,Claiborne,,Pell,,D,1975
+Senate,South Carolina,Strom,,Thurmond,,R,1975
+Senate,South Carolina,Fritz,,Hollings,,D,1975
+Senate,South Dakota,James,,Abourezk,,D,1975
+Senate,South Dakota,George,,McGovern,,D,1975
+Senate,Tennessee,Bill,,Brock,,R,1975
+Senate,Tennessee,Howard,,Baker,,R,1975
+Senate,Texas,Lloyd,,Bentsen,,D,1975
+Senate,Texas,John,,Tower,,R,1975
+Senate,Utah,Frank,,Moss,,D,1975
+Senate,Utah,Jake,,Garn,,R,1975
+Senate,Vermont,Robert,,Stafford,,R,1975
+Senate,Vermont,Patrick,,Leahy,,D,1975
+Senate,Virginia,Harry,F.,Byrd,Jr.,I,1975
+Senate,Virginia,William,L.,Scott,,R,1975
+Senate,Washington,Henry,M.,Jackson,,D,1975
+Senate,Washington,Warren,,Magnuson,,D,1975
+Senate,West Virginia,Robert,,Byrd,,D,1975
+Senate,West Virginia,Jennings,,Randolph,,D,1975
+Senate,Wisconsin,William,,Proxmire,,D,1975
+Senate,Wisconsin,Gaylord,,Nelson,,D,1975
+Senate,Wyoming,Gale,W.,McGee,,D,1975
+Senate,Wyoming,Clifford,,Hansen,,R,1975
+House,Alabama,Jack,,Edwards,,R,1975
+House,Alabama,William,Louis,Dickinson,,R,1975
+House,Alabama,Bill,,Nichols,,D,1975
+House,Alabama,Tom,,Bevill,,D,1975
+House,Alabama,Robert,E.,Jones,Jr.,D,1975
+House,Alabama,John,Hall,Buchanan,Jr.,R,1975
+House,Alabama,Walter,,Flowers,,D,1975
+House,Alaska,Don,,Young,,R,1975
+House,Arizona,John,Jacob,Rhodes,,R,1975
+House,Arizona,Mo,,Udall,,D,1975
+House,Arizona,Sam,,Steiger,,R,1975
+House,Arizona,John,Bertrand,Conlan,,R,1975
+House,Arkansas,William,Vollie,Alexander,Jr.,D,1975
+House,Arkansas,Wilbur,,Mills,,D,1975
+House,Arkansas,John,Paul,Hammerschmidt,,R,1975
+House,Arkansas,Ray,,Thornton,,D,1975
+House,California,Harold,T.,Johnson,,D,1975
+House,California,Donald,H.,Clausen,,R,1975
+House,California,John,E.,Moss,,D,1975
+House,California,Robert,L.,Leggett,,D,1975
+House,California,John,,Burton,,D,1975
+House,California,Phillip,,Burton,,D,1975
+House,California,George,,Miller,,D,1975
+House,California,Ron,,Dellums,,D,1975
+House,California,Pete,,Stark,,D,1975
+House,California,Don,,Edwards,,D,1975
+House,California,Leo,,Ryan,,D,1975
+House,California,Pete,,McCloskey,,R,1975
+House,California,Norman,,Mineta,,D,1975
+House,California,John,J.,McFall,,D,1975
+House,California,B.,F.,Sisk,,D,1975
+House,California,Burt,,Talcott,,R,1975
+House,California,John,Hans,Krebs,,D,1975
+House,California,William,M.,Ketchum,,R,1975
+House,California,Robert,J.,Lagomarsino,,R,1975
+House,California,Barry,,Goldwater,Jr.,R,1975
+House,California,James,C.,Corman,,D,1975
+House,California,Carlos,,Moorhead,,R,1975
+House,California,Thomas,M.,Rees,,D,1975
+House,California,Henry,,Waxman,,D,1975
+House,California,Edward,R.,Roybal,,D,1975
+House,California,John,H.,Rousselot,,R,1975
+House,California,Alphonzo,E.,Bell,Jr.,R,1975
+House,California,Yvonne,Brathwaite,Burke,,D,1975
+House,California,Augustus,,Hawkins,,D,1975
+House,California,George,E.,Danielson,,D,1975
+House,California,Charles,H.,Wilson,,D,1975
+House,California,Glenn,M.,Anderson,,D,1975
+House,California,Del,M.,Clawson,,R,1975
+House,California,Mark,W.,Hannaford,,D,1975
+House,California,James,F.,Lloyd,,D,1975
+House,California,George,,Brown,Jr.,D,1975
+House,California,Jerry,,Pettis,,R,1975
+House,California,Shirley,Neil,Pettis,,R,1975
+House,California,Jerry,M.,Patterson,,D,1975
+House,California,Charles,E.,Wiggins,,R,1975
+House,California,Andrew,J.,Hinshaw,,R,1975
+House,California,Bob,,Wilson,,R,1975
+House,California,Lionel,Van,Deerlin,,D,1975
+House,California,Clair,,Burgener,,R,1975
+House,Colorado,Pat,,Schroeder,,D,1975
+House,Colorado,Tim,,Wirth,,D,1975
+House,Colorado,Frank,,Evans,,D,1975
+House,Colorado,James,Paul,Johnson,,R,1975
+House,Colorado,William,L.,Armstrong,,R,1975
+House,Connecticut,William,R.,Cotter,,D,1975
+House,Connecticut,Chris,,Dodd,,D,1975
+House,Connecticut,Robert,,Giaimo,,D,1975
+House,Connecticut,Stewart,,McKinney,,R,1975
+House,Connecticut,Ronald,A.,Sarasin,,R,1975
+House,Connecticut,Toby,,Moffett,,D,1975
+House,Delaware,Pete,,duPont,,R,1975
+House,Florida,Bob,,Sikes,,D,1975
+House,Florida,Don,,Fuqua,,D,1975
+House,Florida,Charles,E.,Bennett,,D,1975
+House,Florida,Bill,,Chappell,,D,1975
+House,Florida,Richard,,Kelly,,R,1975
+House,Florida,Bill,,Young,,R,1975
+House,Florida,Sam,,Gibbons,,D,1975
+House,Florida,James,A.,Haley,,D,1975
+House,Florida,Louis,,Frey,Jr.,R,1975
+House,Florida,Skip,,Bafalis,,R,1975
+House,Florida,Paul,,Rogers,,D,1975
+House,Florida,J.,Herbert,Burke,,R,1975
+House,Florida,William,,Lehman,,D,1975
+House,Florida,Claude,,Pepper,,D,1975
+House,Florida,Dante,,Fascell,,D,1975
+House,Georgia,Ronald,'Bo',Ginn,,D,1975
+House,Georgia,Dawson,,Mathis,,D,1975
+House,Georgia,Jack,,Brinkley,,D,1975
+House,Georgia,Elliott,H.,Levitas,,D,1975
+House,Georgia,Andrew,,Young,,D,1975
+House,Georgia,John,,Flynt,,D,1975
+House,Georgia,Larry,,McDonald,,D,1975
+House,Georgia,W.,S.,Stuckey,Jr.,D,1975
+House,Georgia,Phillip,M.,Landrum,,D,1975
+House,Georgia,Robert,Grier,Stephens,Jr.,D,1975
+House,Hawaii,Spark,,Matsunaga,,D,1975
+House,Hawaii,Patsy,,Mink,,D,1975
+House,Idaho,Steve,,Symms,,R,1975
+House,Idaho,George,V.,Hansen,,R,1975
+House,Illinois,Ralph,,Metcalfe,,D,1975
+House,Illinois,Morgan,F.,Murphy,,D,1975
+House,Illinois,Marty,,Russo,,D,1975
+House,Illinois,Ed,,Derwinski,,R,1975
+House,Illinois,John,C.,Kluczynski,,D,1975
+House,Illinois,John,G.,Fary,,D,1975
+House,Illinois,Henry,,Hyde,,R,1975
+House,Illinois,Cardiss,,Collins,,D,1975
+House,Illinois,Dan,,Rostenkowski,,D,1975
+House,Illinois,Sidney,R.,Yates,,D,1975
+House,Illinois,Abner,,Mikva,,D,1975
+House,Illinois,Frank,,Annunzio,,D,1975
+House,Illinois,Phil,,Crane,,R,1975
+House,Illinois,Robert,,McClory,,R,1975
+House,Illinois,John,N.,Erlenborn,,R,1975
+House,Illinois,Tim,Lee,Hall,,D,1975
+House,Illinois,John,B.,Anderson,,R,1975
+House,Illinois,George,M.,O'Brien,,R,1975
+House,Illinois,Robert,H.,Michel,,R,1975
+House,Illinois,Tom,,Railsback,,R,1975
+House,Illinois,Paul,,Findley,,R,1975
+House,Illinois,Edward,Rell,Madigan,,R,1975
+House,Illinois,George,E.,Shipley,,D,1975
+House,Illinois,Melvin,,Price,,D,1975
+House,Illinois,Paul,,Simon,,D,1975
+House,Indiana,Ray,,Madden,,D,1975
+House,Indiana,Floyd,,Fithian,,D,1975
+House,Indiana,John,,Brademas,,D,1975
+House,Indiana,J.,Edward,Roush,,D,1975
+House,Indiana,Elwood,,Hillis,,R,1975
+House,Indiana,David,W.,Evans,,D,1975
+House,Indiana,John,T.,Myers,,R,1975
+House,Indiana,Philip,H.,Hayes,,D,1975
+House,Indiana,Lee,H.,Hamilton,,D,1975
+House,Indiana,Philip,,Sharp,,D,1975
+House,Indiana,Andrew,,Jacobs,Jr.,D,1975
+House,Iowa,Edward,,Mezvinsky,,D,1975
+House,Iowa,Mike,,Blouin,,D,1975
+House,Iowa,Chuck,,Grassley,,R,1975
+House,Iowa,Neal,Edward,Smith,,D,1975
+House,Iowa,Tom,,Harkin,,D,1975
+House,Iowa,Berkley,,Bedell,,D,1975
+House,Kansas,Keith,,Sebelius,,R,1975
+House,Kansas,Martha,,Keys,,D,1975
+House,Kansas,Larry,,Winn,,R,1975
+House,Kansas,Garner,E.,Shriver,,R,1975
+House,Kansas,Joe,,Skubitz,,R,1975
+House,Kentucky,Carroll,,Hubbard,,D,1975
+House,Kentucky,William,,Natcher,,D,1975
+House,Kentucky,Romano,,Mazzoli,,D,1975
+House,Kentucky,Gene,,Snyder,,R,1975
+House,Kentucky,Tim,Lee,Carter,,R,1975
+House,Kentucky,John,B.,Breckinridge,,D,1975
+House,Kentucky,Carl,D.,Perkins,,D,1975
+House,Louisiana,F.,Edward,Hébert,,D,1975
+House,Louisiana,Lindy,,Boggs,,D,1975
+House,Louisiana,Dave,,Treen,,R,1975
+House,Louisiana,Joe,,Waggonner,,D,1975
+House,Louisiana,Otto,,Passman,,D,1975
+House,Louisiana,Henson,,Moore,,R,1975
+House,Louisiana,John,,Breaux,,D,1975
+House,Louisiana,Gillis,William,Long,,D,1975
+House,Maine,David,F.,Emery,,R,1975
+House,Maine,William,,Cohen,,R,1975
+House,Maryland,Robert,,Bauman,,R,1975
+House,Maryland,Clarence,,Long,,D,1975
+House,Maryland,Paul,,Sarbanes,,D,1975
+House,Maryland,Marjorie,,Holt,,R,1975
+House,Maryland,Gladys,,Spellman,,D,1975
+House,Maryland,Goodloe,,Byron,,D,1975
+House,Maryland,Parren,,Mitchell,,D,1975
+House,Maryland,Gilbert,,Gude,,R,1975
+House,Massachusetts,Silvio,O.,Conte,,R,1975
+House,Massachusetts,Edward,,Boland,,D,1975
+House,Massachusetts,Joseph,,Early,,D,1975
+House,Massachusetts,Robert,,Drinan,,D,1975
+House,Massachusetts,Paul,,Tsongas,,D,1975
+House,Massachusetts,Michael,J.,Harrington,,D,1975
+House,Massachusetts,Torbert,,Macdonald,,D,1975
+House,Massachusetts,Ed,,Markey,,D,1975
+House,Massachusetts,Tip,,O'Neill,,D,1975
+House,Massachusetts,Joe,,Moakley,,D,1975
+House,Massachusetts,Margaret,,Heckler,,R,1975
+House,Massachusetts,James,A.,Burke,,D,1975
+House,Massachusetts,Gerry,,Studds,,D,1975
+House,Michigan,John,,Conyers,,D,1975
+House,Michigan,Marvin,L.,Esch,,R,1975
+House,Michigan,Garry,E.,Brown,,R,1975
+House,Michigan,J.,Edward,Hutchinson,,R,1975
+House,Michigan,Richard,Vander,Veen,,D,1975
+House,Michigan,Milton,Robert,Carr,,D,1975
+House,Michigan,Donald,,Riegle,,D,1975
+House,Michigan,J.,Bob,Traxler,,D,1975
+House,Michigan,Guy,Vander,Jagt,,R,1975
+House,Michigan,Elford,Albin,Cederberg,,R,1975
+House,Michigan,Philip,,Ruppe,,R,1975
+House,Michigan,James,G.,O'Hara,,D,1975
+House,Michigan,Charles,,Diggs,,D,1975
+House,Michigan,Lucien,,Nedzi,,D,1975
+House,Michigan,William,D.,Ford,,D,1975
+House,Michigan,John,,Dingell,,D,1975
+House,Michigan,William,M.,Brodhead,,D,1975
+House,Michigan,James,,Blanchard,,D,1975
+House,Michigan,William,,Broomfield,,R,1975
+House,Minnesota,Al,,Quie,,R,1975
+House,Minnesota,Tom,,Hagedorn,,R,1975
+House,Minnesota,Bill,,Frenzel,,R,1975
+House,Minnesota,Joseph,,Karth,,DFL,1975
+House,Minnesota,Donald,M.,Fraser,,DFL,1975
+House,Minnesota,Rick,,Nolan,,DFL,1975
+House,Minnesota,Robert,,Bergland,,DFL,1975
+House,Minnesota,Jim,,Oberstar,,DFL,1975
+House,Mississippi,Jamie,,Whitten,,D,1975
+House,Mississippi,David,R.,Bowen,,D,1975
+House,Mississippi,Sonny,,Montgomery,,D,1975
+House,Mississippi,Thad,,Cochran,,R,1975
+House,Mississippi,Trent,,Lott,,R,1975
+House,Missouri,Bill,,Clay,,D,1975
+House,Missouri,James,W.,Symington,,D,1975
+House,Missouri,Leonor,,Sullivan,,D,1975
+House,Missouri,William,J.,Randall,,D,1975
+House,Missouri,Richard,Walker,Bolling,,D,1975
+House,Missouri,Jerry,,Litton,,D,1975
+House,Missouri,Tom,,Coleman,,R,1975
+House,Missouri,Gene,,Taylor,,R,1975
+House,Missouri,Richard,Howard,Ichord,Jr.,D,1975
+House,Missouri,William,L.,Hungate,,D,1975
+House,Missouri,Bill,,Burlison,,D,1975
+House,Montana,Max,,Baucus,,D,1975
+House,Montana,John,,Melcher,,D,1975
+House,Nebraska,Charles,,Thone,,R,1975
+House,Nebraska,John,Y.,McCollister,,R,1975
+House,Nebraska,Virginia,D.,Smith,,R,1975
+House,Nevada,James,David,Santini,,D,1975
+House,New Hampshire,Norman,,D'Amours,,D,1975
+House,New Hampshire,James,Colgate,Cleveland,,R,1975
+House,New Jersey,James,,Florio,,D,1975
+House,New Jersey,William,J.,Hughes,,D,1975
+House,New Jersey,James,J.,Howard,,D,1975
+House,New Jersey,Frank,,Thompson,,D,1975
+House,New Jersey,Millicent,,Fenwick,,R,1975
+House,New Jersey,Edwin,B.,Forsythe,,R,1975
+House,New Jersey,Andrew,,Maguire,,D,1975
+House,New Jersey,Robert,A.,Roe,,D,1975
+House,New Jersey,Henry,,Helstoski,,D,1975
+House,New Jersey,Peter,W.,Rodino,,D,1975
+House,New Jersey,Joseph,,Minish,,D,1975
+House,New Jersey,Matthew,John,Rinaldo,,R,1975
+House,New Jersey,Helen,Stevenson,Meyner,,D,1975
+House,New Jersey,Dominick,V.,Daniels,,D,1975
+House,New Jersey,Edward,J.,Patten,,D,1975
+House,New Mexico,Manuel,,Lujan,Jr.,R,1975
+House,New Mexico,Harold,L.,Runnels,,D,1975
+House,New York,Otis,G.,Pike,,D,1975
+House,New York,Thomas,,Downey,,D,1975
+House,New York,Jerome,,Ambro,,D,1975
+House,New York,Norman,F.,Lent,,R,1975
+House,New York,John,W.,Wydler,,R,1975
+House,New York,Lester,L.,Wolff,,D,1975
+House,New York,Joseph,P.,Addabbo,,D,1975
+House,New York,Benjamin,Stanley,Rosenthal,,D,1975
+House,New York,James,J.,Delaney,,D,1975
+House,New York,Mario,,Biaggi,,D,1975
+House,New York,James,H.,Scheuer,,D,1975
+House,New York,Shirley,,Chisholm,,D,1975
+House,New York,Stephen,,Solarz,,D,1975
+House,New York,Fred,,Richmond,,D,1975
+House,New York,Leo,C.,Zeferetti,,D,1975
+House,New York,Elizabeth,,Holtzman,,D,1975
+House,New York,John,M.,Murphy,,D,1975
+House,New York,Ed,,Koch,,D,1975
+House,New York,Charles,,Rangel,,D,1975
+House,New York,Bella,,Abzug,,D,1975
+House,New York,Herman,,Badillo,,D,1975
+House,New York,Jonathan,Brewster,Bingham,,D,1975
+House,New York,Peter,A.,Peyser,,R,1975
+House,New York,Richard,,Ottinger,,D,1975
+House,New York,Hamilton,,Fish,IV,R,1975
+House,New York,Benjamin,,Gilman,,R,1975
+House,New York,Matthew,F.,McHugh,,D,1975
+House,New York,Samuel,S.,Stratton,,D,1975
+House,New York,Edward,W.,Pattison,,D,1975
+House,New York,Robert,C.,McEwen,,R,1975
+House,New York,Donald,J.,Mitchell,,R,1975
+House,New York,James,M.,Hanley,,D,1975
+House,New York,William,F.,Walsh,,R,1975
+House,New York,Frank,,Horton,,R,1975
+House,New York,Barber,,Conable,,R,1975
+House,New York,John,J.,LaFalce,,D,1975
+House,New York,Henry,J.,Nowak,,D,1975
+House,New York,Jack,,Kemp,,R,1975
+House,New York,James,F.,Hastings,,R,1975
+House,New York,Stan,,Lundine,,D,1975
+House,North Carolina,Walter,B.,Jones,Sr.,D,1975
+House,North Carolina,Lawrence,H.,Fountain,,D,1975
+House,North Carolina,David,N.,Henderson,,D,1975
+House,North Carolina,Ike,Franklin,Andrews,,D,1975
+House,North Carolina,Stephen,L.,Neal,,D,1975
+House,North Carolina,L.,Richardson,Preyer,,D,1975
+House,North Carolina,Charlie,,Rose,,D,1975
+House,North Carolina,Bill,,Hefner,,D,1975
+House,North Carolina,James,G.,Martin,,R,1975
+House,North Carolina,Jim,,Broyhill,,R,1975
+House,North Carolina,Roy,A.,Taylor,,D,1975
+House,North Dakota,Mark,,Andrews,,R,1975
+House,Ohio,Bill,,Gradison,,R,1975
+House,Ohio,Donald,D.,Clancy,,R,1975
+House,Ohio,Charles,W.,Whalen,Jr.,R,1975
+House,Ohio,Tennyson,,Guyer,,R,1975
+House,Ohio,Del,,Latta,,R,1975
+House,Ohio,Bill,,Harsha,,R,1975
+House,Ohio,Bud,,Brown,,R,1975
+House,Ohio,Tom,,Kindness,,R,1975
+House,Ohio,Thomas,L.,Ashley,,D,1975
+House,Ohio,Clarence,E.,Miller,,R,1975
+House,Ohio,J.,William,Stanton,,R,1975
+House,Ohio,Samuel,L.,Devine,,R,1975
+House,Ohio,Charles,Adams,Mosher,,R,1975
+House,Ohio,John,F.,Seiberling,,D,1975
+House,Ohio,Chalmers,,Wylie,,R,1975
+House,Ohio,Ralph,,Regula,,R,1975
+House,Ohio,John,M.,Ashbrook,,R,1975
+House,Ohio,Wayne,,Hays,,D,1975
+House,Ohio,Charles,J.,Carney,,D,1975
+House,Ohio,James,V.,Stanton,,D,1975
+House,Ohio,Louis,,Stokes,,D,1975
+House,Ohio,Charles,,Vanik,,D,1975
+House,Ohio,Ronald,M.,Mottl,,D,1975
+House,Oklahoma,James,R.,Jones,,D,1975
+House,Oklahoma,Ted,,Risenhoover,,D,1975
+House,Oklahoma,Carl,,Albert,,D,1975
+House,Oklahoma,Tom,,Steed,,D,1975
+House,Oklahoma,John,,Jarman,,D,1975
+House,Oklahoma,Glenn,,English,,D,1975
+House,Oregon,Les,,AuCoin,,D,1975
+House,Oregon,Al,,Ullman,,D,1975
+House,Oregon,Robert,B.,Duncan,,D,1975
+House,Oregon,Jim,,Weaver,,D,1975
+House,Pennsylvania,William,A.,Barrett,,D,1975
+House,Pennsylvania,Michael,,Myers,,D,1975
+House,Pennsylvania,Robert,N. C.,Nix,Sr.,D,1975
+House,Pennsylvania,William,J.,Green,III,D,1975
+House,Pennsylvania,Joshua,,Eilberg,,D,1975
+House,Pennsylvania,Richard,T.,Schulze,,R,1975
+House,Pennsylvania,Gus,,Yatron,,D,1975
+House,Pennsylvania,Robert,W.,Edgar,,D,1975
+House,Pennsylvania,Edward,G.,Biester,Jr.,R,1975
+House,Pennsylvania,Bud,,Shuster,,R,1975
+House,Pennsylvania,Joseph,M.,McDade,,R,1975
+House,Pennsylvania,Dan,,Flood,,D,1975
+House,Pennsylvania,John,,Murtha,,D,1975
+House,Pennsylvania,Lawrence,,Coughlin,,R,1975
+House,Pennsylvania,William,S.,Moorhead,,D,1975
+House,Pennsylvania,Fred,B.,Rooney,,D,1975
+House,Pennsylvania,Edwin,Duing,Eshleman,,R,1975
+House,Pennsylvania,Herman,T.,Schneebeli,,R,1975
+House,Pennsylvania,John,,Heinz,,R,1975
+House,Pennsylvania,William,F.,Goodling,,R,1975
+House,Pennsylvania,Joseph,M.,Gaydos,,D,1975
+House,Pennsylvania,John,Herman,Dent,,D,1975
+House,Pennsylvania,Thomas,E.,Morgan,,D,1975
+House,Pennsylvania,Albert,W.,Johnson,,R,1975
+House,Pennsylvania,Joseph,P.,Vigorito,,D,1975
+House,Pennsylvania,Gary,A.,Myers,,R,1975
+House,Rhode Island,Fernand,St,Germain,,D,1975
+House,Rhode Island,Edward,,Beard,,D,1975
+House,South Carolina,Mendel,Jackson,Davis,,D,1975
+House,South Carolina,Floyd,,Spence,,R,1975
+House,South Carolina,Butler,,Derrick,,D,1975
+House,South Carolina,James,,Mann,,D,1975
+House,South Carolina,Kenneth,Lamar,Holland,,D,1975
+House,South Carolina,John,,Jenrette,,D,1975
+House,South Dakota,Larry,,Pressler,,R,1975
+House,South Dakota,James,,Abdnor,,R,1975
+House,Tennessee,Jimmy,,Quillen,,R,1975
+House,Tennessee,John,,Duncan,Sr.,R,1975
+House,Tennessee,Marilyn,,Lloyd,,D,1975
+House,Tennessee,Joe,L.,Evins,,D,1975
+House,Tennessee,Richard,,Fulton,,D,1975
+House,Tennessee,Clifford,,Allen,,D,1975
+House,Tennessee,Robin,,Beard,,R,1975
+House,Tennessee,Ed,,Jones,,D,1975
+House,Tennessee,Harold,,Ford,Sr.,D,1975
+House,Texas,Wright,,Patman,,D,1975
+House,Texas,Sam,B.,Hall,,D,1975
+House,Texas,Charlie,,Wilson,,D,1975
+House,Texas,James,M.,Collins,,R,1975
+House,Texas,Ray,,Roberts,,D,1975
+House,Texas,Alan,,Steelman,,R,1975
+House,Texas,Olin,E.,Teague,,D,1975
+House,Texas,Bill,,Archer,,R,1975
+House,Texas,Robert,C.,Eckhardt,,D,1975
+House,Texas,Jack,,Brooks,,D,1975
+House,Texas,J.,J.,Pickle,,D,1975
+House,Texas,William,R.,Poage,,D,1975
+House,Texas,Jim,,Wright,,D,1975
+House,Texas,Jack,,Hightower,,D,1975
+House,Texas,John,Andrew,Young,,D,1975
+House,Texas,Kika,de la,Garza,,D,1975
+House,Texas,Richard,Crawford,White,,D,1975
+House,Texas,Omar,,Burleson,,D,1975
+House,Texas,Barbara,,Jordan,,D,1975
+House,Texas,George,H.,Mahon,,D,1975
+House,Texas,Henry,B.,González,,D,1975
+House,Texas,Bob,,Krueger,,D,1975
+House,Texas,Robert,R.,Casey,,D,1975
+House,Texas,Ron,,Paul,,R,1975
+House,Texas,Abraham,,Kazen,,D,1975
+House,Texas,Dale,,Milford,,D,1975
+House,Utah,K.,Gunn,McKay,,D,1975
+House,Utah,Allan,Turner,Howe,,D,1975
+House,Vermont,Jim,,Jeffords,,R,1975
+House,Virginia,Thomas,N.,Downing,,D,1975
+House,Virginia,G.,William,Whitehurst,,R,1975
+House,Virginia,David,E.,Satterfield,III,D,1975
+House,Virginia,Robert,,Daniel,,R,1975
+House,Virginia,Dan,,Daniel,,D,1975
+House,Virginia,M.,Caldwell,Butler,,R,1975
+House,Virginia,J.,Kenneth,Robinson,,R,1975
+House,Virginia,Herbert,,Harris,,D,1975
+House,Virginia,William,C.,Wampler,,R,1975
+House,Virginia,Joseph,L.,Fisher,,D,1975
+House,Washington,Joel,,Pritchard,,R,1975
+House,Washington,Lloyd,,Meeds,,D,1975
+House,Washington,Don,,Bonker,,D,1975
+House,Washington,Mike,,McCormack,,D,1975
+House,Washington,Tom,,Foley,,D,1975
+House,Washington,Floyd,,Hicks,,D,1975
+House,Washington,Brock,,Adams,,D,1975
+House,West Virginia,Bob,,Mollohan,,D,1975
+House,West Virginia,Harley,Orrin,Staggers,,D,1975
+House,West Virginia,John,M.,Slack,Jr.,D,1975
+House,West Virginia,Ken,,Hechler,,D,1975
+House,Wisconsin,Les,,Aspin,,D,1975
+House,Wisconsin,Robert,,Kastenmeier,,D,1975
+House,Wisconsin,Alvin,,Baldus,,D,1975
+House,Wisconsin,Clement,J.,Zablocki,,D,1975
+House,Wisconsin,Henry,S.,Reuss,,D,1975
+House,Wisconsin,William,A.,Steiger,,R,1975
+House,Wisconsin,Dave,,Obey,,D,1975
+House,Wisconsin,Robert,John,Cornell,,D,1975
+House,Wisconsin,Bob,,Kasten,,R,1975
+House,Wyoming,Teno,,Roncalio,,D,1975

@@ -1,0 +1,560 @@
+Chamber,State,First_Name,Middle_Name,Last_Name,Suffix,Party,Congressional_Year
+Senate,Alabama,John,J.,Sparkman,,D,1961
+Senate,Alabama,J.,Lister,Hill,,D,1961
+Senate,Alaska,Bob,,Bartlett,,D,1961
+Senate,Alaska,Ernest,,Gruening,,D,1961
+Senate,Arizona,Barry,,Goldwater,,R,1961
+Senate,Arizona,Carl,,Hayden,,D,1961
+Senate,Arkansas,John,L.,McClellan,,D,1961
+Senate,Arkansas,J.,William,Fulbright,,D,1961
+Senate,California,Clair,,Engle,,D,1961
+Senate,California,Thomas,,Kuchel,,R,1961
+Senate,Colorado,Gordon,,Allott,,R,1961
+Senate,Colorado,John,A.,Carroll,,D,1961
+Senate,Connecticut,Thomas,J.,Dodd,,D,1961
+Senate,Connecticut,Prescott,,Bush,,R,1961
+Senate,Delaware,John,J.,Williams,,R,1961
+Senate,Delaware,J.,Caleb,Boggs,,R,1961
+Senate,Florida,Spessard,,Holland,,D,1961
+Senate,Florida,George,,Smathers,,D,1961
+Senate,Georgia,Richard,,Russell,Jr.,D,1961
+Senate,Georgia,Herman,,Talmadge,,D,1961
+Senate,Hawaii,Hiram,,Fong,,R,1961
+Senate,Hawaii,Oren,E.,Long,,D,1961
+Senate,Idaho,Henry,,Dworshak,,R,1961
+Senate,Idaho,Leonard,B.,Jordan,,R,1961
+Senate,Idaho,Frank,,Church,,D,1961
+Senate,Illinois,Paul,,Douglas,,D,1961
+Senate,Illinois,Everett,M.,Dirksen,,R,1961
+Senate,Indiana,Vance,,Hartke,,D,1961
+Senate,Indiana,Homer,E.,Capehart,,R,1961
+Senate,Iowa,Jack,,Miller,,R,1961
+Senate,Iowa,Bourke,B.,Hickenlooper,,R,1961
+Senate,Kansas,Andrew,Frank,Schoeppel,,R,1961
+Senate,Kansas,James,B.,Pearson,,R,1961
+Senate,Kansas,Frank,,Carlson,,R,1961
+Senate,Kentucky,John,Sherman,Cooper,,R,1961
+Senate,Kentucky,Thruston,Ballard,Morton,,R,1961
+Senate,Louisiana,Allen,J.,Ellender,,D,1961
+Senate,Louisiana,Russell,B.,Long,,D,1961
+Senate,Maine,Edmund,,Muskie,,D,1961
+Senate,Maine,Margaret,Chase,Smith,,R,1961
+Senate,Maryland,James,Glenn,Beall,,R,1961
+Senate,Maryland,John,Marshall,Butler,,R,1961
+Senate,Massachusetts,Benjamin,A.,Smith,II,D,1961
+Senate,Massachusetts,Ted,,Kennedy,,D,1961
+Senate,Massachusetts,Leverett,,Saltonstall,,R,1961
+Senate,Michigan,Philip,,Hart,,D,1961
+Senate,Michigan,Patrick,V.,McNamara,,D,1961
+Senate,Minnesota,Eugene,,McCarthy,,DFL,1961
+Senate,Minnesota,Hubert,,Humphrey,,DFL,1961
+Senate,Mississippi,John,C.,Stennis,,D,1961
+Senate,Mississippi,James,,Eastland,,D,1961
+Senate,Missouri,Stuart,,Symington,,D,1961
+Senate,Missouri,Edward,V.,Long,,D,1961
+Senate,Montana,Mike,,Mansfield,,D,1961
+Senate,Montana,Lee,,Metcalf,,D,1961
+Senate,Nebraska,Roman,,Hruska,,R,1961
+Senate,Nebraska,Carl,,Curtis,,R,1961
+Senate,Nevada,Howard,,Cannon,,D,1961
+Senate,Nevada,Alan,,Bible,,D,1961
+Senate,New Hampshire,Styles,,Bridges,,R,1961
+Senate,New Hampshire,Maurice,J.,Murphy,Jr.,R,1961
+Senate,New Hampshire,Thomas,J.,McIntyre,,D,1961
+Senate,New Hampshire,Norris,,Cotton,,R,1961
+Senate,New Jersey,Clifford,P.,Case,,R,1961
+Senate,New Jersey,Harrison,A.,Williams,,D,1961
+Senate,New Mexico,Dennis,,Chávez,,D,1961
+Senate,New Mexico,Edwin,L.,Mechem,,R,1961
+Senate,New Mexico,Clinton,P.,Anderson,,D,1961
+Senate,New York,Kenneth,,Keating,,R,1961
+Senate,New York,Jacob,,Javits,,R,1961
+Senate,North Carolina,B.,Everett,Jordan,,D,1961
+Senate,North Carolina,Sam,,Ervin,,D,1961
+Senate,North Dakota,Quentin,,Burdick,,D-NPL,1961
+Senate,North Dakota,Milton,,Young,,R,1961
+Senate,Ohio,Stephen,M.,Young,,D,1961
+Senate,Ohio,Frank,,Lausche,,D,1961
+Senate,Oklahoma,Robert,S.,Kerr,,D,1961
+Senate,Oklahoma,Mike,,Monroney,,D,1961
+Senate,Oregon,Maurine,,Neuberger,,D,1961
+Senate,Oregon,Wayne,,Morse,,D,1961
+Senate,Pennsylvania,Hugh,,Scott,,R,1961
+Senate,Pennsylvania,Joseph,S.,Clark,Jr.,D,1961
+Senate,Rhode Island,John,,Pastore,,D,1961
+Senate,Rhode Island,Claiborne,,Pell,,D,1961
+Senate,South Carolina,Strom,,Thurmond,,D,1961
+Senate,South Carolina,Olin,D.,Johnston,,D,1961
+Senate,South Dakota,Karl,E.,Mundt,,R,1961
+Senate,South Dakota,Francis,H.,Case,,R,1961
+Senate,South Dakota,Joseph,H.,Bottum,,R,1961
+Senate,Tennessee,Albert,,Gore,Sr.,D,1961
+Senate,Tennessee,Estes,,Kefauver,,D,1961
+Senate,Texas,Ralph,,Yarborough,,D,1961
+Senate,Texas,Lyndon,B.,Johnson,,D,1961
+Senate,Texas,William,A.,Blakley,,D,1961
+Senate,Texas,John,,Tower,,R,1961
+Senate,Utah,Frank,,Moss,,D,1961
+Senate,Utah,Wallace,F.,Bennett,,R,1961
+Senate,Vermont,Winston,L.,Prouty,,R,1961
+Senate,Vermont,George,,Aiken,,R,1961
+Senate,Virginia,Harry,F.,Byrd,,D,1961
+Senate,Virginia,Absalom,Willis,Robertson,,D,1961
+Senate,Washington,Henry,M.,Jackson,,D,1961
+Senate,Washington,Warren,,Magnuson,,D,1961
+Senate,West Virginia,Robert,,Byrd,,D,1961
+Senate,West Virginia,Jennings,,Randolph,,D,1961
+Senate,Wisconsin,William,,Proxmire,,D,1961
+Senate,Wisconsin,Alexander,,Wiley,,R,1961
+Senate,Wyoming,Gale,W.,McGee,,D,1961
+Senate,Wyoming,John,J.,Hickey,,D,1961
+Senate,Wyoming,Milward,,Simpson,,R,1961
+House,Alabama,Frank,W.,Boykin,,D,1961
+House,Alabama,George,M.,Grant,,D,1961
+House,Alabama,George,W.,Andrews,,D,1961
+House,Alabama,Kenneth,A.,Roberts,,D,1961
+House,Alabama,Albert,,Rains,,D,1961
+House,Alabama,Armistead,I.,Selden,Jr.,D,1961
+House,Alabama,Carl,,Elliott,,D,1961
+House,Alabama,Robert,E.,Jones,Jr.,D,1961
+House,Alabama,George,,Huddleston,Jr.,D,1961
+House,Alaska,Ralph,Julian,Rivers,,D,1961
+House,Arizona,John,Jacob,Rhodes,,R,1961
+House,Arizona,Stewart,,Udall,,D,1961
+House,Arizona,Mo,,Udall,,D,1961
+House,Arkansas,Ezekiel,C.,Gathings,,D,1961
+House,Arkansas,Wilbur,,Mills,,D,1961
+House,Arkansas,James,William,Trimble,,D,1961
+House,Arkansas,Oren,,Harris,,D,1961
+House,Arkansas,Dale,,Alford,,D,1961
+House,Arkansas,William,F.,Norrell,,D,1961
+House,Arkansas,Catherine,Dorris,Norrell,,D,1961
+House,California,Clement,Woodnutt,Miller,,D,1961
+House,California,Harold,T.,Johnson,,D,1961
+House,California,John,E.,Moss,,D,1961
+House,California,William,S.,Mailliard,,R,1961
+House,California,John,F.,Shelley,,D,1961
+House,California,John,F.,Baldwin,Jr.,R,1961
+House,California,Jeffery,,Cohelan,,D,1961
+House,California,George,P.,Miller,,D,1961
+House,California,J.,Arthur,Younger,,R,1961
+House,California,Charles,,Gubser,,R,1961
+House,California,John,J.,McFall,,D,1961
+House,California,B.,F.,Sisk,,D,1961
+House,California,Charles,M.,Teague,,R,1961
+House,California,Harlan,,Hagen,,D,1961
+House,California,Gordon,L.,McDonough,,R,1961
+House,California,Alphonzo,E.,Bell,Jr.,R,1961
+House,California,Cecil,R.,King,,D,1961
+House,California,Craig,,Hosmer,,R,1961
+House,California,Chet,,Holifield,,D,1961
+House,California,H.,Allen,Smith,,R,1961
+House,California,Edgar,W.,Hiestand,,R,1961
+House,California,James,C.,Corman,,D,1961
+House,California,Clyde,,Doyle,,D,1961
+House,California,Glenard,P.,Lipscomb,,R,1961
+House,California,John,H.,Rousselot,,R,1961
+House,California,James,,Roosevelt,,D,1961
+House,California,Harry,R.,Sheppard,,D,1961
+House,California,James,B.,Utt,,R,1961
+House,California,Dalip,Singh,Saund,,D,1961
+House,California,Bob,,Wilson,,R,1961
+House,Colorado,Byron,G.,Rogers,,D,1961
+House,Colorado,Peter,H.,Dominick,,R,1961
+House,Colorado,John,,Chenoweth,,R,1961
+House,Colorado,Wayne,N.,Aspinall,,D,1961
+House,Connecticut,Emilio,Q.,Daddario,,D,1961
+House,Connecticut,Horace,,Seely-Brown,Jr.,R,1961
+House,Connecticut,Robert,,Giaimo,,D,1961
+House,Connecticut,Abner,W.,Sibal,,R,1961
+House,Connecticut,John,S.,Monagan,,D,1961
+House,Connecticut,Frank,,Kowalski,,D,1961
+House,Delaware,Harris,,McDowell,,D,1961
+House,Florida,William,C.,Cramer,,R,1961
+House,Florida,Charles,E.,Bennett,,D,1961
+House,Florida,Robert,L. F.,Sikes,,D,1961
+House,Florida,Dante,,Fascell,,D,1961
+House,Florida,Syd,,Herlong,,D,1961
+House,Florida,Paul,,Rogers,,D,1961
+House,Florida,James,A.,Haley,,D,1961
+House,Florida,Donald,Ray,Matthews,,D,1961
+House,Georgia,George,Elliott,Hagan,,D,1961
+House,Georgia,J.,L.,Pilcher,,D,1961
+House,Georgia,Tic,,Forrester,,D,1961
+House,Georgia,John,,Flynt,,D,1961
+House,Georgia,James,C.,Davis,,D,1961
+House,Georgia,Carl,,Vinson,,D,1961
+House,Georgia,John,William,Davis,,D,1961
+House,Georgia,Iris,Faircloth,Blitch,,D,1961
+House,Georgia,Phillip,M.,Landrum,,D,1961
+House,Georgia,Robert,Grier,Stephens,Jr.,D,1961
+House,Hawaii,Daniel,,Inouye,,D,1961
+House,Idaho,Gracie,,Pfost,,D,1961
+House,Idaho,Ralph,R.,Harding,,D,1961
+House,Illinois,William,L.,Dawson,,D,1961
+House,Illinois,Barratt,,O'Hara,,D,1961
+House,Illinois,William,T.,Murphy,,D,1961
+House,Illinois,Ed,,Derwinski,,R,1961
+House,Illinois,John,C.,Kluczynski,,D,1961
+House,Illinois,Thomas,J.,O'Brien,,D,1961
+House,Illinois,Roland,V.,Libonati,,D,1961
+House,Illinois,Dan,,Rostenkowski,,D,1961
+House,Illinois,Sidney,R.,Yates,,D,1961
+House,Illinois,Harold,R.,Collier,,R,1961
+House,Illinois,Roman,,Pucinski,,D,1961
+House,Illinois,Edward,Rowan,Finnegan,,D,1961
+House,Illinois,Marguerite,S.,Church,,R,1961
+House,Illinois,Elmer,J.,Hoffman,,R,1961
+House,Illinois,Noah,M.,Mason,,R,1961
+House,Illinois,John,B.,Anderson,,R,1961
+House,Illinois,Leslie,C.,Arends,,R,1961
+House,Illinois,Robert,H.,Michel,,R,1961
+House,Illinois,Robert,B.,Chiperfield,,R,1961
+House,Illinois,Paul,,Findley,,R,1961
+House,Illinois,Peter,F.,Mack,Jr.,D,1961
+House,Illinois,William,L.,Springer,,R,1961
+House,Illinois,George,E.,Shipley,,D,1961
+House,Illinois,Melvin,,Price,,D,1961
+House,Illinois,Kenneth,J.,Gray,,D,1961
+House,Indiana,Ray,,Madden,,D,1961
+House,Indiana,Charles,A.,Halleck,,R,1961
+House,Indiana,John,,Brademas,,D,1961
+House,Indiana,E.,Ross,Adair,,R,1961
+House,Indiana,J.,Edward,Roush,,D,1961
+House,Indiana,Richard,L.,Roudebush,,R,1961
+House,Indiana,William,G.,Bray,,R,1961
+House,Indiana,Winfield,K.,Denton,,D,1961
+House,Indiana,Earl,,Wilson,,R,1961
+House,Indiana,Ralph,,Harvey,,R,1961
+House,Indiana,Donald,C.,Bruce,,R,1961
+House,Iowa,Fred,,Schwengel,,R,1961
+House,Iowa,James,E.,Bromwell,,R,1961
+House,Iowa,H.,R.,Gross,,R,1961
+House,Iowa,John,Henry,Kyl,,R,1961
+House,Iowa,Neal,Edward,Smith,,D,1961
+House,Iowa,Merwin,,Coad,,D,1961
+House,Iowa,Ben,F.,Jensen,,R,1961
+House,Iowa,Charles,B.,Hoeven,,R,1961
+House,Kansas,William,H.,Avery,,R,1961
+House,Kansas,Robert,,Ellsworth,,R,1961
+House,Kansas,Walter,Lewis,McVey,Jr.,R,1961
+House,Kansas,Garner,E.,Shriver,,R,1961
+House,Kansas,James,Floyd,Breeding,,D,1961
+House,Kansas,Bob,,Dole,,R,1961
+House,Kentucky,Frank,,Stubblefield,,D,1961
+House,Kentucky,William,,Natcher,,D,1961
+House,Kentucky,Frank,W.,Burke,,D,1961
+House,Kentucky,Frank,,Chelf,,D,1961
+House,Kentucky,Brent,,Spence,,D,1961
+House,Kentucky,John,C.,Watts,,D,1961
+House,Kentucky,Carl,D.,Perkins,,D,1961
+House,Kentucky,Eugene,,Siler,,R,1961
+House,Louisiana,F.,Edward,Hébert,,D,1961
+House,Louisiana,Hale,,Boggs,,D,1961
+House,Louisiana,Edwin,E.,Willis,,D,1961
+House,Louisiana,Overton,,Brooks,,D,1961
+House,Louisiana,Joe,,Waggonner,,D,1961
+House,Louisiana,Otto,,Passman,,D,1961
+House,Louisiana,James,H.,Morrison,,D,1961
+House,Louisiana,T.,Ashton,Thompson,,D,1961
+House,Louisiana,Harold,B.,McSween,,D,1961
+House,Maine,Peter,A.,Garland,,R,1961
+House,Maine,Stanley,R.,Tupper,,R,1961
+House,Maine,Clifford,,McIntire,,R,1961
+House,Maryland,Thomas,F.,Johnson,,D,1961
+House,Maryland,Daniel,,Brewster,,D,1961
+House,Maryland,Edward,,Garmatz,,D,1961
+House,Maryland,George,Hyde,Fallon,,D,1961
+House,Maryland,Richard,,Lankford,,D,1961
+House,Maryland,Charles,,Mathias,,R,1961
+House,Maryland,Samuel,,Friedel,,D,1961
+House,Massachusetts,Silvio,O.,Conte,,R,1961
+House,Massachusetts,Edward,,Boland,,D,1961
+House,Massachusetts,Philip,J.,Philbin,,D,1961
+House,Massachusetts,Harold,,Donohue,,D,1961
+House,Massachusetts,F.,Bradford,Morse,,R,1961
+House,Massachusetts,William,H.,Bates,,R,1961
+House,Massachusetts,Thomas,J.,Lane,,D,1961
+House,Massachusetts,Torbert,,Macdonald,,D,1961
+House,Massachusetts,Hastings,,Keith,,R,1961
+House,Massachusetts,Laurence,,Curtis,,R,1961
+House,Massachusetts,Tip,,O'Neill,,D,1961
+House,Massachusetts,John,W.,McCormack,,D,1961
+House,Massachusetts,James,A.,Burke,,D,1961
+House,Massachusetts,Joseph,W.,Martin,Jr.,R,1961
+House,Michigan,Thaddeus,M.,Machrowicz,,D,1961
+House,Michigan,Lucien,,Nedzi,,D,1961
+House,Michigan,George,,Meader,,R,1961
+House,Michigan,August,E.,Johansen,,R,1961
+House,Michigan,Clare,E.,Hoffman,,R,1961
+House,Michigan,Gerald,,Ford,,R,1961
+House,Michigan,Charles,E.,Chamberlain,,R,1961
+House,Michigan,James,G.,O'Hara,,D,1961
+House,Michigan,R.,James,Harvey,,R,1961
+House,Michigan,Robert,P.,Griffin,,R,1961
+House,Michigan,Elford,Albin,Cederberg,,R,1961
+House,Michigan,Victor,A.,Knox,,R,1961
+House,Michigan,John,B.,Bennett,,R,1961
+House,Michigan,Charles,,Diggs,,D,1961
+House,Michigan,Louis,C.,Rabaut,,D,1961
+House,Michigan,Harold,M.,Ryan,,D,1961
+House,Michigan,John,D.,Dingell,Jr.,D,1961
+House,Michigan,John,,Lesinski,Jr.,D,1961
+House,Michigan,Martha,,Griffiths,,D,1961
+House,Michigan,William,,Broomfield,,R,1961
+House,Minnesota,Al,,Quie,,R,1961
+House,Minnesota,Ancher,,Nelsen,,R,1961
+House,Minnesota,Clark,,MacGregor,,R,1961
+House,Minnesota,Joseph,,Karth,,DFL,1961
+House,Minnesota,Walter,,Judd,,R,1961
+House,Minnesota,Fred,,Marshall,,DFL,1961
+House,Minnesota,Herman,Carl,Andersen,,R,1961
+House,Minnesota,John,,Blatnik,,DFL,1961
+House,Minnesota,Odin,,Langen,,R,1961
+House,Mississippi,Thomas,,Abernethy,,D,1961
+House,Mississippi,Jamie,L.,Whitten,,D,1961
+House,Mississippi,Frank,Ellis,Smith,,D,1961
+House,Mississippi,John,Bell,Williams,,D,1961
+House,Mississippi,W.,Arthur,Winstead,,D,1961
+House,Mississippi,William,M.,Colmer,,D,1961
+House,Missouri,Frank,M.,Karsten,,D,1961
+House,Missouri,Thomas,B.,Curtis,,R,1961
+House,Missouri,Leonor,,Sullivan,,D,1961
+House,Missouri,William,J.,Randall,,D,1961
+House,Missouri,Richard,Walker,Bolling,,D,1961
+House,Missouri,William,Raleigh,Hull,Jr.,D,1961
+House,Missouri,Durward,Gorham,Hall,,R,1961
+House,Missouri,Richard,Howard,Ichord,Jr.,D,1961
+House,Missouri,Clarence,,Cannon,,D,1961
+House,Missouri,Paul,C.,Jones,,D,1961
+House,Missouri,Morgan,M.,Moulder,,D,1961
+House,Montana,Arnold,,Olsen,,D,1961
+House,Montana,James,F.,Battin,,R,1961
+House,Nebraska,Phillip,Hart,Weaver,,R,1961
+House,Nebraska,Glenn,,Cunningham,,R,1961
+House,Nebraska,Ralph,F.,Beermann,,R,1961
+House,Nebraska,David,,Martin,,R,1961
+House,Nevada,Walter,S.,Baring,Jr.,D,1961
+House,New Hampshire,Chester,Earl,Merrow,,R,1961
+House,New Hampshire,Perkins,,Bass,,R,1961
+House,New Jersey,William,T.,Cahill,,R,1961
+House,New Jersey,Milton,W.,Glenn,,R,1961
+House,New Jersey,James,C.,Auchincloss,,R,1961
+House,New Jersey,Frank,,Thompson,,D,1961
+House,New Jersey,Peter,,Frelinghuysen,Jr.,R,1961
+House,New Jersey,Florence,P.,Dwyer,,R,1961
+House,New Jersey,William,B.,Widnall,,R,1961
+House,New Jersey,Charles,Samuel,Joelson,,D,1961
+House,New Jersey,Frank,C.,Osmers,Jr.,R,1961
+House,New Jersey,Peter,W.,Rodino,,D,1961
+House,New Jersey,Hugh,Joseph,Addonizio,,D,1961
+House,New Jersey,George,M.,Wallhauser,,R,1961
+House,New Jersey,Cornelius,,Gallagher,,D,1961
+House,New Jersey,Dominick,V.,Daniels,,D,1961
+House,New Mexico,Thomas,G.,Morris,,D,1961
+House,New Mexico,Joseph,,Montoya,,D,1961
+House,New York,Otis,G.,Pike,,D,1961
+House,New York,Steven,,Derounian,,R,1961
+House,New York,Frank,J.,Becker,,R,1961
+House,New York,Seymour,,Halpern,,R,1961
+House,New York,Joseph,P.,Addabbo,,D,1961
+House,New York,Lester,,Holtzman,,D,1961
+House,New York,Benjamin,Stanley,Rosenthal,,D,1961
+House,New York,James,J.,Delaney,,D,1961
+House,New York,Victor,,Anfuso,,D,1961
+House,New York,Eugene,J.,Keogh,,D,1961
+House,New York,Edna,F.,Kelly,,D,1961
+House,New York,Emanuel,,Celler,,D,1961
+House,New York,Hugh,,Carey,,D,1961
+House,New York,Abraham,J.,Multer,,D,1961
+House,New York,John,J.,Rooney,,D,1961
+House,New York,John,H.,Ray,,R,1961
+House,New York,Adam,Clayton,Powell,Jr.,D,1961
+House,New York,John,,Lindsay,,R,1961
+House,New York,Alfred,E.,Santangelo,,D,1961
+House,New York,Leonard,,Farbstein,,D,1961
+House,New York,William,Fitts,Ryan,,D,1961
+House,New York,Herbert,,Zelenko,,D,1961
+House,New York,James,C.,Healey,,D,1961
+House,New York,Jacob,H.,Gilbert,,D,1961
+House,New York,Charles,A.,Buckley,,D,1961
+House,New York,Paul,A.,Fino,,R,1961
+House,New York,Edwin,B.,Dooley,,R,1961
+House,New York,Robert,R.,Barry,,R,1961
+House,New York,Katharine,St.,George,,R,1961
+House,New York,J.,Ernest,Wharton,,R,1961
+House,New York,Leo,W.,O'Brien,,D,1961
+House,New York,Carleton,J.,King,,R,1961
+House,New York,Samuel,S.,Stratton,,D,1961
+House,New York,Clarence,E.,Kilburn,,R,1961
+House,New York,Alexander,,Pirnie,,R,1961
+House,New York,R.,Walter,Riehlman,,R,1961
+House,New York,John,,Taber,,R,1961
+House,New York,Howard,W.,Robison,,R,1961
+House,New York,Jessica,M.,Weis,,R,1961
+House,New York,Harold,C.,Ostertag,,R,1961
+House,New York,William,E.,Miller,,R,1961
+House,New York,Thaddeus,J.,Dulski,,D,1961
+House,New York,John,R.,Pillion,,R,1961
+House,New York,Charles,,Goodell,,R,1961
+House,North Carolina,Herbert,Covington,Bonner,,D,1961
+House,North Carolina,Lawrence,H.,Fountain,,D,1961
+House,North Carolina,David,N.,Henderson,,D,1961
+House,North Carolina,Harold,D.,Cooley,,D,1961
+House,North Carolina,Ralph,James,Scott,,D,1961
+House,North Carolina,Horace,R.,Kornegay,,D,1961
+House,North Carolina,Alton,,Lennon,,D,1961
+House,North Carolina,Alvin,Paul,Kitchin,,D,1961
+House,North Carolina,Hugh,Quincy,Alexander,,D,1961
+House,North Carolina,Charles,R.,Jonas,,R,1961
+House,North Carolina,Basil,Lee,Whitener,,D,1961
+House,North Carolina,Roy,A.,Taylor,,D,1961
+House,North Dakota,Don,L.,Short,,R,1961
+House,North Dakota,Hjalmar,Carl,Nygaard,,R,1961
+House,Ohio,Gordon,H.,Scherer,,R,1961
+House,Ohio,Donald,D.,Clancy,,R,1961
+House,Ohio,Paul,F.,Schenck,,R,1961
+House,Ohio,William,Moore,McCulloch,,R,1961
+House,Ohio,Del,,Latta,,R,1961
+House,Ohio,Bill,,Harsha,,R,1961
+House,Ohio,Clarence,J.,Brown,,R,1961
+House,Ohio,Jackson,Edward,Betts,,R,1961
+House,Ohio,Thomas,L.,Ashley,,D,1961
+House,Ohio,Walter,H.,Moeller,,D,1961
+House,Ohio,Robert,E.,Cook,,D,1961
+House,Ohio,Samuel,L.,Devine,,R,1961
+House,Ohio,Charles,Adams,Mosher,,R,1961
+House,Ohio,William,Hanes,Ayres,,R,1961
+House,Ohio,Tom,Van Horn,Moorehead,,R,1961
+House,Ohio,Frank,T.,Bow,,R,1961
+House,Ohio,John,M.,Ashbrook,,R,1961
+House,Ohio,Wayne,,Hays,,D,1961
+House,Ohio,Michael,J.,Kirwan,,D,1961
+House,Ohio,Michael,A.,Feighan,,D,1961
+House,Ohio,Charles,,Vanik,,D,1961
+House,Ohio,Frances,P.,Bolton,,R,1961
+House,Ohio,William,Edwin,Minshall,Jr.,R,1961
+House,Oklahoma,Page,,Belcher,,R,1961
+House,Oklahoma,Ed,,Edmondson,,D,1961
+House,Oklahoma,Carl,,Albert,,D,1961
+House,Oklahoma,Tom,,Steed,,D,1961
+House,Oklahoma,John,,Jarman,,D,1961
+House,Oklahoma,Victor,,Wickersham,,D,1961
+House,Oregon,A.,Walter,Norblad,,R,1961
+House,Oregon,Al,,Ullman,,D,1961
+House,Oregon,Edith,,Green,,D,1961
+House,Oregon,Edwin,,Durno,,R,1961
+House,Pennsylvania,William,A.,Barrett,,D,1961
+House,Pennsylvania,Kathryn,E.,Granahan,,D,1961
+House,Pennsylvania,James,A.,Byrne,,D,1961
+House,Pennsylvania,Robert,N. C.,Nix,Sr.,D,1961
+House,Pennsylvania,William,J.,Green,Jr.,D,1961
+House,Pennsylvania,Herman,,Toll,,D,1961
+House,Pennsylvania,William,H.,Milliken,Jr.,R,1961
+House,Pennsylvania,Willard,S.,Curtin,,R,1961
+House,Pennsylvania,Paul,B.,Dague,,R,1961
+House,Pennsylvania,William,,Scranton,,R,1961
+House,Pennsylvania,Dan,,Flood,,D,1961
+House,Pennsylvania,Ivor,D.,Fenton,,R,1961
+House,Pennsylvania,Richard,,Schweiker,,R,1961
+House,Pennsylvania,George,M.,Rhodes,,D,1961
+House,Pennsylvania,Francis,E.,Walter,,D,1961
+House,Pennsylvania,Walter,M.,Mumma,,R,1961
+House,Pennsylvania,John,C.,Kunkel,,R,1961
+House,Pennsylvania,Herman,T.,Schneebeli,,R,1961
+House,Pennsylvania,J.,Irving,Whalley,,R,1961
+House,Pennsylvania,George,Atlee,Goodling,,R,1961
+House,Pennsylvania,James,E. Van,Zandt,,R,1961
+House,Pennsylvania,John,Herman,Dent,,D,1961
+House,Pennsylvania,John,P.,Saylor,,R,1961
+House,Pennsylvania,Leon,H.,Gavin,,R,1961
+House,Pennsylvania,Carroll,D.,Kearns,,R,1961
+House,Pennsylvania,Frank,M.,Clark,,D,1961
+House,Pennsylvania,Thomas,E.,Morgan,,D,1961
+House,Pennsylvania,James,G.,Fulton,,R,1961
+House,Pennsylvania,William,S.,Moorhead,,D,1961
+House,Pennsylvania,Robert,J.,Corbett,,R,1961
+House,Pennsylvania,Elmer,J.,Holland,,D,1961
+House,Rhode Island,Fernand,St,Germain,,D,1961
+House,Rhode Island,John,E.,Fogarty,,D,1961
+House,South Carolina,L.,Mendel,Rivers,,D,1961
+House,South Carolina,John,J.,Riley,,D,1961
+House,South Carolina,Corinne,Boyd,Riley,,D,1961
+House,South Carolina,William,Jennings Bryan,Dorn,,D,1961
+House,South Carolina,Robert,T.,Ashmore,,D,1961
+House,South Carolina,Robert,W.,Hemphill,,D,1961
+House,South Carolina,John,L.,McMillan,,D,1961
+House,South Dakota,Ben,,Reifel,,R,1961
+House,South Dakota,Ellis,Yarnal,Berry,,R,1961
+House,Tennessee,B.,Carroll,Reece,,R,1961
+House,Tennessee,Louise,Goff,Reece,,R,1961
+House,Tennessee,Howard,,Baker,Sr.,R,1961
+House,Tennessee,James,B.,Frazier,Jr.,D,1961
+House,Tennessee,Joe,L.,Evins,,D,1961
+House,Tennessee,Joseph,Carlton,Loser,,D,1961
+House,Tennessee,Ross,,Bass,,D,1961
+House,Tennessee,Tom,J.,Murray,,D,1961
+House,Tennessee,Fats,,Everett,,D,1961
+House,Tennessee,Clifford,,Davis,,D,1961
+House,Texas,Wright,,Patman,,D,1961
+House,Texas,Jack,,Brooks,,D,1961
+House,Texas,Lindley,,Beckworth,,D,1961
+House,Texas,Sam,,Rayburn,,D,1961
+House,Texas,Ray,,Roberts,,D,1961
+House,Texas,Bruce,,Alger,,R,1961
+House,Texas,Olin,E.,Teague,,D,1961
+House,Texas,John,,Dowdy,,D,1961
+House,Texas,Albert,,Thomas,,D,1961
+House,Texas,Clark,W.,Thompson,,D,1961
+House,Texas,Homer,,Thornberry,,D,1961
+House,Texas,William,R.,Poage,,D,1961
+House,Texas,Jim,,Wright,,D,1961
+House,Texas,Frank,N.,Ikard,,D,1961
+House,Texas,Graham,B.,Purcell,Jr.,D,1961
+House,Texas,John,Andrew,Young,,D,1961
+House,Texas,Joe,M.,Kilgore,,D,1961
+House,Texas,J.,T.,Rutherford,,D,1961
+House,Texas,Omar,,Burleson,,D,1961
+House,Texas,Walter,E.,Rogers,,D,1961
+House,Texas,George,H.,Mahon,,D,1961
+House,Texas,Paul,J.,Kilday,,D,1961
+House,Texas,Henry,B.,González,,D,1961
+House,Texas,O.,C.,Fisher,,D,1961
+House,Texas,Robert,R.,Casey,,D,1961
+House,Utah,M.,Blaine,Peterson,,D,1961
+House,Utah,David,S.,King,,D,1961
+House,Vermont,Robert,,Stafford,,R,1961
+House,Virginia,Thomas,N.,Downing,,D,1961
+House,Virginia,Porter,,Hardy,Jr.,D,1961
+House,Virginia,J.,Vaughan,Gary,,D,1961
+House,Virginia,Watkins,Moorman,Abbitt,,D,1961
+House,Virginia,William,M.,Tuck,,D,1961
+House,Virginia,Richard,Harding,Poff,,R,1961
+House,Virginia,Burr,,Harrison,,D,1961
+House,Virginia,Howard,W.,Smith,,D,1961
+House,Virginia,W.,Pat,Jennings,,D,1961
+House,Virginia,Joel,,Broyhill,,R,1961
+House,Washington,Thomas,,Pelly,,R,1961
+House,Washington,Jack,,Westland,,R,1961
+House,Washington,Julia,Butler,Hansen,,D,1961
+House,Washington,Catherine,Dean,May,,R,1961
+House,Washington,Walt,,Horan,,R,1961
+House,Washington,Thor,C.,Tollefson,,R,1961
+House,Washington,Donald,H.,Magnuson,,D,1961
+House,West Virginia,Arch,A.,Moore,Jr.,R,1961
+House,West Virginia,Harley,Orrin,Staggers,,D,1961
+House,West Virginia,Cleveland,M.,Bailey,,D,1961
+House,West Virginia,Ken,,Hechler,,D,1961
+House,West Virginia,Elizabeth,,Kee,,D,1961
+House,West Virginia,John,M.,Slack,Jr.,D,1961
+House,Wisconsin,Henry,C.,Schadeberg,,R,1961
+House,Wisconsin,Robert,,Kastenmeier,,D,1961
+House,Wisconsin,Vernon,Wallace,Thomson,,R,1961
+House,Wisconsin,Clement,J.,Zablocki,,D,1961
+House,Wisconsin,Henry,S.,Reuss,,D,1961
+House,Wisconsin,William,Van,Pelt,,R,1961
+House,Wisconsin,Melvin,,Laird,,R,1961
+House,Wisconsin,John,W.,Byrnes,,R,1961
+House,Wisconsin,Lester,,Johnson,,D,1961
+House,Wisconsin,Alvin,,O'Konski,,R,1961
+House,Wyoming,William,Henry,Harrison,III,R,1961

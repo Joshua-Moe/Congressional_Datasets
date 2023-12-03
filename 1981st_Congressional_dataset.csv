@@ -1,0 +1,547 @@
+Chamber,State,First_Name,Middle_Name,Last_Name,Suffix,Party,Congressional_Year
+Senate,Alabama,Howell,,Heflin,,D,1981
+Senate,Alabama,Jeremiah,,Denton,,R,1981
+Senate,Alaska,Ted,,Stevens,,R,1981
+Senate,Alaska,Frank,,Murkowski,,R,1981
+Senate,Arizona,Dennis,,DeConcini,,D,1981
+Senate,Arizona,Barry,,Goldwater,,R,1981
+Senate,Arkansas,David,,Pryor,,D,1981
+Senate,Arkansas,Dale,,Bumpers,,D,1981
+Senate,California,S.,I.,Hayakawa,,R,1981
+Senate,California,Alan,,Cranston,,D,1981
+Senate,Colorado,William,L.,Armstrong,,R,1981
+Senate,Colorado,Gary,,Hart,,D,1981
+Senate,Connecticut,Lowell,,Weicker,,R,1981
+Senate,Connecticut,Chris,,Dodd,,D,1981
+Senate,Delaware,William,,Roth,,R,1981
+Senate,Delaware,Joe,,Biden,,D,1981
+Senate,Florida,Lawton,,Chiles,,D,1981
+Senate,Florida,Paula,,Hawkins,,R,1981
+Senate,Georgia,Sam,,Nunn,,D,1981
+Senate,Georgia,Mack,,Mattingly,,R,1981
+Senate,Hawaii,Spark,,Matsunaga,,D,1981
+Senate,Hawaii,Daniel,,Inouye,,D,1981
+Senate,Idaho,James,A.,McClure,,R,1981
+Senate,Idaho,Steve,,Symms,,R,1981
+Senate,Illinois,Charles,H.,Percy,,R,1981
+Senate,Illinois,Alan,J.,Dixon,,D,1981
+Senate,Indiana,Richard,,Lugar,,R,1981
+Senate,Indiana,Dan,,Quayle,,R,1981
+Senate,Iowa,Roger,,Jepsen,,R,1981
+Senate,Iowa,Chuck,,Grassley,,R,1981
+Senate,Kansas,Nancy,,Kassebaum,,R,1981
+Senate,Kansas,Bob,,Dole,,R,1981
+Senate,Kentucky,Walter,"""Dee""",Huddleston,,D,1981
+Senate,Kentucky,Wendell,,Ford,,D,1981
+Senate,Louisiana,J.,Bennett,Johnston,,D,1981
+Senate,Louisiana,Russell,B.,Long,,D,1981
+Senate,Maine,George,J.,Mitchell,,D,1981
+Senate,Maine,William,,Cohen,,R,1981
+Senate,Maryland,Paul,,Sarbanes,,D,1981
+Senate,Maryland,Charles,,Mathias,,R,1981
+Senate,Massachusetts,Ted,,Kennedy,,D,1981
+Senate,Massachusetts,Paul,,Tsongas,,D,1981
+Senate,Michigan,Donald,,Riegle,,D,1981
+Senate,Michigan,Carl,,Levin,,D,1981
+Senate,Minnesota,David,,Durenberger,,R,1981
+Senate,Minnesota,Rudy,,Boschwitz,,R,1981
+Senate,Mississippi,John,C.,Stennis,,D,1981
+Senate,Mississippi,Thad,,Cochran,,R,1981
+Senate,Missouri,John,,Danforth,,R,1981
+Senate,Missouri,Thomas,,Eagleton,,D,1981
+Senate,Montana,John,,Melcher,,D,1981
+Senate,Montana,Max,,Baucus,,D,1981
+Senate,Nebraska,Edward,,Zorinsky,,D,1981
+Senate,Nebraska,J.,James,Exon,,D,1981
+Senate,Nevada,Howard,,Cannon,,D,1981
+Senate,Nevada,Paul,,Laxalt,,R,1981
+Senate,New Hampshire,Gordon,J.,Humphrey,,R,1981
+Senate,New Hampshire,Warren,,Rudman,,R,1981
+Senate,New Jersey,Harrison,A.,Williams,,D,1981
+Senate,New Jersey,Nicholas,F.,Brady,,R,1981
+Senate,New Jersey,Frank,,Lautenberg,,D,1981
+Senate,New Jersey,Bill,,Bradley,,D,1981
+Senate,New Mexico,Harrison,,Schmitt,,R,1981
+Senate,New Mexico,Pete,,Domenici,,R,1981
+Senate,New York,Daniel,Patrick,Moynihan,,D,1981
+Senate,New York,Al,,D'Amato,,R,1981
+Senate,North Carolina,Jesse,,Helms,,R,1981
+Senate,North Carolina,John,Porter,East,,R,1981
+Senate,North Dakota,Quentin,,Burdick,,D-NPL,1981
+Senate,North Dakota,Mark,,Andrews,,R,1981
+Senate,Ohio,Howard,,Metzenbaum,,D,1981
+Senate,Ohio,John,,Glenn,,D,1981
+Senate,Oklahoma,David,,Boren,,D,1981
+Senate,Oklahoma,Don,,Nickles,,R,1981
+Senate,Oregon,Mark,,Hatfield,,R,1981
+Senate,Oregon,Bob,,Packwood,,R,1981
+Senate,Pennsylvania,John,,Heinz,,R,1981
+Senate,Pennsylvania,Arlen,,Specter,,R,1981
+Senate,Rhode Island,John,,Chafee,,R,1981
+Senate,Rhode Island,Claiborne,,Pell,,D,1981
+Senate,South Carolina,Strom,,Thurmond,,R,1981
+Senate,South Carolina,Fritz,,Hollings,,D,1981
+Senate,South Dakota,Larry,,Pressler,,R,1981
+Senate,South Dakota,James,,Abdnor,,R,1981
+Senate,Tennessee,Jim,,Sasser,,D,1981
+Senate,Tennessee,Howard,,Baker,,R,1981
+Senate,Texas,Lloyd,,Bentsen,,D,1981
+Senate,Texas,John,,Tower,,R,1981
+Senate,Utah,Orrin,,Hatch,,R,1981
+Senate,Utah,Jake,,Garn,,R,1981
+Senate,Vermont,Robert,,Stafford,,R,1981
+Senate,Vermont,Patrick,,Leahy,,D,1981
+Senate,Virginia,Harry,F.,Byrd,Jr.,I,1981
+Senate,Virginia,John,,Warner,,R,1981
+Senate,Washington,Henry,M.,Jackson,,D,1981
+Senate,Washington,Slade,,Gorton,,R,1981
+Senate,West Virginia,Robert,,Byrd,,D,1981
+Senate,West Virginia,Jennings,,Randolph,,D,1981
+Senate,Wisconsin,William,,Proxmire,,D,1981
+Senate,Wisconsin,Bob,,Kasten,,R,1981
+Senate,Wyoming,Malcolm,,Wallop,,R,1981
+Senate,Wyoming,Alan,,Simpson,,R,1981
+House,Alabama,Jack,,Edwards,,R,1981
+House,Alabama,William,Louis,Dickinson,,R,1981
+House,Alabama,Bill,,Nichols,,D,1981
+House,Alabama,Tom,,Bevill,,D,1981
+House,Alabama,Ronnie,,Flippo,,D,1981
+House,Alabama,Albert,L.,Smith,Jr.,R,1981
+House,Alabama,Richard,,Shelby,,D,1981
+House,Alaska,Don,,Young,,R,1981
+House,Arizona,John,Jacob,Rhodes,,R,1981
+House,Arizona,Mo,,Udall,,D,1981
+House,Arizona,Bob,,Stump,,D,1981
+House,Arizona,Eldon,,Rudd,,R,1981
+House,Arkansas,William,Vollie,Alexander,Jr.,D,1981
+House,Arkansas,Ed,,Bethune,,R,1981
+House,Arkansas,John,Paul,Hammerschmidt,,R,1981
+House,Arkansas,Beryl,,Anthony,Jr.,D,1981
+House,California,Eugene,A.,Chappie,,R,1981
+House,California,Donald,H.,Clausen,,R,1981
+House,California,Bob,,Matsui,,D,1981
+House,California,Vic,,Fazio,,D,1981
+House,California,John,,Burton,,D,1981
+House,California,Phillip,,Burton,,D,1981
+House,California,George,,Miller,,D,1981
+House,California,Ron,,Dellums,,D,1981
+House,California,Pete,,Stark,,D,1981
+House,California,Don,,Edwards,,D,1981
+House,California,Tom,,Lantos,,D,1981
+House,California,Pete,,McCloskey,,R,1981
+House,California,Norman,,Mineta,,D,1981
+House,California,Norman,D.,Shumway,,R,1981
+House,California,Tony,,Coelho,,D,1981
+House,California,Leon,,Panetta,,D,1981
+House,California,Chip,,Pashayan,,R,1981
+House,California,Bill,,Thomas,,R,1981
+House,California,Robert,J.,Lagomarsino,,R,1981
+House,California,Barry,,Goldwater,Jr.,R,1981
+House,California,Bobbi,,Fiedler,,R,1981
+House,California,Carlos,,Moorhead,,R,1981
+House,California,Anthony,,Beilenson,,D,1981
+House,California,Henry,,Waxman,,D,1981
+House,California,Edward,R.,Roybal,,D,1981
+House,California,John,H.,Rousselot,,R,1981
+House,California,Bob,,Dornan,,R,1981
+House,California,Julian,,Dixon,,D,1981
+House,California,Augustus,,Hawkins,,D,1981
+House,California,George,E.,Danielson,,D,1981
+House,California,Matthew,G.,Martínez,,D,1981
+House,California,Mervyn,,Dymally,,D,1981
+House,California,Glenn,M.,Anderson,,D,1981
+House,California,Wayne,R.,Grisham,,R,1981
+House,California,Dan,,Lungren,,R,1981
+House,California,David,,Dreier,,R,1981
+House,California,George,,Brown,Jr.,D,1981
+House,California,Jerry,,Lewis,,R,1981
+House,California,Jerry,M.,Patterson,,D,1981
+House,California,William,E.,Dannemeyer,,R,1981
+House,California,Robert,,Badham,,R,1981
+House,California,Bill,,Lowery,,R,1981
+House,California,Duncan,L.,Hunter,,R,1981
+House,California,Clair,,Burgener,,R,1981
+House,Colorado,Pat,,Schroeder,,D,1981
+House,Colorado,Tim,,Wirth,,D,1981
+House,Colorado,Ray,,Kogovsek,,D,1981
+House,Colorado,Hank,,Brown,,R,1981
+House,Colorado,Ken,,Kramer,,R,1981
+House,Connecticut,William,R.,Cotter,,D,1981
+House,Connecticut,Barbara,B.,Kennelly,,D,1981
+House,Connecticut,Sam,,Gejdenson,,D,1981
+House,Connecticut,Lawrence,J.,DeNardis,,R,1981
+House,Connecticut,Stewart,,McKinney,,R,1981
+House,Connecticut,William,R.,Ratchford,,D,1981
+House,Connecticut,Toby,,Moffett,,D,1981
+House,Delaware,Thomas,B.,Evans,Jr.,R,1981
+House,Florida,Earl,,Hutto,,D,1981
+House,Florida,Don,,Fuqua,,D,1981
+House,Florida,Charles,E.,Bennett,,D,1981
+House,Florida,Bill,,Chappell,,D,1981
+House,Florida,Bill,,McCollum,,R,1981
+House,Florida,Bill,,Young,,R,1981
+House,Florida,Sam,,Gibbons,,D,1981
+House,Florida,Andy,,Ireland,,D,1981
+House,Florida,Bill,,Nelson,,D,1981
+House,Florida,Skip,,Bafalis,,R,1981
+House,Florida,Dan,,Mica,,D,1981
+House,Florida,Clay,,Shaw,,R,1981
+House,Florida,William,,Lehman,,D,1981
+House,Florida,Claude,,Pepper,,D,1981
+House,Florida,Dante,,Fascell,,D,1981
+House,Georgia,Ronald,'Bo',Ginn,,D,1981
+House,Georgia,Charles,Floyd,Hatcher,,D,1981
+House,Georgia,Jack,,Brinkley,,D,1981
+House,Georgia,Elliott,H.,Levitas,,D,1981
+House,Georgia,Wyche,,Fowler,,D,1981
+House,Georgia,Newt,,Gingrich,,R,1981
+House,Georgia,Larry,,McDonald,,D,1981
+House,Georgia,Billy,Lee,Evans,,D,1981
+House,Georgia,Ed,,Jenkins,,D,1981
+House,Georgia,Doug,,Barnard,Jr.,D,1981
+House,Hawaii,Cecil,,Heftel,,D,1981
+House,Hawaii,Daniel,,Akaka,,D,1981
+House,Idaho,Larry,,Craig,,R,1981
+House,Idaho,George,V.,Hansen,,R,1981
+House,Illinois,Harold,,Washington,,D,1981
+House,Illinois,Gus,,Savage,,D,1981
+House,Illinois,Marty,,Russo,,D,1981
+House,Illinois,Ed,,Derwinski,,R,1981
+House,Illinois,John,G.,Fary,,D,1981
+House,Illinois,Henry,,Hyde,,R,1981
+House,Illinois,Cardiss,,Collins,,D,1981
+House,Illinois,Dan,,Rostenkowski,,D,1981
+House,Illinois,Sidney,R.,Yates,,D,1981
+House,Illinois,John,,Porter,,R,1981
+House,Illinois,Frank,,Annunzio,,D,1981
+House,Illinois,Phil,,Crane,,R,1981
+House,Illinois,Robert,,McClory,,R,1981
+House,Illinois,John,N.,Erlenborn,,R,1981
+House,Illinois,Tom,,Corcoran,,R,1981
+House,Illinois,Lynn,Morley,Martin,,R,1981
+House,Illinois,George,M.,O'Brien,,R,1981
+House,Illinois,Robert,H.,Michel,,R,1981
+House,Illinois,Tom,,Railsback,,R,1981
+House,Illinois,Paul,,Findley,,R,1981
+House,Illinois,Edward,Rell,Madigan,,R,1981
+House,Illinois,Dan,,Crane,,R,1981
+House,Illinois,Melvin,,Price,,D,1981
+House,Illinois,Paul,,Simon,,D,1981
+House,Indiana,Adam,,Benjamin,Jr.,D,1981
+House,Indiana,Katie,,Hall,,D,1981
+House,Indiana,Floyd,,Fithian,,D,1981
+House,Indiana,John,P.,Hiler,,R,1981
+House,Indiana,Dan,,Coats,,R,1981
+House,Indiana,Elwood,,Hillis,,R,1981
+House,Indiana,David,W.,Evans,,D,1981
+House,Indiana,John,,Myers,,R,1981
+House,Indiana,H.,Joel,Deckard,,R,1981
+House,Indiana,Lee,H.,Hamilton,,D,1981
+House,Indiana,Philip,,Sharp,,D,1981
+House,Indiana,Andrew,,Jacobs,Jr.,D,1981
+House,Iowa,Jim,,Leach,,R,1981
+House,Iowa,Tom,,Tauke,,R,1981
+House,Iowa,T.,Cooper,Evans,,R,1981
+House,Iowa,Neal,Edward,Smith,,D,1981
+House,Iowa,Tom,,Harkin,,D,1981
+House,Iowa,Berkley,,Bedell,,D,1981
+House,Kansas,Pat,,Roberts,,R,1981
+House,Kansas,James,Edmund,Jeffries,,R,1981
+House,Kansas,Larry,,Winn,,R,1981
+House,Kansas,Dan,,Glickman,,D,1981
+House,Kansas,Bob,,Whittaker,,R,1981
+House,Kentucky,Carroll,,Hubbard,,D,1981
+House,Kentucky,William,,Natcher,,D,1981
+House,Kentucky,Romano,,Mazzoli,,D,1981
+House,Kentucky,Gene,,Snyder,,R,1981
+House,Kentucky,Hal,,Rogers,,R,1981
+House,Kentucky,Larry,J.,Hopkins,,R,1981
+House,Kentucky,Carl,D.,Perkins,,D,1981
+House,Louisiana,Bob,,Livingston,,R,1981
+House,Louisiana,Lindy,,Boggs,,D,1981
+House,Louisiana,Billy,,Tauzin,,D,1981
+House,Louisiana,Buddy,,Roemer,,D,1981
+House,Louisiana,Jerry,,Huckaby,,D,1981
+House,Louisiana,Henson,,Moore,,R,1981
+House,Louisiana,John,,Breaux,,D,1981
+House,Louisiana,Gillis,William,Long,,D,1981
+House,Maine,David,F.,Emery,,R,1981
+House,Maine,Olympia,,Snowe,,R,1981
+House,Maryland,Roy,,Dyson,,D,1981
+House,Maryland,Clarence,,Long,,D,1981
+House,Maryland,Barbara,,Mikulski,,D,1981
+House,Maryland,Marjorie,,Holt,,R,1981
+House,Maryland,Gladys,,Spellman,,D,1981
+House,Maryland,Steny,,Hoyer,,D,1981
+House,Maryland,Beverly,,Byron,,D,1981
+House,Maryland,Parren,,Mitchell,,D,1981
+House,Maryland,Michael,D.,Barnes,,D,1981
+House,Massachusetts,Silvio,O.,Conte,,R,1981
+House,Massachusetts,Edward,,Boland,,D,1981
+House,Massachusetts,Joseph,D.,Early,,D,1981
+House,Massachusetts,Barney,,Frank,,D,1981
+House,Massachusetts,James,,Shannon,,D,1981
+House,Massachusetts,Nicholas,,Mavroules,,D,1981
+House,Massachusetts,Ed,,Markey,,D,1981
+House,Massachusetts,Tip,,O'Neill,,D,1981
+House,Massachusetts,Joe,,Moakley,,D,1981
+House,Massachusetts,Margaret,,Heckler,,R,1981
+House,Massachusetts,Brian,J.,Donnelly,,D,1981
+House,Massachusetts,Gerry,,Studds,,D,1981
+House,Michigan,John,,Conyers,,D,1981
+House,Michigan,Carl,,Pursell,,R,1981
+House,Michigan,Howard,,Wolpe,,D,1981
+House,Michigan,David,,Stockman,,R,1981
+House,Michigan,Mark,D.,Siljander,,R,1981
+House,Michigan,Harold,S.,Sawyer,,R,1981
+House,Michigan,James,Whitney,Dunn,,R,1981
+House,Michigan,Dale,,Kildee,,D,1981
+House,Michigan,J.,Bob,Traxler,,D,1981
+House,Michigan,Guy,Vander,Jagt,,R,1981
+House,Michigan,Donald,J.,Albosta,,D,1981
+House,Michigan,Robert,William,Davis,,R,1981
+House,Michigan,David,,Bonior,,D,1981
+House,Michigan,George,,Crockett,Jr.,D,1981
+House,Michigan,Dennis,,Hertel,,D,1981
+House,Michigan,William,D.,Ford,,D,1981
+House,Michigan,John,,Dingell,,D,1981
+House,Michigan,William,M.,Brodhead,,D,1981
+House,Michigan,James,,Blanchard,,D,1981
+House,Michigan,William,,Broomfield,,R,1981
+House,Minnesota,Arlen,,Erdahl,,R,1981
+House,Minnesota,Tom,,Hagedorn,,R,1981
+House,Minnesota,Bill,,Frenzel,,R,1981
+House,Minnesota,Bruce,,Vento,,DFL,1981
+House,Minnesota,Martin,Olav,Sabo,,DFL,1981
+House,Minnesota,Vin,,Weber,,R,1981
+House,Minnesota,Arlan,,Stangeland,,R,1981
+House,Minnesota,Jim,,Oberstar,,DFL,1981
+House,Mississippi,Jamie,,Whitten,,D,1981
+House,Mississippi,David,R.,Bowen,,D,1981
+House,Mississippi,Sonny,,Montgomery,,D,1981
+House,Mississippi,Jon,,Hinson,,R,1981
+House,Mississippi,Wayne,,Dowdy,,D,1981
+House,Mississippi,Trent,,Lott,,R,1981
+House,Missouri,Bill,,Clay,,D,1981
+House,Missouri,Robert,A.,Young,,D,1981
+House,Missouri,Dick,,Gephardt,,D,1981
+House,Missouri,Ike,,Skelton,,D,1981
+House,Missouri,Richard,Walker,Bolling,,D,1981
+House,Missouri,Tom,,Coleman,,R,1981
+House,Missouri,Gene,,Taylor,,R,1981
+House,Missouri,Wendell,,Bailey,,R,1981
+House,Missouri,Harold,,Volkmer,,D,1981
+House,Missouri,Bill,,Emerson,,R,1981
+House,Montana,Pat,,Williams,,D,1981
+House,Montana,Ron,,Marlenee,,R,1981
+House,Nebraska,Doug,,Bereuter,,R,1981
+House,Nebraska,Hal,,Daub,,R,1981
+House,Nebraska,Virginia,D.,Smith,,R,1981
+House,Nevada,James,David,Santini,,D,1981
+House,New Hampshire,Norman,,D'Amours,,D,1981
+House,New Hampshire,Judd,,Gregg,,R,1981
+House,New Jersey,James,,Florio,,D,1981
+House,New Jersey,William,J.,Hughes,,D,1981
+House,New Jersey,James,J.,Howard,,D,1981
+House,New Jersey,Chris,,Smith,,R,1981
+House,New Jersey,Millicent,,Fenwick,,R,1981
+House,New Jersey,Edwin,B.,Forsythe,,R,1981
+House,New Jersey,Marge,,Roukema,,R,1981
+House,New Jersey,Robert,A.,Roe,,D,1981
+House,New Jersey,Harold,C.,Hollenbeck,,R,1981
+House,New Jersey,Peter,W.,Rodino,,D,1981
+House,New Jersey,Joseph,,Minish,,D,1981
+House,New Jersey,Matthew,John,Rinaldo,,R,1981
+House,New Jersey,Jim,,Courter,,R,1981
+House,New Jersey,Frank,Joseph,Guarini,,D,1981
+House,New Jersey,Bernard,J.,Dwyer,,D,1981
+House,New Mexico,Manuel,,Lujan,Jr.,R,1981
+House,New Mexico,Joe,,Skeen,,R,1981
+House,New York,William,,Carney,,C,1981
+House,New York,Thomas,,Downey,,D,1981
+House,New York,Gregory,W.,Carman,,R,1981
+House,New York,Norman,F.,Lent,,R,1981
+House,New York,Raymond,J.,McGrath,,R,1981
+House,New York,John,,LeBoutillier,,R,1981
+House,New York,Joseph,P.,Addabbo,,D,1981
+House,New York,Benjamin,Stanley,Rosenthal,,D,1981
+House,New York,Geraldine,,Ferraro,,D,1981
+House,New York,Mario,,Biaggi,,D,1981
+House,New York,James,H.,Scheuer,,D,1981
+House,New York,Shirley,,Chisholm,,D,1981
+House,New York,Stephen,,Solarz,,D,1981
+House,New York,Fred,,Richmond,,D,1981
+House,New York,Leo,C.,Zeferetti,,D,1981
+House,New York,Chuck,,Schumer,,D,1981
+House,New York,Guy,,Molinari,,R,1981
+House,New York,Bill,,Green,,R,1981
+House,New York,Charles,,Rangel,,D,1981
+House,New York,Theodore,S.,Weiss,,D,1981
+House,New York,Robert,,Garcia,,D,1981
+House,New York,Jonathan,Brewster,Bingham,,D,1981
+House,New York,Peter,A.,Peyser,,D,1981
+House,New York,Richard,,Ottinger,,D,1981
+House,New York,Hamilton,,Fish,IV,R,1981
+House,New York,Benjamin,,Gilman,,R,1981
+House,New York,Matthew,F.,McHugh,,D,1981
+House,New York,Samuel,S.,Stratton,,D,1981
+House,New York,Gerald,,Solomon,,R,1981
+House,New York,David,O'Brien,Martin,,R,1981
+House,New York,Donald,J.,Mitchell,,R,1981
+House,New York,George,C.,Wortley,,R,1981
+House,New York,Gary,A.,Lee,,R,1981
+House,New York,Frank,,Horton,,R,1981
+House,New York,Barber,,Conable,,R,1981
+House,New York,John,J.,LaFalce,,D,1981
+House,New York,Henry,J.,Nowak,,D,1981
+House,New York,Jack,,Kemp,,R,1981
+House,New York,Stan,,Lundine,,D,1981
+House,North Carolina,Walter,B.,Jones,Sr.,D,1981
+House,North Carolina,Lawrence,H.,Fountain,,D,1981
+House,North Carolina,Charles,Orville,Whitley,,D,1981
+House,North Carolina,Ike,Franklin,Andrews,,D,1981
+House,North Carolina,Stephen,L.,Neal,,D,1981
+House,North Carolina,Walter,E.,Johnston,III,R,1981
+House,North Carolina,Charlie,,Rose,,D,1981
+House,North Carolina,Bill,,Hefner,,D,1981
+House,North Carolina,James,G.,Martin,,R,1981
+House,North Carolina,Jim,,Broyhill,,R,1981
+House,North Carolina,Bill,,Hendon,,R,1981
+House,North Dakota,Byron,,Dorgan,,D-NPL,1981
+House,Ohio,Bill,,Gradison,,R,1981
+House,Ohio,Tom,,Luken,,D,1981
+House,Ohio,Tony,P.,Hall,,D,1981
+House,Ohio,Tennyson,,Guyer,,R,1981
+House,Ohio,Mike,,Oxley,,R,1981
+House,Ohio,Del,,Latta,,R,1981
+House,Ohio,Bob,,McEwen,,R,1981
+House,Ohio,Bud,,Brown,,R,1981
+House,Ohio,Tom,,Kindness,,R,1981
+House,Ohio,Ed,,Weber,,R,1981
+House,Ohio,Clarence,E.,Miller,,R,1981
+House,Ohio,J.,William,Stanton,,R,1981
+House,Ohio,Bob,,Shamansky,,D,1981
+House,Ohio,Donald,J.,Pease,,D,1981
+House,Ohio,John,F.,Seiberling,,D,1981
+House,Ohio,Chalmers,,Wylie,,R,1981
+House,Ohio,Ralph,,Regula,,R,1981
+House,Ohio,John,M.,Ashbrook,,R,1981
+House,Ohio,Jean,Spencer,Ashbrook,,R,1981
+House,Ohio,Douglas,,Applegate,,D,1981
+House,Ohio,Lyle,,Williams,,R,1981
+House,Ohio,Mary,Rose,Oakar,,D,1981
+House,Ohio,Louis,,Stokes,,D,1981
+House,Ohio,Dennis,E.,Eckart,,D,1981
+House,Ohio,Ronald,M.,Mottl,,D,1981
+House,Oklahoma,James,R.,Jones,,D,1981
+House,Oklahoma,Mike,,Synar,,D,1981
+House,Oklahoma,Wes,,Watkins,,D,1981
+House,Oklahoma,Dave,,McCurdy,,D,1981
+House,Oklahoma,Mickey,,Edwards,,R,1981
+House,Oklahoma,Glenn,,English,,D,1981
+House,Oregon,Les,,AuCoin,,D,1981
+House,Oregon,Denny,,Smith,,R,1981
+House,Oregon,Ron,,Wyden,,D,1981
+House,Oregon,Jim,,Weaver,,D,1981
+House,Pennsylvania,Thomas,M.,Foglietta,,D,1981
+House,Pennsylvania,William,H.,Gray,III,D,1981
+House,Pennsylvania,Raymond,,Lederer,,D,1981
+House,Pennsylvania,Joseph,F.,Smith,,D,1981
+House,Pennsylvania,Charles,F.,Dougherty,,R,1981
+House,Pennsylvania,Richard,T.,Schulze,,R,1981
+House,Pennsylvania,Gus,,Yatron,,D,1981
+House,Pennsylvania,Robert,W.,Edgar,,D,1981
+House,Pennsylvania,James,K.,Coyne,III,R,1981
+House,Pennsylvania,Bud,,Shuster,,R,1981
+House,Pennsylvania,Joseph,M.,McDade,,R,1981
+House,Pennsylvania,James,,Nelligan,,R,1981
+House,Pennsylvania,John,,Murtha,,D,1981
+House,Pennsylvania,Lawrence,,Coughlin,,R,1981
+House,Pennsylvania,William,J.,Coyne,,D,1981
+House,Pennsylvania,Donald,L.,Ritter,,R,1981
+House,Pennsylvania,Robert,Smith,Walker,,R,1981
+House,Pennsylvania,Allen,E.,Ertel,,D,1981
+House,Pennsylvania,Doug,,Walgren,,D,1981
+House,Pennsylvania,William,F.,Goodling,,R,1981
+House,Pennsylvania,Joseph,M.,Gaydos,,D,1981
+House,Pennsylvania,Donald,A.,Bailey,,D,1981
+House,Pennsylvania,Austin,,Murphy,,D,1981
+House,Pennsylvania,William,F.,Clinger,Jr.,R,1981
+House,Pennsylvania,Marc,L.,Marks,,R,1981
+House,Pennsylvania,Eugene,,Atkinson,,D,1981
+House,Rhode Island,Fernand,St.,Germain,,D,1981
+House,Rhode Island,Claudine,,Schneider,,R,1981
+House,South Carolina,Thomas,F.,Hartnett,,R,1981
+House,South Carolina,Floyd,,Spence,,R,1981
+House,South Carolina,Butler,,Derrick,,D,1981
+House,South Carolina,Carroll,A.,Campbell,Jr.,R,1981
+House,South Carolina,Kenneth,Lamar,Holland,,D,1981
+House,South Carolina,John,Light,Napier,,R,1981
+House,South Dakota,Tom,,Daschle,,D,1981
+House,South Dakota,Clint,,Roberts,,R,1981
+House,Tennessee,Jimmy,,Quillen,,R,1981
+House,Tennessee,John,,Duncan,Sr.,R,1981
+House,Tennessee,Marilyn,,Lloyd,,D,1981
+House,Tennessee,Al,,Gore,,D,1981
+House,Tennessee,Bill,,Boner,,D,1981
+House,Tennessee,Robin,,Beard,,R,1981
+House,Tennessee,Ed,,Jones,,D,1981
+House,Tennessee,Harold,,Ford,Sr.,D,1981
+House,Texas,Sam,B.,Hall,Jr.,D,1981
+House,Texas,Charlie,,Wilson,,D,1981
+House,Texas,James,M.,Collins,,R,1981
+House,Texas,Ralph,,Hall,,D,1981
+House,Texas,Jim,,Mattox,,D,1981
+House,Texas,Phil,,Gramm,,D,1981
+House,Texas,Bill,,Archer,,R,1981
+House,Texas,Jack,,Fields,,R,1981
+House,Texas,Jack,,Brooks,,D,1981
+House,Texas,J.,J.,Pickle,,D,1981
+House,Texas,Marvin,,Leath,,D,1981
+House,Texas,Jim,,Wright,,D,1981
+House,Texas,Jack,,Hightower,,D,1981
+House,Texas,William,Neff,Patman,,D,1981
+House,Texas,Kika,de la,Garza,,D,1981
+House,Texas,Richard,Crawford,White,,D,1981
+House,Texas,Charles,,Stenholm,,D,1981
+House,Texas,Mickey,,Leland,,D,1981
+House,Texas,Kent,,Hance,,D,1981
+House,Texas,Henry,B.,González,,D,1981
+House,Texas,Tom,,Loeffler,,R,1981
+House,Texas,Ron,,Paul,,R,1981
+House,Texas,Abraham,,Kazen,,D,1981
+House,Texas,Martin,,Frost,,D,1981
+House,Utah,James,V.,Hansen,,R,1981
+House,Utah,David,Daniel,Marriott,,R,1981
+House,Vermont,Jim,,Jeffords,,R,1981
+House,Virginia,Paul,,Trible,,R,1981
+House,Virginia,G.,William,Whitehurst,,R,1981
+House,Virginia,Thomas,J.,Bliley,Jr.,R,1981
+House,Virginia,Robert,,Daniel,,R,1981
+House,Virginia,Dan,,Daniel,,D,1981
+House,Virginia,M.,Caldwell,Butler,,R,1981
+House,Virginia,J.,Kenneth,Robinson,,R,1981
+House,Virginia,Stanford,,Parris,,R,1981
+House,Virginia,William,C.,Wampler,,R,1981
+House,Virginia,Frank,,Wolf,,R,1981
+House,Washington,Joel,,Pritchard,,R,1981
+House,Washington,Al,,Swift,,D,1981
+House,Washington,Don,,Bonker,,D,1981
+House,Washington,Sid,,Morrison,,R,1981
+House,Washington,Tom,,Foley,,D,1981
+House,Washington,Norm,,Dicks,,D,1981
+House,Washington,Mike,,Lowry,,D,1981
+House,West Virginia,Bob,,Mollohan,,D,1981
+House,West Virginia,Cleve,,Benedict,,R,1981
+House,West Virginia,Mick,,Staton,,R,1981
+House,West Virginia,Nick,,Rahall,,D,1981
+House,Wisconsin,Les,,Aspin,,D,1981
+House,Wisconsin,Robert,,Kastenmeier,,D,1981
+House,Wisconsin,Steve,,Gunderson,,R,1981
+House,Wisconsin,Clement,J.,Zablocki,,D,1981
+House,Wisconsin,Henry,S.,Reuss,,D,1981
+House,Wisconsin,Tom,,Petri,,R,1981
+House,Wisconsin,Dave,,Obey,,D,1981
+House,Wisconsin,Toby,,Roth,,R,1981
+House,Wisconsin,Jim,,Sensenbrenner,,R,1981
+House,Wyoming,Dick,,Cheney,,R,1981

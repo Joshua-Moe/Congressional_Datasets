@@ -1,0 +1,556 @@
+Chamber,State,First_Name,Middle_Name,Last_Name,Suffix,Party,Congressional_Year
+Senate,Alabama,John,J.,Sparkman,,D,1951
+Senate,Alabama,J.,Lister,Hill,,D,1951
+Senate,Arizona,Ernest,,McFarland,,D,1951
+Senate,Arizona,Carl,,Hayden,,D,1951
+Senate,Arkansas,John,L.,McClellan,,D,1951
+Senate,Arkansas,J.,William,Fulbright,,D,1951
+Senate,California,William,,Knowland,,R,1951
+Senate,California,Richard,,Nixon,,R,1951
+Senate,California,Thomas,,Kuchel,,R,1951
+Senate,Colorado,Edwin,C.,Johnson,,D,1951
+Senate,Colorado,Eugene,,Millikin,,R,1951
+Senate,Connecticut,William,,Benton,,D,1951
+Senate,Connecticut,Brien,,McMahon,,D,1951
+Senate,Connecticut,William,A.,Purtell,,R,1951
+Senate,Connecticut,Prescott,,Bush,,R,1951
+Senate,Delaware,John,J.,Williams,,R,1951
+Senate,Delaware,J.,Allen,Frear,Jr.,D,1951
+Senate,Florida,Spessard,,Holland,,D,1951
+Senate,Florida,George,,Smathers,,D,1951
+Senate,Georgia,Walter,F.,George,,D,1951
+Senate,Georgia,Richard,,Russell,Jr.,D,1951
+Senate,Idaho,Henry,,Dworshak,,R,1951
+Senate,Idaho,Herman,,Welker,,R,1951
+Senate,Illinois,Paul,,Douglas,,D,1951
+Senate,Illinois,Everett,,Dirksen,,R,1951
+Senate,Indiana,William,E.,Jenner,,R,1951
+Senate,Indiana,Homer,E.,Capehart,,R,1951
+Senate,Iowa,Guy,M.,Gillette,,D,1951
+Senate,Iowa,Bourke,B.,Hickenlooper,,R,1951
+Senate,Kansas,Andrew,Frank,Schoeppel,,R,1951
+Senate,Kansas,Frank,,Carlson,,R,1951
+Senate,Kentucky,Virgil,,Chapman,,D,1951
+Senate,Kentucky,Thomas,R.,Underwood,,D,1951
+Senate,Kentucky,John,Sherman,Cooper,,R,1951
+Senate,Kentucky,Earle,,Clements,,D,1951
+Senate,Louisiana,Allen,J.,Ellender,,D,1951
+Senate,Louisiana,Russell,B.,Long,,D,1951
+Senate,Maine,Ralph,Owen,Brewster,,R,1951
+Senate,Maine,Margaret,Chase,Smith,,R,1951
+Senate,Maryland,Herbert,,O'Conor,,D,1951
+Senate,Maryland,John,Marshall,Butler,,R,1951
+Senate,Massachusetts,Henry,Cabot,Lodge,Jr.,R,1951
+Senate,Massachusetts,Leverett,,Saltonstall,,R,1951
+Senate,Michigan,Arthur,,Vandenberg,,R,1951
+Senate,Michigan,Blair,,Moody,,D,1951
+Senate,Michigan,Charles,E.,Potter,,R,1951
+Senate,Michigan,Homer,S.,Ferguson,,R,1951
+Senate,Minnesota,Edward,John,Thye,,R,1951
+Senate,Minnesota,Hubert,,Humphrey,,DFL,1951
+Senate,Mississippi,John,C.,Stennis,,D,1951
+Senate,Mississippi,James,,Eastland,,D,1951
+Senate,Missouri,James,P.,Kem,,R,1951
+Senate,Missouri,Thomas,C.,Hennings,Jr.,D,1951
+Senate,Montana,Zales,,Ecton,,R,1951
+Senate,Montana,James,E.,Murray,,D,1951
+Senate,Nebraska,Hugh,A.,Butler,,R,1951
+Senate,Nebraska,Kenneth,S.,Wherry,,R,1951
+Senate,Nebraska,Fred,A.,Seaton,,R,1951
+Senate,Nebraska,Dwight,,Griswold,,R,1951
+Senate,Nevada,George,W.,Malone,,R,1951
+Senate,Nevada,Patrick,A.,McCarran,,D,1951
+Senate,New Hampshire,Styles,,Bridges,,R,1951
+Senate,New Hampshire,Charles,W.,Tobey,,R,1951
+Senate,New Jersey,Howard,Alexander,Smith,,R,1951
+Senate,New Jersey,Robert,C.,Hendrickson,,R,1951
+Senate,New Mexico,Dennis,,Chávez,,D,1951
+Senate,New Mexico,Clinton,P.,Anderson,,D,1951
+Senate,New York,Irving,,Ives,,R,1951
+Senate,New York,Herbert,H.,Lehman,,D,1951
+Senate,North Carolina,Willis,,Smith,,D,1951
+Senate,North Carolina,Clyde,R.,Hoey,,D,1951
+Senate,North Dakota,William,,Langer,,R-NPL,1951
+Senate,North Dakota,Milton,,Young,,R,1951
+Senate,Ohio,John,W.,Bricker,,R,1951
+Senate,Ohio,Robert,A.,Taft,,R,1951
+Senate,Oklahoma,Robert,S.,Kerr,,D,1951
+Senate,Oklahoma,Mike,,Monroney,,D,1951
+Senate,Oregon,Guy,,Cordon,,R,1951
+Senate,Oregon,Wayne,,Morse,,R,1951
+Senate,Pennsylvania,Edward,,Martin,,R,1951
+Senate,Pennsylvania,James,H.,Duff,,R,1951
+Senate,Rhode Island,John,,Pastore,,D,1951
+Senate,Rhode Island,Theodore,F.,Green,,D,1951
+Senate,South Carolina,Burnet,R.,Maybank,,D,1951
+Senate,South Carolina,Olin,D.,Johnston,,D,1951
+Senate,South Dakota,Karl,E.,Mundt,,R,1951
+Senate,South Dakota,Francis,H.,Case,,R,1951
+Senate,Tennessee,Kenneth,,McKellar,,D,1951
+Senate,Tennessee,Estes,,Kefauver,,D,1951
+Senate,Texas,Tom,,Connally,,D,1951
+Senate,Texas,Lyndon,B.,Johnson,,D,1951
+Senate,Utah,Arthur,Vivian,Watkins,,R,1951
+Senate,Utah,Wallace,F.,Bennett,,R,1951
+Senate,Vermont,Ralph,,Flanders,,R,1951
+Senate,Vermont,George,,Aiken,,R,1951
+Senate,Virginia,Harry,F.,Byrd,,D,1951
+Senate,Virginia,Absalom,Willis,Robertson,,D,1951
+Senate,Washington,Harry,P.,Cain,,R,1951
+Senate,Washington,Warren,,Magnuson,,D,1951
+Senate,West Virginia,Harley,M.,Kilgore,,D,1951
+Senate,West Virginia,Matthew,M.,Neely,,D,1951
+Senate,Wisconsin,Joseph,,McCarthy,,R,1951
+Senate,Wisconsin,Alexander,,Wiley,,R,1951
+Senate,Wyoming,Joseph,C.,O'Mahoney,,D,1951
+Senate,Wyoming,Lester,C.,Hunt,,D,1951
+House,Alabama,Frank,W.,Boykin,,D,1951
+House,Alabama,George,M.,Grant,,D,1951
+House,Alabama,George,W.,Andrews,,D,1951
+House,Alabama,Kenneth,A.,Roberts,,D,1951
+House,Alabama,Albert,,Rains,,D,1951
+House,Alabama,Edward,,deGraffenried,,D,1951
+House,Alabama,Carl,,Elliott,,D,1951
+House,Alabama,Robert,E.,Jones,Jr.,D,1951
+House,Alabama,Laurie,C.,Battle,,D,1951
+House,Arizona,John,R.,Murdock,,D,1951
+House,Arizona,Harold,,Patten,,D,1951
+House,Arkansas,Ezekiel,C.,Gathings,,D,1951
+House,Arkansas,Wilbur,,Mills,,D,1951
+House,Arkansas,James,William,Trimble,,D,1951
+House,Arkansas,Boyd,Anderson,Tackett,,D,1951
+House,Arkansas,Brooks,,Hays,,D,1951
+House,Arkansas,William,F.,Norrell,,D,1951
+House,Arkansas,Oren,,Harris,,D,1951
+House,California,Hubert,B.,Scudder,,R,1951
+House,California,Clair,,Engle,,D,1951
+House,California,J.,Leroy,Johnson,,R,1951
+House,California,Franck,R.,Havenner,,D,1951
+House,California,John,F.,Shelley,,D,1951
+House,California,George,P.,Miller,,D,1951
+House,California,John,J.,Allen,Jr.,R,1951
+House,California,Jack,Z.,Anderson,,R,1951
+House,California,Allan,O.,Hunter,,R,1951
+House,California,Thomas,H.,Werdel,,R,1951
+House,California,Ernest,K.,Bramblett,,R,1951
+House,California,Patrick,J.,Hillings,,R,1951
+House,California,Norris,,Poulson,,R,1951
+House,California,Sam,,Yorty,,D,1951
+House,California,Gordon,L.,McDonough,,R,1951
+House,California,Donald,L.,Jackson,,R,1951
+House,California,Cecil,R.,King,,D,1951
+House,California,Clyde,,Doyle,,D,1951
+House,California,Chester,E.,Holifield,,D,1951
+House,California,John,Carl,Hinshaw,,R,1951
+House,California,Harry,R.,Sheppard,,D,1951
+House,California,John,R.,Phillips,,R,1951
+House,California,Clinton,D.,McKinnon,,D,1951
+House,Colorado,Byron,G.,Rogers,,D,1951
+House,Colorado,William,S.,Hill,,R,1951
+House,Colorado,John,,Chenoweth,,R,1951
+House,Colorado,Wayne,N.,Aspinall,,D,1951
+House,Connecticut,Abraham,,Ribicoff,,D,1951
+House,Connecticut,Horace,,Seely-Brown,Jr.,R,1951
+House,Connecticut,John,A.,McGuire,,D,1951
+House,Connecticut,Albert,P.,Morano,,R,1951
+House,Connecticut,James,T.,Patterson,,R,1951
+House,Connecticut,Antoni,,Sadlak,,R,1951
+House,Delaware,J.,Caleb,Boggs,,R,1951
+House,Florida,Chester,B.,McMullen,,D,1951
+House,Florida,Charles,E.,Bennett,,D,1951
+House,Florida,Robert,L. F.,Sikes,,D,1951
+House,Florida,Bill,,Lantaff,,D,1951
+House,Florida,Syd,,Herlong,,D,1951
+House,Florida,Dwight,L.,Rogers,,D,1951
+House,Georgia,Prince,Hulon,Preston,Jr.,D,1951
+House,Georgia,Edward,E.,Cox,,D,1951
+House,Georgia,Tic,,Forrester,,D,1951
+House,Georgia,Albert,Sidney,Camp,,D,1951
+House,Georgia,James,C.,Davis,,D,1951
+House,Georgia,Carl,,Vinson,,D,1951
+House,Georgia,Henderson,Lovelace,Lanham,,D,1951
+House,Georgia,William,McDonald,Wheeler,,D,1951
+House,Georgia,John,S.,Wood,,D,1951
+House,Georgia,Paul,,Brown,,D,1951
+House,Idaho,John,Travers,Wood,,R,1951
+House,Idaho,Hamer,H.,Budge,,R,1951
+House,Illinois,William,L.,Dawson,,D,1951
+House,Illinois,Richard,B.,Vail,,R,1951
+House,Illinois,Fred,E.,Busbey,,R,1951
+House,Illinois,William,E.,McVey,,R,1951
+House,Illinois,John,C.,Kluczynski,,D,1951
+House,Illinois,Thomas,J.,O'Brien,,D,1951
+House,Illinois,Adolph,J.,Sabath,,D,1951
+House,Illinois,Thomas,S.,Gordon,,D,1951
+House,Illinois,Sidney,R.,Yates,,D,1951
+House,Illinois,Richard,W.,Hoffman,,R,1951
+House,Illinois,Timothy,P.,Sheehan,,R,1951
+House,Illinois,Edgar,A.,Jonas,,R,1951
+House,Illinois,Marguerite,S.,Church,,R,1951
+House,Illinois,Chauncey,W.,Reed,,R,1951
+House,Illinois,Noah,M.,Mason,,R,1951
+House,Illinois,Leo,E.,Allen,,R,1951
+House,Illinois,Leslie,C.,Arends,,R,1951
+House,Illinois,Harold,H.,Velde,,R,1951
+House,Illinois,Robert,B.,Chiperfield,,R,1951
+House,Illinois,Sid,,Simpson,,R,1951
+House,Illinois,Peter,F.,Mack,Jr.,D,1951
+House,Illinois,William,L.,Springer,,R,1951
+House,Illinois,Edward,H.,Jenison,,R,1951
+House,Illinois,Charles,W.,Vursell,,R,1951
+House,Illinois,Melvin,,Price,,D,1951
+House,Illinois,C.,W.,Bishop,,R,1951
+House,Indiana,Ray,,Madden,,D,1951
+House,Indiana,Charles,A.,Halleck,,R,1951
+House,Indiana,Shepard,J.,Crumpacker,Jr.,R,1951
+House,Indiana,E.,Ross,Adair,,R,1951
+House,Indiana,John,V.,Beamer,,R,1951
+House,Indiana,Cecil,M.,Harden,,R,1951
+House,Indiana,William,G.,Bray,,R,1951
+House,Indiana,Winfield,K.,Denton,,D,1951
+House,Indiana,Earl,,Wilson,,R,1951
+House,Indiana,Ralph,,Harvey,,R,1951
+House,Indiana,Charles,B.,Brownson,,R,1951
+House,Iowa,Thomas,E.,Martin,,R,1951
+House,Iowa,Henry,O.,Talle,,R,1951
+House,Iowa,H.,R.,Gross,,R,1951
+House,Iowa,Karl,M.,LeCompte,,R,1951
+House,Iowa,Paul,H.,Cunningham,,R,1951
+House,Iowa,James,I.,Dolliver,,R,1951
+House,Iowa,Ben,F.,Jensen,,R,1951
+House,Iowa,Charles,B.,Hoeven,,R,1951
+House,Kansas,Albert,M.,Cole,,R,1951
+House,Kansas,Errett,P.,Scrivner,,R,1951
+House,Kansas,Myron,V.,George,,R,1951
+House,Kansas,Edward,Herbert,Rees,,R,1951
+House,Kansas,Clifford,R.,Hope,,R,1951
+House,Kansas,Wint,,Smith,,R,1951
+House,Kentucky,Noble,J.,Gregory,,D,1951
+House,Kentucky,John,A.,Whitaker,,D,1951
+House,Kentucky,Garrett,,Withers,,D,1951
+House,Kentucky,Thruston,Ballard,Morton,,R,1951
+House,Kentucky,Frank,,Chelf,,D,1951
+House,Kentucky,Brent,,Spence,,D,1951
+House,Kentucky,Thomas,R.,Underwood,,D,1951
+House,Kentucky,John,C.,Watts,,D,1951
+House,Kentucky,Carl,D.,Perkins,,D,1951
+House,Kentucky,Joe,B.,Bates,,D,1951
+House,Kentucky,James,S.,Golden,,R,1951
+House,Louisiana,F.,Edward,Hébert,,D,1951
+House,Louisiana,Hale,,Boggs,,D,1951
+House,Louisiana,Edwin,E.,Willis,,D,1951
+House,Louisiana,Overton,,Brooks,,D,1951
+House,Louisiana,Otto,,Passman,,D,1951
+House,Louisiana,James,H.,Morrison,,D,1951
+House,Louisiana,Henry,D.,Larcade,Jr.,D,1951
+House,Louisiana,A.,Leonard,Allen,,D,1951
+House,Maine,Robert,,Hale,,R,1951
+House,Maine,Charles,P.,Nelson,,R,1951
+House,Maine,Frank,,Fellows,,R,1951
+House,Maine,Clifford,,McIntire,,R,1951
+House,Maryland,Edward,Tylor,Miller,,R,1951
+House,Maryland,James,,Devereux,,R,1951
+House,Maryland,Edward,,Garmatz,,D,1951
+House,Maryland,George,Hyde,Fallon,,D,1951
+House,Maryland,Lansdale,G.,Sasscer,,D,1951
+House,Maryland,James,Glenn,Beall,,R,1951
+House,Massachusetts,John,W.,Heselton,,R,1951
+House,Massachusetts,Foster,,Furcolo,,D,1951
+House,Massachusetts,Philip,J.,Philbin,,D,1951
+House,Massachusetts,Harold,,Donohue,,D,1951
+House,Massachusetts,Edith,Nourse,Rogers,,R,1951
+House,Massachusetts,William,H.,Bates,,R,1951
+House,Massachusetts,Thomas,J.,Lane,,D,1951
+House,Massachusetts,Angier,,Goodwin,,R,1951
+House,Massachusetts,Donald,W.,Nicholson,,R,1951
+House,Massachusetts,Christian,,Herter,,R,1951
+House,Massachusetts,John,F.,Kennedy,,D,1951
+House,Massachusetts,John,W.,McCormack,,D,1951
+House,Massachusetts,Richard,B.,Wigglesworth,,R,1951
+House,Massachusetts,Joseph,W.,Martin,Jr.,R,1951
+House,Michigan,Thaddeus,M.,Machrowicz,,D,1951
+House,Michigan,George,,Meader,,R,1951
+House,Michigan,Paul,W.,Shafer,,R,1951
+House,Michigan,Clare,E.,Hoffman,,R,1951
+House,Michigan,Gerald,,Ford,,R,1951
+House,Michigan,William,W.,Blackney,,R,1951
+House,Michigan,Jesse,P.,Wolcott,,R,1951
+House,Michigan,Fred,L.,Crawford,,R,1951
+House,Michigan,Ruth,,Thompson,,R,1951
+House,Michigan,Roy,O.,Woodruff,,R,1951
+House,Michigan,Charles,E.,Potter,,R,1951
+House,Michigan,John,B.,Bennett,,R,1951
+House,Michigan,George,D.,O'Brien,,D,1951
+House,Michigan,Louis,C.,Rabaut,,D,1951
+House,Michigan,John,D.,Dingell,Sr.,D,1951
+House,Michigan,John,,Lesinski,Jr.,D,1951
+House,Michigan,George,Anthony,Dondero,,R,1951
+House,Minnesota,August,H.,Andresen,,R,1951
+House,Minnesota,Joseph,P.,O'Hara,,R,1951
+House,Minnesota,Roy,,Wier,,DFL,1951
+House,Minnesota,Eugene,,McCarthy,,DFL,1951
+House,Minnesota,Walter,,Judd,,R,1951
+House,Minnesota,Fred,,Marshall,,DFL,1951
+House,Minnesota,Herman,Carl,Andersen,,R,1951
+House,Minnesota,John,,Blatnik,,DFL,1951
+House,Minnesota,Harold,,Hagen,,R,1951
+House,Mississippi,John,E.,Rankin,,D,1951
+House,Mississippi,Jamie,,Whitten,,D,1951
+House,Mississippi,Frank,Ellis,Smith,,D,1951
+House,Mississippi,Thomas,,Abernethy,,D,1951
+House,Mississippi,W.,Arthur,Winstead,,D,1951
+House,Mississippi,William,M.,Colmer,,D,1951
+House,Mississippi,John,Bell,Williams,,D,1951
+House,Missouri,Clare,,Magee,,D,1951
+House,Missouri,Morgan,M.,Moulder,,D,1951
+House,Missouri,Phil,J.,Welch,,D,1951
+House,Missouri,Leonard,,Irving,,D,1951
+House,Missouri,Richard,Walker,Bolling,,D,1951
+House,Missouri,Orland,K.,Armstrong,,R,1951
+House,Missouri,Dewey,,Short,,R,1951
+House,Missouri,A.,S. J.,Carnahan,,D,1951
+House,Missouri,Clarence,,Cannon,,D,1951
+House,Missouri,Paul,C.,Jones,,D,1951
+House,Missouri,John,B.,Sullivan,,D,1951
+House,Missouri,Claude,I.,Bakewell,,R,1951
+House,Missouri,Thomas,B.,Curtis,,R,1951
+House,Missouri,Frank,M.,Karsten,,D,1951
+House,Montana,Mike,,Mansfield,,D,1951
+House,Montana,Wesley,A.,D'Ewart,,R,1951
+House,Nebraska,Carl,,Curtis,,R,1951
+House,Nebraska,Howard,,Buffett,,R,1951
+House,Nebraska,Karl,,Stefan,,R,1951
+House,Nebraska,Robert,Dinsmore,Harrison,,R,1951
+House,Nebraska,Arthur,L.,Miller,,R,1951
+House,Nevada,Walter,S.,Baring,Jr.,D,1951
+House,New Hampshire,Chester,Earl,Merrow,,R,1951
+House,New Hampshire,Norris,,Cotton,,R,1951
+House,New Jersey,Charles,A.,Wolverton,,R,1951
+House,New Jersey,T.,Millet,Hand,,R,1951
+House,New Jersey,James,C.,Auchincloss,,R,1951
+House,New Jersey,Charles,R.,Howell,,D,1951
+House,New Jersey,Charles,A.,Eaton,,R,1951
+House,New Jersey,Clifford,P.,Case,,R,1951
+House,New Jersey,William,B.,Widnall,,R,1951
+House,New Jersey,Gordon,,Canfield,,R,1951
+House,New Jersey,Harry,L.,Towe,,R,1951
+House,New Jersey,Frank,C.,Osmers,Jr.,R,1951
+House,New Jersey,Peter,W.,Rodino,,D,1951
+House,New Jersey,Hugh,Joseph,Addonizio,,D,1951
+House,New Jersey,Robert,,Kean,,R,1951
+House,New Jersey,Alfred,Dennis,Sieminski,,D,1951
+House,New Jersey,Edward,J.,Hart,,D,1951
+House,New Mexico,John,J.,Dempsey,,D,1951
+House,New Mexico,Antonio,M.,Fernández,,D,1951
+House,New York,Ernest,,Greenwood,,D,1951
+House,New York,Leonard,W.,Hall,,R,1951
+House,New York,Henry,J.,Latham,,R,1951
+House,New York,L.,Gary,Clemente,,D,1951
+House,New York,T.,Vincent,Quinn,,D,1951
+House,New York,Robert,Tripp,Ross,,R,1951
+House,New York,James,J.,Delaney,,D,1951
+House,New York,Louis,B.,Heller,,D,1951
+House,New York,Victor,,Anfuso,,D,1951
+House,New York,Eugene,J.,Keogh,,D,1951
+House,New York,Edna,F.,Kelly,,D,1951
+House,New York,James,J.,Heffernan,,D,1951
+House,New York,John,J.,Rooney,,D,1951
+House,New York,Donald,L.,O'Toole,,D,1951
+House,New York,Abraham,J.,Multer,,D,1951
+House,New York,Emanuel,,Celler,,D,1951
+House,New York,James,J.,Murphy,,D,1951
+House,New York,Frederic,René,Coudert,Jr.,R,1951
+House,New York,James,G.,Donovan,,D,1951
+House,New York,Arthur,George,Klein,,D,1951
+House,New York,Franklin,Delano,Roosevelt,Jr.,D,1951
+House,New York,Jacob,,Javits,,R,1951
+House,New York,Adam,Clayton,Powell,Jr.,D,1951
+House,New York,Sidney,A.,Fine,,D,1951
+House,New York,Isidore,,Dollinger,,D,1951
+House,New York,Charles,A.,Buckley,,D,1951
+House,New York,Christopher,C.,McGrath,,D,1951
+House,New York,Ralph,W.,Gwinn,,R,1951
+House,New York,Ralph,A.,Gamble,,R,1951
+House,New York,Katharine,St.,George,,R,1951
+House,New York,J.,Ernest,Wharton,,R,1951
+House,New York,Bernard,W.,Kearney,,R,1951
+House,New York,William,T.,Byrne,,D,1951
+House,New York,Leo,W.,O'Brien,,D,1951
+House,New York,Dean,P.,Taylor,,R,1951
+House,New York,Clarence,E.,Kilburn,,R,1951
+House,New York,William,R.,Williams,,R,1951
+House,New York,R.,Walter,Riehlman,,R,1951
+House,New York,Edwin,Arthur,Hall,,R,1951
+House,New York,John,,Taber,,R,1951
+House,New York,W.,Sterling,Cole,,R,1951
+House,New York,Kenneth,,Keating,,R,1951
+House,New York,Harold,C.,Ostertag,,R,1951
+House,New York,William,E.,Miller,,R,1951
+House,New York,Edmund,P.,Radwan,,R,1951
+House,New York,John,Cornelius,Butler,,R,1951
+House,New York,Daniel,A.,Reed,,R,1951
+House,North Carolina,Herbert,Covington,Bonner,,D,1951
+House,North Carolina,John,H.,Kerr,,D,1951
+House,North Carolina,Graham,A.,Barden,,D,1951
+House,North Carolina,Harold,D.,Cooley,,D,1951
+House,North Carolina,Richard,Thurmond,Chatham,,D,1951
+House,North Carolina,Carl,T.,Durham,,D,1951
+House,North Carolina,Frank,Ertel,Carlyle,,D,1951
+House,North Carolina,Charles,B.,Deane,,D,1951
+House,North Carolina,Robert,L.,Doughton,,D,1951
+House,North Carolina,Hamilton,C.,Jones,,D,1951
+House,North Carolina,Woodrow,W.,Jones,,D,1951
+House,North Carolina,Monroe,Minor,Redden,,D,1951
+House,North Dakota,Fred,G.,Aandahl,,R,1951
+House,North Dakota,Usher,L.,Burdick,,R-NPL,1951
+House,Ohio,Charles,H.,Elston,,R,1951
+House,Ohio,William,E.,Hess,,R,1951
+House,Ohio,Edward,G.,Breen,,D,1951
+House,Ohio,Paul,F.,Schenck,,R,1951
+House,Ohio,William,Moore,McCulloch,,R,1951
+House,Ohio,Cliff,,Clevenger,,R,1951
+House,Ohio,James,G.,Polk,,D,1951
+House,Ohio,Clarence,J.,Brown,,R,1951
+House,Ohio,Jackson,Edward,Betts,,R,1951
+House,Ohio,Frazier,,Reams,,I,1951
+House,Ohio,Thomas,A.,Jenkins,,R,1951
+House,Ohio,Walter,E.,Brehm,,R,1951
+House,Ohio,John,M.,Vorys,,R,1951
+House,Ohio,Alvin,F.,Weichel,,R,1951
+House,Ohio,William,Hanes,Ayres,,R,1951
+House,Ohio,Robert,T.,Secrest,,D,1951
+House,Ohio,Frank,T.,Bow,,R,1951
+House,Ohio,J.,Harry,McGregor,,R,1951
+House,Ohio,Wayne,,Hays,,D,1951
+House,Ohio,Michael,J.,Kirwan,,D,1951
+House,Ohio,Michael,A.,Feighan,,D,1951
+House,Ohio,Robert,,Crosser,,D,1951
+House,Ohio,Frances,P.,Bolton,,R,1951
+House,Ohio,George,H.,Bender,,R,1951
+House,Oklahoma,George,B.,Schwabe,,R,1951
+House,Oklahoma,William,G.,Stigler,,D,1951
+House,Oklahoma,Carl,,Albert,,D,1951
+House,Oklahoma,Tom,,Steed,,D,1951
+House,Oklahoma,John,,Jarman,,D,1951
+House,Oklahoma,Toby,,Morris,,D,1951
+House,Oklahoma,Victor,,Wickersham,,D,1951
+House,Oklahoma,Page,,Belcher,,R,1951
+House,Oregon,A.,Walter,Norblad,,R,1951
+House,Oregon,Lowell,,Stockman,,R,1951
+House,Oregon,Homer,D.,Angell,,R,1951
+House,Oregon,Harris,,Ellsworth,,R,1951
+House,Pennsylvania,William,A.,Barrett,,D,1951
+House,Pennsylvania,William,T.,Granahan,,D,1951
+House,Pennsylvania,Hardie,,Scott,,R,1951
+House,Pennsylvania,Earl,,Chudoff,,D,1951
+House,Pennsylvania,William,J.,Green,Jr.,D,1951
+House,Pennsylvania,Hugh,,Scott,,R,1951
+House,Pennsylvania,Benjamin,F.,James,,R,1951
+House,Pennsylvania,Albert,C.,Vaughn,,R,1951
+House,Pennsylvania,Karl,C.,King,,R,1951
+House,Pennsylvania,Paul,B.,Dague,,R,1951
+House,Pennsylvania,Harry,P.,O'Neill,,D,1951
+House,Pennsylvania,Dan,,Flood,,D,1951
+House,Pennsylvania,Ivor,D.,Fenton,,R,1951
+House,Pennsylvania,George,M.,Rhodes,,D,1951
+House,Pennsylvania,Wilson,D.,Gillette,,R,1951
+House,Pennsylvania,Joseph,L.,Carrigg,,R,1951
+House,Pennsylvania,Alvin,,Bush,,R,1951
+House,Pennsylvania,Samuel,K.,McConnell,Jr.,R,1951
+House,Pennsylvania,Richard,M.,Simpson,,R,1951
+House,Pennsylvania,Walter,M.,Mumma,,R,1951
+House,Pennsylvania,Leon,H.,Gavin,,R,1951
+House,Pennsylvania,Francis,E.,Walter,,D,1951
+House,Pennsylvania,James,F.,Lind,,D,1951
+House,Pennsylvania,James,E. Van,Zandt,,R,1951
+House,Pennsylvania,Edward,L.,Sittler,Jr.,R,1951
+House,Pennsylvania,Thomas,E.,Morgan,,D,1951
+House,Pennsylvania,Louis,E.,Graham,,R,1951
+House,Pennsylvania,John,P.,Saylor,,R,1951
+House,Pennsylvania,Augustine,B.,Kelley,,D,1951
+House,Pennsylvania,Carroll,D.,Kearns,,R,1951
+House,Pennsylvania,Harmar,D.,Denny,Jr.,R,1951
+House,Pennsylvania,Robert,J.,Corbett,,R,1951
+House,Pennsylvania,James,G.,Fulton,,R,1951
+House,Pennsylvania,Herman,P.,Eberharter,,D,1951
+House,Pennsylvania,Frank,,Buchanan,,D,1951
+House,Pennsylvania,Vera,,Buchanan,,D,1951
+House,Rhode Island,Aime,,Forand,,D,1951
+House,Rhode Island,John,E.,Fogarty,,D,1951
+House,South Carolina,L.,Mendel,Rivers,,D,1951
+House,South Carolina,John,J.,Riley,,D,1951
+House,South Carolina,William,Jennings Bryan,Dorn,,D,1951
+House,South Carolina,Joseph,R.,Bryson,,D,1951
+House,South Carolina,James,P.,Richards,,D,1951
+House,South Carolina,John,L.,McMillan,,D,1951
+House,South Dakota,Harold,,Lovre,,R,1951
+House,South Dakota,Ellis,Yarnal,Berry,,R,1951
+House,Tennessee,B.,Carroll,Reece,,R,1951
+House,Tennessee,Howard,,Baker,Sr.,R,1951
+House,Tennessee,James,B.,Frazier,Jr.,D,1951
+House,Tennessee,Albert,,Gore,Sr.,D,1951
+House,Tennessee,Joe,L.,Evins,,D,1951
+House,Tennessee,Percy,,Priest,,D,1951
+House,Tennessee,James,Patrick,Sutton,,D,1951
+House,Tennessee,Tom,J.,Murray,,D,1951
+House,Tennessee,Jere,,Cooper,,D,1951
+House,Tennessee,Clifford,,Davis,,D,1951
+House,Texas,Wright,,Patman,,D,1951
+House,Texas,Jesse,M.,Combs,,D,1951
+House,Texas,Lindley,,Beckworth,,D,1951
+House,Texas,Sam,,Rayburn,,D,1951
+House,Texas,Joseph,Franklin,Wilson,,D,1951
+House,Texas,Olin,E.,Teague,,D,1951
+House,Texas,Tom,,Pickett,,D,1951
+House,Texas,John,,Dowdy,,D,1951
+House,Texas,Albert,,Thomas,,D,1951
+House,Texas,Clark,W.,Thompson,,D,1951
+House,Texas,Homer,,Thornberry,,D,1951
+House,Texas,William,R.,Poage,,D,1951
+House,Texas,Wingate,H.,Lucas,,D,1951
+House,Texas,Ed,,Gossett,,D,1951
+House,Texas,Frank,N.,Ikard,,D,1951
+House,Texas,John,E.,Lyle,Jr.,D,1951
+House,Texas,Lloyd,,Bentsen,,D,1951
+House,Texas,Kenneth,M.,Regan,,D,1951
+House,Texas,Omar,,Burleson,,D,1951
+House,Texas,Walter,E.,Rogers,,D,1951
+House,Texas,George,H.,Mahon,,D,1951
+House,Texas,Paul,J.,Kilday,,D,1951
+House,Texas,O.,C.,Fisher,,D,1951
+House,Utah,Walter,K.,Granger,,D,1951
+House,Utah,Reva,Beck,Bosone,,D,1951
+House,Vermont,Winston,L.,Prouty,,R,1951
+House,Virginia,Edward,J.,Robeson,Jr.,D,1951
+House,Virginia,Porter,,Hardy,Jr.,D,1951
+House,Virginia,J.,Vaughan,Gary,,D,1951
+House,Virginia,Watkins,Moorman,Abbitt,,D,1951
+House,Virginia,Thomas,B.,Stanley,,D,1951
+House,Virginia,Clarence,G.,Burton,,D,1951
+House,Virginia,Burr,,Harrison,,D,1951
+House,Virginia,Howard,W.,Smith,,D,1951
+House,Virginia,Thomas,B.,Fugate,,D,1951
+House,Washington,Hugh,,Mitchell,,D,1951
+House,Washington,Henry,M.,Jackson,,D,1951
+House,Washington,Russell,V.,Mack,,R,1951
+House,Washington,Hal,,Holmes,,R,1951
+House,Washington,Walt,,Horan,,R,1951
+House,Washington,Thor,C.,Tollefson,,R,1951
+House,West Virginia,Robert,L.,Ramsay,,D,1951
+House,West Virginia,Harley,Orrin,Staggers,,D,1951
+House,West Virginia,Cleveland,M.,Bailey,,D,1951
+House,West Virginia,Maurice,G.,Burnside,,D,1951
+House,West Virginia,John,,Kee,,D,1951
+House,West Virginia,Elizabeth,,Kee,,D,1951
+House,West Virginia,E.,H.,Hedrick,,D,1951
+House,Wisconsin,Lawrence,H.,Smith,,R,1951
+House,Wisconsin,Glenn,Robert,Davis,,R,1951
+House,Wisconsin,Gardner,R.,Withrow,,R,1951
+House,Wisconsin,Clement,J.,Zablocki,,D,1951
+House,Wisconsin,Charles,J.,Kersten,,R,1951
+House,Wisconsin,William,Van,Pelt,,R,1951
+House,Wisconsin,Reid,F.,Murray,,R,1951
+House,Wisconsin,John,W.,Byrnes,,R,1951
+House,Wisconsin,Merlin,,Hull,,R,1951
+House,Wisconsin,Alvin,,O'Konski,,R,1951
+House,Wyoming,William,Henry,Harrison,III,R,1951

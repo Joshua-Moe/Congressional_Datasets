@@ -1,0 +1,546 @@
+Chamber,State,First_Name,Middle_Name,Last_Name,Suffix,Party,Congressional_Year
+Senate,Alabama,J.,Lister,Hill,,D,1957
+Senate,Alabama,John,,Sparkman,,D,1957
+Senate,Arizona,Carl,,Hayden,,D,1957
+Senate,Arizona,Barry,,Goldwater,,R,1957
+Senate,Arkansas,John,L.,McClellan,,D,1957
+Senate,Arkansas,J.,William,Fulbright,,D,1957
+Senate,California,William,,Knowland,,R,1957
+Senate,California,Thomas,,Kuchel,,R,1957
+Senate,Colorado,Gordon,,Allott,,R,1957
+Senate,Colorado,John,A.,Carroll,,D,1957
+Senate,Connecticut,William,A.,Purtell,,R,1957
+Senate,Connecticut,Prescott,,Bush,,R,1957
+Senate,Delaware,John,J.,Williams,,R,1957
+Senate,Delaware,J.,Allen,Frear,Jr.,D,1957
+Senate,Florida,Spessard,,Holland,,D,1957
+Senate,Florida,George,,Smathers,,D,1957
+Senate,Georgia,Richard,,Russell,Jr.,D,1957
+Senate,Georgia,Herman,,Talmadge,,D,1957
+Senate,Idaho,Henry,,Dworshak,,R,1957
+Senate,Idaho,Frank,,Church,,D,1957
+Senate,Illinois,Paul,,Douglas,,D,1957
+Senate,Illinois,Everett,M.,Dirksen,,R,1957
+Senate,Indiana,William,E.,Jenner,,R,1957
+Senate,Indiana,Homer,E.,Capehart,,R,1957
+Senate,Iowa,Thomas,E.,Martin,,R,1957
+Senate,Iowa,Bourke,B.,Hickenlooper,,R,1957
+Senate,Kansas,Andrew,Frank,Schoeppel,,R,1957
+Senate,Kansas,Frank,,Carlson,,R,1957
+Senate,Kentucky,John,Sherman,Cooper,,R,1957
+Senate,Kentucky,Thruston,Ballard,Morton,,R,1957
+Senate,Louisiana,Allen,J.,Ellender,,D,1957
+Senate,Louisiana,Russell,B.,Long,,D,1957
+Senate,Maine,Frederick,G.,Payne,,R,1957
+Senate,Maine,Margaret,Chase,Smith,,R,1957
+Senate,Maryland,James,Glenn,Beall,,R,1957
+Senate,Maryland,John,Marshall,Butler,,R,1957
+Senate,Massachusetts,John,F.,Kennedy,,D,1957
+Senate,Massachusetts,Leverett,,Saltonstall,,R,1957
+Senate,Michigan,Charles,E.,Potter,,R,1957
+Senate,Michigan,Patrick,V.,McNamara,,D,1957
+Senate,Minnesota,Edward,John,Thye,,R,1957
+Senate,Minnesota,Hubert,,Humphrey,,DFL,1957
+Senate,Mississippi,John,C.,Stennis,,D,1957
+Senate,Mississippi,James,,Eastland,,D,1957
+Senate,Missouri,Stuart,,Symington,,D,1957
+Senate,Missouri,Thomas,C.,Hennings,Jr.,D,1957
+Senate,Montana,Mike,,Mansfield,,D,1957
+Senate,Montana,James,E.,Murray,,D,1957
+Senate,Nebraska,Roman,,Hruska,,R,1957
+Senate,Nebraska,Carl,,Curtis,,R,1957
+Senate,Nevada,George,W.,Malone,,R,1957
+Senate,Nevada,Alan,,Bible,,D,1957
+Senate,New Hampshire,Styles,,Bridges,,R,1957
+Senate,New Hampshire,Norris,,Cotton,,R,1957
+Senate,New Jersey,Howard,Alexander,Smith,,R,1957
+Senate,New Jersey,Clifford,P.,Case,,R,1957
+Senate,New Mexico,Dennis,,Chávez,,D,1957
+Senate,New Mexico,Clinton,,Anderson,,D,1957
+Senate,New York,Irving,,Ives,,R,1957
+Senate,New York,Jacob,,Javits,,R,1957
+Senate,North Carolina,W.,Kerr,Scott,,D,1957
+Senate,North Carolina,B.,Everett,Jordan,,D,1957
+Senate,North Carolina,Sam,,Ervin,,D,1957
+Senate,North Dakota,William,,Langer,,R-NPL,1957
+Senate,North Dakota,Milton,,Young,,R,1957
+Senate,Ohio,John,W.,Bricker,,R,1957
+Senate,Ohio,Frank,,Lausche,,D,1957
+Senate,Oklahoma,Robert,S.,Kerr,,D,1957
+Senate,Oklahoma,Mike,,Monroney,,D,1957
+Senate,Oregon,Richard,L.,Neuberger,,D,1957
+Senate,Oregon,Wayne,,Morse,,D,1957
+Senate,Pennsylvania,Edward,,Martin,,R,1957
+Senate,Pennsylvania,Joseph,S.,Clark,Jr.,D,1957
+Senate,Rhode Island,John,,Pastore,,D,1957
+Senate,Rhode Island,Theodore,F.,Green,,D,1957
+Senate,South Carolina,Strom,,Thurmond,,D,1957
+Senate,South Carolina,Olin,D.,Johnston,,D,1957
+Senate,South Dakota,Karl,,Mundt,,R,1957
+Senate,South Dakota,Francis,H.,Case,,R,1957
+Senate,Tennessee,Albert,,Gore,Sr.,D,1957
+Senate,Tennessee,Estes,,Kefauver,,D,1957
+Senate,Texas,Price,,Daniel,,D,1957
+Senate,Texas,William,A.,Blakley,,D,1957
+Senate,Texas,Ralph,,Yarborough,,D,1957
+Senate,Texas,Lyndon,B.,Johnson,,D,1957
+Senate,Utah,Arthur,Vivian,Watkins,,R,1957
+Senate,Utah,Wallace,F.,Bennett,,R,1957
+Senate,Vermont,Ralph,,Flanders,,R,1957
+Senate,Vermont,George,,Aiken,,R,1957
+Senate,Virginia,Harry,F.,Byrd,,D,1957
+Senate,Virginia,Absalom,Willis,Robertson,,D,1957
+Senate,Washington,Henry,M.,Jackson,,D,1957
+Senate,Washington,Warren,,Magnuson,,D,1957
+Senate,West Virginia,Chapman,,Revercomb,,R,1957
+Senate,West Virginia,Matthew,M.,Neely,,D,1957
+Senate,West Virginia,John,D.,Hoblitzell,Jr.,R,1957
+Senate,West Virginia,Jennings,,Randolph,,D,1957
+Senate,Wisconsin,Joseph,,McCarthy,,R,1957
+Senate,Wisconsin,William,,Proxmire,,D,1957
+Senate,Wisconsin,Alexander,,Wiley,,R,1957
+Senate,Wyoming,Frank,A.,Barrett,,R,1957
+Senate,Wyoming,Joseph,C.,O'Mahoney,,D,1957
+House,Alabama,Frank,W.,Boykin,,D,1957
+House,Alabama,George,M.,Grant,,D,1957
+House,Alabama,George,W.,Andrews,,D,1957
+House,Alabama,Kenneth,A.,Roberts,,D,1957
+House,Alabama,Albert,,Rains,,D,1957
+House,Alabama,Armistead,I.,Selden,Jr.,D,1957
+House,Alabama,Carl,,Elliott,,D,1957
+House,Alabama,Robert,E.,Jones,Jr.,D,1957
+House,Alabama,George,,Huddleston,Jr.,D,1957
+House,Arizona,John,Jacob,Rhodes,,R,1957
+House,Arizona,Stewart,,Udall,,D,1957
+House,Arkansas,Ezekiel,C.,Gathings,,D,1957
+House,Arkansas,Wilbur,,Mills,,D,1957
+House,Arkansas,James,William,Trimble,,D,1957
+House,Arkansas,Oren,,Harris,,D,1957
+House,Arkansas,Brooks,,Hays,,D,1957
+House,Arkansas,William,F.,Norrell,,D,1957
+House,California,Hubert,B.,Scudder,,R,1957
+House,California,Clair,,Engle,,D,1957
+House,California,John,E.,Moss,,D,1957
+House,California,William,S.,Mailliard,,R,1957
+House,California,John,F.,Shelley,,D,1957
+House,California,John,F.,Baldwin,Jr.,R,1957
+House,California,John,J.,Allen,Jr.,R,1957
+House,California,George,P.,Miller,,D,1957
+House,California,J.,Arthur,Younger,,R,1957
+House,California,Charles,,Gubser,,R,1957
+House,California,John,J.,McFall,,D,1957
+House,California,B.,F.,Sisk,,D,1957
+House,California,Charles,M.,Teague,,R,1957
+House,California,Harlan,,Hagen,,D,1957
+House,California,Gordon,L.,McDonough,,R,1957
+House,California,Donald,L.,Jackson,,R,1957
+House,California,Cecil,R.,King,,D,1957
+House,California,Craig,,Hosmer,,R,1957
+House,California,Chester,E.,Holifield,,D,1957
+House,California,H.,Allen,Smith,,R,1957
+House,California,Edgar,W.,Hiestand,,R,1957
+House,California,Joseph,F.,Holt,,R,1957
+House,California,Clyde,,Doyle,,D,1957
+House,California,Glenard,P.,Lipscomb,,R,1957
+House,California,Patrick,J.,Hillings,,R,1957
+House,California,James,,Roosevelt,,D,1957
+House,California,Harry,R.,Sheppard,,D,1957
+House,California,James,B.,Utt,,R,1957
+House,California,Dalip,Singh,Saund,,D,1957
+House,California,Bob,,Wilson,,R,1957
+House,Colorado,Byron,G.,Rogers,,D,1957
+House,Colorado,William,S.,Hill,,R,1957
+House,Colorado,John,,Chenoweth,,R,1957
+House,Colorado,Wayne,N.,Aspinall,,D,1957
+House,Connecticut,Edwin,H.,May,Jr.,R,1957
+House,Connecticut,Horace,,Seely-Brown,Jr.,R,1957
+House,Connecticut,Albert,W.,Cretella,,R,1957
+House,Connecticut,Albert,P.,Morano,,R,1957
+House,Connecticut,James,T.,Patterson,,R,1957
+House,Connecticut,Antoni,,Sadlak,,R,1957
+House,Delaware,Harry,G.,Haskell,Jr.,R,1957
+House,Florida,William,C.,Cramer,,R,1957
+House,Florida,Charles,E.,Bennett,,D,1957
+House,Florida,Robert,L. F.,Sikes,,D,1957
+House,Florida,Dante,,Fascell,,D,1957
+House,Florida,Syd,,Herlong,,D,1957
+House,Florida,Paul,,Rogers,,D,1957
+House,Florida,James,A.,Haley,,D,1957
+House,Florida,Donald,Ray,Matthews,,D,1957
+House,Georgia,Prince,Hulon,Preston,Jr.,D,1957
+House,Georgia,J.,L.,Pilcher,,D,1957
+House,Georgia,Tic,,Forrester,,D,1957
+House,Georgia,John,,Flynt,,D,1957
+House,Georgia,James,C.,Davis,,D,1957
+House,Georgia,Carl,,Vinson,,D,1957
+House,Georgia,Henderson,Lovelace,Lanham,,D,1957
+House,Georgia,Harlan,Erwin,Mitchell,,D,1957
+House,Georgia,Iris,Faircloth,Blitch,,D,1957
+House,Georgia,Phillip,M.,Landrum,,D,1957
+House,Georgia,Paul,,Brown,,D,1957
+House,Idaho,Gracie,,Pfost,,D,1957
+House,Idaho,Hamer,H.,Budge,,R,1957
+House,Illinois,William,L.,Dawson,,D,1957
+House,Illinois,Barratt,,O'Hara,,D,1957
+House,Illinois,Emmet,,Byrne,,R,1957
+House,Illinois,William,E.,McVey,,R,1957
+House,Illinois,John,C.,Kluczynski,,D,1957
+House,Illinois,Thomas,J.,O'Brien,,D,1957
+House,Illinois,James,,Bowler,,D,1957
+House,Illinois,Roland,V.,Libonati,,D,1957
+House,Illinois,Thomas,S.,Gordon,,D,1957
+House,Illinois,Sidney,R.,Yates,,D,1957
+House,Illinois,Harold,R.,Collier,,R,1957
+House,Illinois,Timothy,P.,Sheehan,,R,1957
+House,Illinois,Charles,A.,Boyle,,D,1957
+House,Illinois,Marguerite,S.,Church,,R,1957
+House,Illinois,Russell,W.,Keeney,,R,1957
+House,Illinois,Noah,M.,Mason,,R,1957
+House,Illinois,Leo,E.,Allen,,R,1957
+House,Illinois,Leslie,C.,Arends,,R,1957
+House,Illinois,Robert,H.,Michel,,R,1957
+House,Illinois,Robert,B.,Chiperfield,,R,1957
+House,Illinois,Sid,,Simpson,,R,1957
+House,Illinois,Peter,F.,Mack,Jr.,D,1957
+House,Illinois,William,L.,Springer,,R,1957
+House,Illinois,Charles,W.,Vursell,,R,1957
+House,Illinois,Melvin,,Price,,D,1957
+House,Illinois,Kenneth,J.,Gray,,D,1957
+House,Indiana,Ray,,Madden,,D,1957
+House,Indiana,Charles,A.,Halleck,,R,1957
+House,Indiana,F.,Jay,Nimtz,,R,1957
+House,Indiana,E.,Ross,Adair,,R,1957
+House,Indiana,John,V.,Beamer,,R,1957
+House,Indiana,Cecil,M.,Harden,,R,1957
+House,Indiana,William,G.,Bray,,R,1957
+House,Indiana,Winfield,K.,Denton,,D,1957
+House,Indiana,Earl,,Wilson,,R,1957
+House,Indiana,Ralph,,Harvey,,R,1957
+House,Indiana,Charles,B.,Brownson,,R,1957
+House,Iowa,Fred,,Schwengel,,R,1957
+House,Iowa,Henry,O.,Talle,,R,1957
+House,Iowa,H.,R.,Gross,,R,1957
+House,Iowa,Karl,M.,LeCompte,,R,1957
+House,Iowa,Paul,,Cunningham,,R,1957
+House,Iowa,Merwin,,Coad,,D,1957
+House,Iowa,Ben,F.,Jensen,,R,1957
+House,Iowa,Charles,B.,Hoeven,,R,1957
+House,Kansas,William,H.,Avery,,R,1957
+House,Kansas,Errett,P.,Scrivner,,R,1957
+House,Kansas,Myron,V.,George,,R,1957
+House,Kansas,Edward,Herbert,Rees,,R,1957
+House,Kansas,James,Floyd,Breeding,,D,1957
+House,Kansas,Wint,,Smith,,R,1957
+House,Kentucky,Noble,J.,Gregory,,D,1957
+House,Kentucky,William,,Natcher,,D,1957
+House,Kentucky,John,M.,Robsion,Jr.,R,1957
+House,Kentucky,Frank,,Chelf,,D,1957
+House,Kentucky,Brent,,Spence,,D,1957
+House,Kentucky,John,C.,Watts,,D,1957
+House,Kentucky,Carl,D.,Perkins,,D,1957
+House,Kentucky,Eugene,,Siler,,R,1957
+House,Louisiana,F.,Edward,Hébert,,D,1957
+House,Louisiana,Hale,,Boggs,,D,1957
+House,Louisiana,Edwin,E.,Willis,,D,1957
+House,Louisiana,Overton,,Brooks,,D,1957
+House,Louisiana,Otto,,Passman,,D,1957
+House,Louisiana,James,H.,Morrison,,D,1957
+House,Louisiana,T.,Ashton,Thompson,,D,1957
+House,Louisiana,George,S.,Long,,D,1957
+House,Maine,Robert,,Hale,,R,1957
+House,Maine,Frank,M.,Coffin,,D,1957
+House,Maine,Clifford,,McIntire,,R,1957
+House,Maryland,Edward,Tylor,Miller,,R,1957
+House,Maryland,James,,Devereux,,R,1957
+House,Maryland,Edward,,Garmatz,,D,1957
+House,Maryland,George,Hyde,Fallon,,D,1957
+House,Maryland,Richard,,Lankford,,D,1957
+House,Maryland,DeWitt,,Hyde,,R,1957
+House,Maryland,Samuel,,Friedel,,D,1957
+House,Massachusetts,John,W.,Heselton,,R,1957
+House,Massachusetts,Edward,,Boland,,D,1957
+House,Massachusetts,Philip,J.,Philbin,,D,1957
+House,Massachusetts,Harold,,Donohue,,D,1957
+House,Massachusetts,Edith,Nourse,Rogers,,R,1957
+House,Massachusetts,William,H.,Bates,,R,1957
+House,Massachusetts,Thomas,J.,Lane,,D,1957
+House,Massachusetts,Torbert,,Macdonald,,D,1957
+House,Massachusetts,Donald,W.,Nicholson,,R,1957
+House,Massachusetts,Laurence,,Curtis,,R,1957
+House,Massachusetts,Tip,,O'Neill,,D,1957
+House,Massachusetts,John,W.,McCormack,,D,1957
+House,Massachusetts,Richard,B.,Wigglesworth,,R,1957
+House,Massachusetts,Joseph,W.,Martin,Jr.,R,1957
+House,Michigan,Thaddeus,M.,Machrowicz,,D,1957
+House,Michigan,George,,Meader,,R,1957
+House,Michigan,August,E.,Johansen,,R,1957
+House,Michigan,Clare,E.,Hoffman,,R,1957
+House,Michigan,Gerald,,Ford,,R,1957
+House,Michigan,Charles,E.,Chamberlain,,R,1957
+House,Michigan,Robert,J.,McIntosh,,R,1957
+House,Michigan,Alvin,Morell,Bentley,,R,1957
+House,Michigan,Robert,P.,Griffin,,R,1957
+House,Michigan,Elford,Albin,Cederberg,,R,1957
+House,Michigan,Victor,A.,Knox,,R,1957
+House,Michigan,John,B.,Bennett,,R,1957
+House,Michigan,Charles,,Diggs,,D,1957
+House,Michigan,Louis,C.,Rabaut,,D,1957
+House,Michigan,John,D.,Dingell,Jr.,D,1957
+House,Michigan,John,,Lesinski,Jr.,D,1957
+House,Michigan,Martha,,Griffiths,,D,1957
+House,Michigan,William,,Broomfield,,R,1957
+House,Minnesota,August,H.,Andresen,,R,1957
+House,Minnesota,Al,,Quie,,R,1957
+House,Minnesota,Joseph,P.,O'Hara,,R,1957
+House,Minnesota,Roy,,Wier,,DFL,1957
+House,Minnesota,Eugene,,McCarthy,,DFL,1957
+House,Minnesota,Walter,,Judd,,R,1957
+House,Minnesota,Fred,,Marshall,,DFL,1957
+House,Minnesota,Herman,Carl,Andersen,,R,1957
+House,Minnesota,John,,Blatnik,,DFL,1957
+House,Minnesota,Coya,,Knutson,,DFL,1957
+House,Mississippi,Thomas,,Abernethy,,D,1957
+House,Mississippi,Jamie,L.,Whitten,,D,1957
+House,Mississippi,Frank,Ellis,Smith,,D,1957
+House,Mississippi,John,Bell,Williams,,D,1957
+House,Mississippi,W.,Arthur,Winstead,,D,1957
+House,Mississippi,William,M.,Colmer,,D,1957
+House,Missouri,Frank,M.,Karsten,,D,1957
+House,Missouri,Thomas,B.,Curtis,,R,1957
+House,Missouri,Leonor,,Sullivan,,D,1957
+House,Missouri,George,H.,Christopher,,D,1957
+House,Missouri,Richard,Walker,Bolling,,D,1957
+House,Missouri,William,Raleigh,Hull,Jr.,D,1957
+House,Missouri,Charles,Harrison,Brown,,D,1957
+House,Missouri,A.,S. J.,Carnahan,,D,1957
+House,Missouri,Clarence,,Cannon,,D,1957
+House,Missouri,Paul,C.,Jones,,D,1957
+House,Missouri,Morgan,M.,Moulder,,D,1957
+House,Montana,Lee,,Metcalf,,D,1957
+House,Montana,LeRoy,H.,Anderson,,D,1957
+House,Nebraska,Phillip,Hart,Weaver,,R,1957
+House,Nebraska,Glenn,,Cunningham,,R,1957
+House,Nebraska,Robert,Dinsmore,Harrison,,R,1957
+House,Nebraska,Arthur,L.,Miller,,R,1957
+House,Nevada,Walter,S.,Baring,Jr.,D,1957
+House,New Hampshire,Chester,Earl,Merrow,,R,1957
+House,New Hampshire,Perkins,,Bass,,R,1957
+House,New Jersey,Charles,A.,Wolverton,,R,1957
+House,New Jersey,Milton,W.,Glenn,,R,1957
+House,New Jersey,James,C.,Auchincloss,,R,1957
+House,New Jersey,Frank,,Thompson,,D,1957
+House,New Jersey,Peter,,Frelinghuysen,Jr.,R,1957
+House,New Jersey,Florence,P.,Dwyer,,R,1957
+House,New Jersey,William,B.,Widnall,,R,1957
+House,New Jersey,Gordon,,Canfield,,R,1957
+House,New Jersey,Frank,C.,Osmers,Jr.,R,1957
+House,New Jersey,Peter,W.,Rodino,,D,1957
+House,New Jersey,Hugh,Joseph,Addonizio,,D,1957
+House,New Jersey,Robert,,Kean,,R,1957
+House,New Jersey,Alfred,Dennis,Sieminski,,D,1957
+House,New Jersey,Vincent,J.,Dellay,,R,1957
+House,New Mexico,John,J.,Dempsey,,D,1957
+House,New Mexico,Joseph,,Montoya,,D,1957
+House,New York,Stuyvesant,,Wainwright,,R,1957
+House,New York,Steven,,Derounian,,R,1957
+House,New York,Frank,J.,Becker,,R,1957
+House,New York,Henry,J.,Latham,,R,1957
+House,New York,Albert,H.,Bosch,,R,1957
+House,New York,Lester,,Holtzman,,D,1957
+House,New York,James,J.,Delaney,,D,1957
+House,New York,Victor,,Anfuso,,D,1957
+House,New York,Eugene,J.,Keogh,,D,1957
+House,New York,Edna,F.,Kelly,,D,1957
+House,New York,Emanuel,,Celler,,D,1957
+House,New York,Francis,E.,Dorn,,R,1957
+House,New York,Abraham,J.,Multer,,D,1957
+House,New York,John,J.,Rooney,,D,1957
+House,New York,John,H.,Ray,,R,1957
+House,New York,Adam,Clayton,Powell,Jr.,D,1957
+House,New York,Frederic,René,Coudert,Jr.,R,1957
+House,New York,Alfred,E.,Santangelo,,D,1957
+House,New York,Leonard,,Farbstein,,D,1957
+House,New York,Ludwig,,Teller,,D,1957
+House,New York,Herbert,,Zelenko,,D,1957
+House,New York,James,C.,Healey,,D,1957
+House,New York,Isidore,,Dollinger,,D,1957
+House,New York,Charles,A.,Buckley,,D,1957
+House,New York,Paul,A.,Fino,,R,1957
+House,New York,Edwin,B.,Dooley,,R,1957
+House,New York,Ralph,W.,Gwinn,,R,1957
+House,New York,Katharine,St.,George,,R,1957
+House,New York,J.,Ernest,Wharton,,R,1957
+House,New York,Leo,W.,O'Brien,,D,1957
+House,New York,Dean,P.,Taylor,,R,1957
+House,New York,Bernard,W.,Kearney,,R,1957
+House,New York,Clarence,E.,Kilburn,,R,1957
+House,New York,William,R.,Williams,,R,1957
+House,New York,R.,Walter,Riehlman,,R,1957
+House,New York,John,,Taber,,R,1957
+House,New York,W.,Sterling,Cole,,R,1957
+House,New York,Howard,W.,Robison,,R,1957
+House,New York,Kenneth,,Keating,,R,1957
+House,New York,Harold,C.,Ostertag,,R,1957
+House,New York,William,E.,Miller,,R,1957
+House,New York,Edmund,P.,Radwan,,R,1957
+House,New York,John,R.,Pillion,,R,1957
+House,New York,Daniel,A.,Reed,,R,1957
+House,North Carolina,Herbert,Covington,Bonner,,D,1957
+House,North Carolina,Lawrence,H.,Fountain,,D,1957
+House,North Carolina,Graham,A.,Barden,,D,1957
+House,North Carolina,Harold,D.,Cooley,,D,1957
+House,North Carolina,Ralph,James,Scott,,D,1957
+House,North Carolina,Carl,T.,Durham,,D,1957
+House,North Carolina,Alton,,Lennon,,D,1957
+House,North Carolina,Alvin,Paul,Kitchin,,D,1957
+House,North Carolina,Hugh,Quincy,Alexander,,D,1957
+House,North Carolina,Charles,R.,Jonas,,R,1957
+House,North Carolina,Basil,Lee,Whitener,,D,1957
+House,North Carolina,George,A.,Shuford,,D,1957
+House,North Dakota,Otto,,Krueger,,R,1957
+House,North Dakota,Usher,L.,Burdick,,R-NPL,1957
+House,Ohio,Gordon,H.,Scherer,,R,1957
+House,Ohio,William,E.,Hess,,R,1957
+House,Ohio,Paul,F.,Schenck,,R,1957
+House,Ohio,William,Moore,McCulloch,,R,1957
+House,Ohio,Cliff,,Clevenger,,R,1957
+House,Ohio,James,G.,Polk,,D,1957
+House,Ohio,Clarence,J.,Brown,,R,1957
+House,Ohio,Jackson,Edward,Betts,,R,1957
+House,Ohio,Thomas,L.,Ashley,,D,1957
+House,Ohio,Thomas,A.,Jenkins,,R,1957
+House,Ohio,David,S.,Dennison,,R,1957
+House,Ohio,John,M.,Vorys,,R,1957
+House,Ohio,Albert,David,Baumhart,Jr.,R,1957
+House,Ohio,William,Hanes,Ayres,,R,1957
+House,Ohio,John,E.,Henderson,,R,1957
+House,Ohio,Frank,T.,Bow,,R,1957
+House,Ohio,J.,Harry,McGregor,,R,1957
+House,Ohio,Wayne,,Hays,,D,1957
+House,Ohio,Michael,J.,Kirwan,,D,1957
+House,Ohio,Michael,A.,Feighan,,D,1957
+House,Ohio,Charles,,Vanik,,D,1957
+House,Ohio,Frances,P.,Bolton,,R,1957
+House,Ohio,William,Edwin,Minshall,Jr.,R,1957
+House,Oklahoma,Page,,Belcher,,R,1957
+House,Oklahoma,Ed,,Edmondson,,D,1957
+House,Oklahoma,Carl,,Albert,,D,1957
+House,Oklahoma,Tom,,Steed,,D,1957
+House,Oklahoma,John,,Jarman,,D,1957
+House,Oklahoma,Toby,,Morris,,D,1957
+House,Oregon,A.,Walter,Norblad,,R,1957
+House,Oregon,Al,,Ullman,,D,1957
+House,Oregon,Edith,,Green,,D,1957
+House,Oregon,Charles,O.,Porter,,D,1957
+House,Pennsylvania,William,A.,Barrett,,D,1957
+House,Pennsylvania,Kathryn,E.,Granahan,,D,1957
+House,Pennsylvania,James,A.,Byrne,,D,1957
+House,Pennsylvania,Earl,,Chudoff,,D,1957
+House,Pennsylvania,Robert,N. C.,Nix,Sr.,D,1957
+House,Pennsylvania,William,J.,Green,Jr.,D,1957
+House,Pennsylvania,Hugh,,Scott,,R,1957
+House,Pennsylvania,Benjamin,F.,James,,R,1957
+House,Pennsylvania,Willard,S.,Curtin,,R,1957
+House,Pennsylvania,Paul,B.,Dague,,R,1957
+House,Pennsylvania,Joseph,L.,Carrigg,,R,1957
+House,Pennsylvania,Dan,,Flood,,D,1957
+House,Pennsylvania,Ivor,D.,Fenton,,R,1957
+House,Pennsylvania,Samuel,K.,McConnell,Jr.,R,1957
+House,Pennsylvania,John,A.,Lafore,Jr.,R,1957
+House,Pennsylvania,George,M.,Rhodes,,D,1957
+House,Pennsylvania,Francis,E.,Walter,,D,1957
+House,Pennsylvania,Walter,M.,Mumma,,R,1957
+House,Pennsylvania,Alvin,,Bush,,R,1957
+House,Pennsylvania,Richard,M.,Simpson,,R,1957
+House,Pennsylvania,S.,Walter,Stauffer,,R,1957
+House,Pennsylvania,James,E. Van,Zandt,,R,1957
+House,Pennsylvania,Augustine,B.,Kelley,,D,1957
+House,Pennsylvania,John,Herman,Dent,,D,1957
+House,Pennsylvania,John,P.,Saylor,,R,1957
+House,Pennsylvania,Leon,H.,Gavin,,R,1957
+House,Pennsylvania,Carroll,D.,Kearns,,R,1957
+House,Pennsylvania,Frank,M.,Clark,,D,1957
+House,Pennsylvania,Thomas,E.,Morgan,,D,1957
+House,Pennsylvania,James,G.,Fulton,,R,1957
+House,Pennsylvania,Herman,P.,Eberharter,,D,1957
+House,Pennsylvania,Robert,J.,Corbett,,R,1957
+House,Pennsylvania,Elmer,J.,Holland,,D,1957
+House,Rhode Island,Aime,,Forand,,D,1957
+House,Rhode Island,John,E.,Fogarty,,D,1957
+House,South Carolina,L.,Mendel,Rivers,,D,1957
+House,South Carolina,John,J.,Riley,,D,1957
+House,South Carolina,William,Jennings Bryan,Dorn,,D,1957
+House,South Carolina,Robert,T.,Ashmore,,D,1957
+House,South Carolina,Robert,W.,Hemphill,,D,1957
+House,South Carolina,John,L.,McMillan,,D,1957
+House,South Dakota,George,,McGovern,,D,1957
+House,South Dakota,Ellis,Yarnal,Berry,,R,1957
+House,Tennessee,B.,Carroll,Reece,,R,1957
+House,Tennessee,Howard,,Baker,Sr.,R,1957
+House,Tennessee,James,B.,Frazier,Jr.,D,1957
+House,Tennessee,Joe,L.,Evins,,D,1957
+House,Tennessee,Joseph,Carlton,Loser,,D,1957
+House,Tennessee,Ross,,Bass,,D,1957
+House,Tennessee,Tom,J.,Murray,,D,1957
+House,Tennessee,Jere,,Cooper,,D,1957
+House,Tennessee,Fats,,Everett,,D,1957
+House,Tennessee,Clifford,,Davis,,D,1957
+House,Texas,Wright,,Patman,,D,1957
+House,Texas,Jack,,Brooks,,D,1957
+House,Texas,Lindley,,Beckworth,,D,1957
+House,Texas,Sam,,Rayburn,,D,1957
+House,Texas,Bruce,,Alger,,R,1957
+House,Texas,Olin,E.,Teague,,D,1957
+House,Texas,John,,Dowdy,,D,1957
+House,Texas,Albert,,Thomas,,D,1957
+House,Texas,Clark,W.,Thompson,,D,1957
+House,Texas,Homer,,Thornberry,,D,1957
+House,Texas,William,R.,Poage,,D,1957
+House,Texas,Jim,,Wright,,D,1957
+House,Texas,Frank,N.,Ikard,,D,1957
+House,Texas,John,Andrew,Young,,D,1957
+House,Texas,Joe,M.,Kilgore,,D,1957
+House,Texas,J.,T.,Rutherford,,D,1957
+House,Texas,Omar,,Burleson,,D,1957
+House,Texas,Walter,E.,Rogers,,D,1957
+House,Texas,George,H.,Mahon,,D,1957
+House,Texas,Paul,J.,Kilday,,D,1957
+House,Texas,O.,C.,Fisher,,D,1957
+House,Texas,Martin,,Dies,Jr.,D,1957
+House,Utah,Henry,Aldous,Dixon,,R,1957
+House,Utah,William,A.,Dawson,,R,1957
+House,Vermont,Winston,L.,Prouty,,R,1957
+House,Virginia,Edward,J.,Robeson,Jr.,D,1957
+House,Virginia,Porter,,Hardy,Jr.,D,1957
+House,Virginia,J.,Vaughan,Gary,,D,1957
+House,Virginia,Watkins,Moorman,Abbitt,,D,1957
+House,Virginia,William,M.,Tuck,,D,1957
+House,Virginia,Richard,Harding,Poff,,R,1957
+House,Virginia,Burr,,Harrison,,D,1957
+House,Virginia,Howard,W.,Smith,,D,1957
+House,Virginia,W.,Pat,Jennings,,D,1957
+House,Virginia,Joel,,Broyhill,,R,1957
+House,Washington,Thomas,,Pelly,,R,1957
+House,Washington,Jack,,Westland,,R,1957
+House,Washington,Russell,V.,Mack,,R,1957
+House,Washington,Hal,,Holmes,,R,1957
+House,Washington,Walt,,Horan,,R,1957
+House,Washington,Thor,C.,Tollefson,,R,1957
+House,Washington,Donald,H.,Magnuson,,D,1957
+House,West Virginia,Arch,A.,Moore,Jr.,R,1957
+House,West Virginia,Harley,Orrin,Staggers,,D,1957
+House,West Virginia,Cleveland,M.,Bailey,,D,1957
+House,West Virginia,Will,E.,Neal,,R,1957
+House,West Virginia,Elizabeth,,Kee,,D,1957
+House,West Virginia,Robert,,Byrd,,D,1957
+House,Wisconsin,Lawrence,H.,Smith,,R,1957
+House,Wisconsin,Donald,Edgar,Tewes,,R,1957
+House,Wisconsin,Gardner,R.,Withrow,,R,1957
+House,Wisconsin,Clement,J.,Zablocki,,D,1957
+House,Wisconsin,Henry,S.,Reuss,,D,1957
+House,Wisconsin,William,Van,Pelt,,R,1957
+House,Wisconsin,Melvin,,Laird,,R,1957
+House,Wisconsin,John,W.,Byrnes,,R,1957
+House,Wisconsin,Lester,,Johnson,,D,1957
+House,Wisconsin,Alvin,,O'Konski,,R,1957
+House,Wyoming,Edwin,Keith,Thomson,,R,1957
